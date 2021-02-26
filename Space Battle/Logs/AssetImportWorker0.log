@@ -1,0 +1,142 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space Battle
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50442
+Successfully changed project path to: /Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space Battle
+/Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space Battle
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 19.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.4f1 (becced5a802b)
+[Subsystems] Discovering subsystems at path /Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space Battle/Assets
+GfxDevice: creating device client; threaded=0
+2021-02-26 09:06:45.624 Unity[1118:25594] Color LCD preferred device: AMD Radeon Pro 5500M (high power)
+2021-02-26 09:06:45.625 Unity[1118:25594] Metal devices available: 2
+2021-02-26 09:06:45.625 Unity[1118:25594] 0: AMD Radeon Pro 5500M (high power)
+2021-02-26 09:06:45.625 Unity[1118:25594] 1: Intel(R) UHD Graphics 630 (low power)
+2021-02-26 09:06:45.625 Unity[1118:25594] Using device AMD Radeon Pro 5500M (high power)
+Initializing Metal device caps: AMD Radeon Pro 5500M
+Initialize mono
+Mono path[0] = '/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56118
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001414 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 19.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.946 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000457 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.845 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1080 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 109.4 MB.
+System memory in use after: 109.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1522.
+Total: 2.163568 ms (FindLiveObjects: 0.194199 ms CreateObjectMapping: 0.059249 ms MarkObjects: 1.840301 ms  DeleteObjects: 0.068573 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Models/Asteroids/_2.obj
+  artifactKey: Guid(012bafd351a7a414ea42fac9f7d1029c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Asteroids/_2.obj using Guid(012bafd351a7a414ea42fac9f7d1029c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d20660802d4763ca76b07014b2e47c9') in 0.445009 seconds
+  Import took 0.447399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Models/Asteroids
+  artifactKey: Guid(7b09e58e0472049b0b44bf47ba661c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Asteroids using Guid(7b09e58e0472049b0b44bf47ba661c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '028ec6ed8ab829e469d91599582584d0') in 0.001098 seconds
+  Import took 0.002490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.909282 seconds.
+  path: Assets/Models/Humpback_Whale_v1_L1.123cdd432a85-3ad8-444c-ad70-8659dca0819d
+  artifactKey: Guid(a8bfeb9403ad74618b8590a27b78af6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Humpback_Whale_v1_L1.123cdd432a85-3ad8-444c-ad70-8659dca0819d using Guid(a8bfeb9403ad74618b8590a27b78af6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2fcc485af563bd0a40ff16660cbb70f') in 0.001187 seconds
+  Import took 0.003419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.075300 seconds.
+  path: Assets/Models/Humpback_Whale_v1_L1.123cdd432a85-3ad8-444c-ad70-8659dca0819d/20435_Humpback_Whale_v1.obj
+  artifactKey: Guid(d1bebe8fbaa534b45b30e65bcd497b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Humpback_Whale_v1_L1.123cdd432a85-3ad8-444c-ad70-8659dca0819d/20435_Humpback_Whale_v1.obj using Guid(d1bebe8fbaa534b45b30e65bcd497b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f92ef588d7d06d7c0f90abb94fba6e09') in 0.023250 seconds
+  Import took 0.025122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.462003 seconds.
+  path: Assets/Models/Humpback_Whale_v1_L1.123cdd432a85-3ad8-444c-ad70-8659dca0819d/Blank image.jpg
+  artifactKey: Guid(470a29cd0b42545c5befd9042880c219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Humpback_Whale_v1_L1.123cdd432a85-3ad8-444c-ad70-8659dca0819d/Blank image.jpg using Guid(470a29cd0b42545c5befd9042880c219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f1060ed676241251cff890a953585c3') in 0.651109 seconds
+  Import took 0.652975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.760281 seconds.
+  path: Assets/Models/Humpback_Whale_v1_L1.123cdd432a85-3ad8-444c-ad70-8659dca0819d/Blank.mtl
+  artifactKey: Guid(e053a6c3d3c65478faac1a1658f887b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Humpback_Whale_v1_L1.123cdd432a85-3ad8-444c-ad70-8659dca0819d/Blank.mtl using Guid(e053a6c3d3c65478faac1a1658f887b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bc725358333271e75fa434e1669e10a') in 0.313224 seconds
+  Import took 0.315419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.226102 seconds.
+  path: Assets/Models/Whale.mat
+  artifactKey: Guid(a2e1dd251775f4c88ba740d43b1eeb89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Whale.mat using Guid(a2e1dd251775f4c88ba740d43b1eeb89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '371d773cbf259e22353c78bdfe7eb642') in 1.044913 seconds
+  Import took 1.046744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.753560 seconds.
+  path: Assets/Models/Whale.mat
+  artifactKey: Guid(a2e1dd251775f4c88ba740d43b1eeb89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Whale.mat using Guid(a2e1dd251775f4c88ba740d43b1eeb89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd28150a68787f150c93c7bd7d6bb51e0') in 0.012138 seconds
+  Import took 0.014051 seconds .
+
