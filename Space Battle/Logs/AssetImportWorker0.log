@@ -142,3 +142,36 @@ System memory in use after: 118.7 MB.
 Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1571.
 Total: 1.480011 ms (FindLiveObjects: 0.141077 ms CreateObjectMapping: 0.033475 ms MarkObjects: 1.289998 ms  DeleteObjects: 0.013941 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000478 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.150 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.16 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1076 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 118.8 MB.
+System memory in use after: 118.9 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1573.
+Total: 1.595306 ms (FindLiveObjects: 0.186786 ms CreateObjectMapping: 0.036202 ms MarkObjects: 1.350031 ms  DeleteObjects: 0.020659 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1097.095635 seconds.
+  path: Assets/Scripts/Pathfollowing.cs
+  artifactKey: Guid(4eef42b69aa964a54b16af45f8ac79a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Pathfollowing.cs using Guid(4eef42b69aa964a54b16af45f8ac79a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c14539fefd720a29652781c495ee068') in 0.305371 seconds
+  Import took 0.307353 seconds .
+
