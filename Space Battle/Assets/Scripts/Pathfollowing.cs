@@ -53,13 +53,13 @@ public class Pathfollowing : MonoBehaviour
 
     public void OnDrawGizmos()
     {
-        Gizmos.color = Color.magenta;
+        Gizmos.color = Color.black;
         Gizmos.DrawLine(transform.position, transform.position + velocity);
 
-        Gizmos.color = Color.blue;
+        Gizmos.color = Color.green;
         Gizmos.DrawLine(transform.position, transform.position + acceleration);
 
-        Gizmos.color = Color.red;
+        Gizmos.color = Color.green;
         Gizmos.DrawLine(transform.position, transform.position + force * 10);
 
         if (arriveEnabled)
