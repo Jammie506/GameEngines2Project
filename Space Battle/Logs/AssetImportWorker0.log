@@ -175,3 +175,61 @@ Received Import Request.
 Start importing Assets/Scripts/Pathfollowing.cs using Guid(4eef42b69aa964a54b16af45f8ac79a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c14539fefd720a29652781c495ee068') in 0.305371 seconds
   Import took 0.307353 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000532 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.800 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1076 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.2 MB.
+System memory in use after: 123.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1575.
+Total: 1.368911 ms (FindLiveObjects: 0.124882 ms CreateObjectMapping: 0.030585 ms MarkObjects: 1.201878 ms  DeleteObjects: 0.010685 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 556.030367 seconds.
+  path: Assets/Models/TIE Fighter/starwars-tie-fighter.fbx
+  artifactKey: Guid(e13479250b0d74dc48ba0a38c5fffc35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/TIE Fighter/starwars-tie-fighter.fbx using Guid(e13479250b0d74dc48ba0a38c5fffc35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae9e0a895a91c8ac30a56ab5766d95b0') in 0.569927 seconds
+  Import took 0.572534 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000408 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.947 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1076 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.5 MB.
+System memory in use after: 125.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1578.
+Total: 1.617062 ms (FindLiveObjects: 0.144776 ms CreateObjectMapping: 0.036282 ms MarkObjects: 1.421210 ms  DeleteObjects: 0.013846 ms)
+

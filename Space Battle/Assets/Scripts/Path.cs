@@ -4,15 +4,16 @@ using UnityEngine;
 
 public class Path : MonoBehaviour
 {
-    public List<Vector3> waypoints = new List<Vector3>();
+    [SerializeField] List<Vector3> waypoints = new List<Vector3>();
 
-    public int next = 0;
-    public bool looped = true;
+    [SerializeField] int next = 0;
+    [SerializeField] public bool looped = true;
 
     public void OnDrawGizmos()
     {
         int count = looped ? (transform.childCount + 1) : transform.childCount;
-        Gizmos.color = Color.cyan;
+        Gizmos.color = Color.red;
+        
         for (int i = 1; i < count; i++)
         {
             Transform prev = transform.GetChild(i - 1);
@@ -23,19 +24,14 @@ public class Path : MonoBehaviour
         }
     }
 
-    // Use this for initialization
     void Start () {
         waypoints.Clear();
         int count = transform.childCount;
+        
         for (int i = 0; i < count; i++)
         {
             waypoints.Add(transform.GetChild(i).position);
         }
-    }
-	
-    // Update is called once per frame
-    void Update () {
-		
     }
 
     public Vector3 NextWaypoint()
