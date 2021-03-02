@@ -4,40 +4,40 @@ using UnityEngine;
 
 public class Pathfollowing : MonoBehaviour
 {
-    public Vector3 velocity;
-    public float speed;
-    public Vector3 acceleration;
-    public Vector3 force;
-    public float maxSpeed = 5;
-    public float maxForce = 10;
+    [SerializeField] Vector3 velocity;
+    [SerializeField] float speed;
+    [SerializeField] Vector3 acceleration;
+    [SerializeField] Vector3 force;
+    [SerializeField] float maxSpeed = 5;
+    [SerializeField] float maxForce = 10;
 
-    public float mass = 1;
+    [SerializeField] float mass = 1;
 
-    public bool seekEnabled = true;
-    public Transform seekTargetTransform;
-    public Vector3 seekTarget;
+    [SerializeField] bool seekEnabled = true;
+    [SerializeField] Transform seekTargetTransform;
+    [SerializeField] Vector3 seekTarget;
 
-    public bool arriveEnabled = false;
-    public Transform arriveTargetTransform;
-    public Vector3 arriveTarget;
-    public float slowingDistance = 80;
+    [SerializeField] bool arriveEnabled = false;
+    [SerializeField] Transform arriveTargetTransform;
+    [SerializeField] Vector3 arriveTarget;
+    [SerializeField] float slowingDistance = 80;
 
-    public Path path;
-    public bool pathFollowingEnabled = false;
-    public float waypointDistance = 3;
+    [SerializeField] Path path;
+    [SerializeField] bool pathFollowingEnabled = false;
+    [SerializeField] float waypointDistance = 3;
 
     // Banking
-    public float banking = 0.1f; 
+    [SerializeField] float banking = 0.1f; 
 
-    public float damping = 0.1f;
+    [SerializeField] float damping = 0.1f;
 
-    public bool playerSteeringEnabled = false;
-    public float steeringForce = 100;
+    [SerializeField] bool playerSteeringEnabled = false;
+    [SerializeField] float steeringForce = 100;
 
-    public bool pursueEnabled = false;
-    public Pathfollowing pursueTarget;
+    [SerializeField] bool pursueEnabled = false;
+    [SerializeField] Pathfollowing pursueTarget;
 
-    public Vector3 pursueTargetPos;
+    [SerializeField] Vector3 pursueTargetPos;
 
     public Vector3 Pursue(Pathfollowing pursueTarget)
     {
@@ -74,12 +74,6 @@ public class Pathfollowing : MonoBehaviour
             Gizmos.DrawLine(transform.position, pursueTargetPos);
         }
 
-    }
-
-    // Start is called before the first frame update
-    void Start()
-    {
-        
     }
 
     public Vector3 PlayerSteering()
@@ -158,12 +152,10 @@ public class Pathfollowing : MonoBehaviour
         {
             f += PathFollow();
         }
-
         if (playerSteeringEnabled)
         {
             f += PlayerSteering();
         }
-
         if (pursueEnabled)
         {
             f += Pursue(pursueTarget);
@@ -172,7 +164,6 @@ public class Pathfollowing : MonoBehaviour
         return f;
     }
 
-    // Update is called once per frame
     void Update()
     {
         force = CalculateForce();
@@ -182,13 +173,8 @@ public class Pathfollowing : MonoBehaviour
         speed = velocity.magnitude;
         if (speed > 0)
         {
-            //transform.forward = velocity;
-
             Vector3 tempUp = Vector3.Lerp(transform.up, Vector3.up + (acceleration * banking), Time.deltaTime * 3.0f);
             transform.LookAt(transform.position + velocity, tempUp);
-            //velocity *= 0.9f;
-
-            // Remove 10% of the velocity every second
             velocity -= (damping * velocity * Time.deltaTime);
         }        
     }
