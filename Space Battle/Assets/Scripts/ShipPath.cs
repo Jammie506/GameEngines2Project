@@ -18,29 +18,6 @@ public class ShipPath : MainBrain {
 
     [SerializeField] private float rayRange = 2;
 
-    void Update()
-    {
-        var deltaPosition = Vector3.zero;
-
-        for (int i = 0; i < numberOfRays; i++)
-        {
-            var rotation = this.transform.rotation;
-            var rotationMod =
-                Quaternion.AngleAxis((i / ((float) numberOfRays - 1)) * angle * 2 - angle, this.transform.up);
-            var direction = rotation * rotationMod * transform.forward;
-
-            var ray = new Ray(this.transform.position, direction);
-            RaycastHit hitInfo;
-            if (Physics.Raycast(ray, out hitInfo, rayRange))
-            {
-                deltaPosition -= (1.0f / numberOfRays) * targetVelocity * direction;
-            }
-            else
-            {
-                deltaPosition += (1.0f / numberOfRays) * targetVelocity * direction;
-            }
-        }
-    }
     public void OnDrawGizmos()
     {
         if (isActiveAndEnabled && Application.isPlaying)
@@ -49,15 +26,6 @@ public class ShipPath : MainBrain {
             Gizmos.DrawLine(transform.position, nextWaypoint);
         }
         
-        for (int i = 0; i < numberOfRays; i++)
-        {
-            var rotation = this.transform.rotation;
-            var rotationMod =
-                Quaternion.AngleAxis((i / ((float) numberOfRays - 1)) * angle * 2 - angle, this.transform.up);
-            var direction = rotation * rotationMod * transform.forward;
-            
-            Gizmos.DrawRay(this.transform.position, direction);
-        }
     }
     
     public override Vector3 Calculate()
