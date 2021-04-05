@@ -34,7 +34,7 @@ public class TempAvoidance : MonoBehaviour
             }
         }
 
-        this.transform.position += deltaPosition * Time.deltaTime;
+        //this.transform.position += deltaPosition * Time.deltaTime;
     }
 
     private void OnDrawGizmos()
