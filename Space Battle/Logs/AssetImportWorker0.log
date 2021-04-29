@@ -207,3 +207,220 @@ Received Import Request.
 Start importing Assets/Prefabs/Space Rock 3.prefab using Guid(919b6e09f37cc4c5883d3b361c704ab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b92a3e3bca4fa62903a01350f00a19b4') in 0.076993 seconds
   Import took 0.079869 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000636 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.831 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1089 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.7 MB.
+System memory in use after: 128.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1554.
+Total: 1.449810 ms (FindLiveObjects: 0.136248 ms CreateObjectMapping: 0.031919 ms MarkObjects: 1.268913 ms  DeleteObjects: 0.011948 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 567.020769 seconds.
+  path: Assets/Prefabs/Purrgil Variant.prefab
+  artifactKey: Guid(60ef0d59ff29545878e1c62e8b08069d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Purrgil Variant.prefab using Guid(60ef0d59ff29545878e1c62e8b08069d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9841acaf5601388a1e9ed8541da1a7ae') in 0.237132 seconds
+  Import took 0.239330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Prefabs/Purrgil Pod.prefab
+  artifactKey: Guid(5689f214c5536457cada7000ef556d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Purrgil Pod.prefab using Guid(5689f214c5536457cada7000ef556d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b820c96ec047a1abfacd65119b055c6b') in 0.013591 seconds
+  Import took 0.015820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.153408 seconds.
+  path: Assets/Prefabs/Purrgil Variant.prefab
+  artifactKey: Guid(60ef0d59ff29545878e1c62e8b08069d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Purrgil Variant.prefab using Guid(60ef0d59ff29545878e1c62e8b08069d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ac355e10a61c9b58734a62312921f03') in 0.012090 seconds
+  Import took 0.014118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.504158 seconds.
+  path: Assets/Prefabs/Purrgil Pod.prefab
+  artifactKey: Guid(5689f214c5536457cada7000ef556d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Purrgil Pod.prefab using Guid(5689f214c5536457cada7000ef556d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b95b93478fcc7cf5e4d4e82034a1d123') in 0.076711 seconds
+  Import took 0.079523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.271249 seconds.
+  path: Assets/Prefabs/Purrgil Variant.prefab
+  artifactKey: Guid(60ef0d59ff29545878e1c62e8b08069d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Purrgil Variant.prefab using Guid(60ef0d59ff29545878e1c62e8b08069d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7620f4f984eec077f5e52fd2dc9c8bcb') in 0.011900 seconds
+  Import took 0.014004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012851 seconds.
+  path: Assets/Prefabs/Purrgil Pod.prefab
+  artifactKey: Guid(5689f214c5536457cada7000ef556d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Purrgil Pod.prefab using Guid(5689f214c5536457cada7000ef556d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81768565f5221183ca964398ed03b72f') in 0.013942 seconds
+  Import took 0.016326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.485565 seconds.
+  path: Assets/Prefabs/Purrgil Pod.prefab
+  artifactKey: Guid(5689f214c5536457cada7000ef556d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Purrgil Pod.prefab using Guid(5689f214c5536457cada7000ef556d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aeec09209eb1f1bcb3542d0c060eb6d0') in 0.014165 seconds
+  Import took 0.016688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.662664 seconds.
+  path: Assets/Prefabs/Purrgil Pod.prefab
+  artifactKey: Guid(5689f214c5536457cada7000ef556d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Purrgil Pod.prefab using Guid(5689f214c5536457cada7000ef556d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf0224beccbe0052cd6850ed2c17aa35') in 0.014350 seconds
+  Import took 0.017316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.078135 seconds.
+  path: Assets/Prefabs/LEADER TIE Fighter.prefab
+  artifactKey: Guid(363cdaa1fa88d4a138a028c5184e6de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LEADER TIE Fighter.prefab using Guid(363cdaa1fa88d4a138a028c5184e6de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cff06c7f1877683e408424c0139f0aa') in 0.129108 seconds
+  Import took 0.131499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Prefabs/TIE Squad.prefab
+  artifactKey: Guid(b5d1acf18bd6f41a28766ee149d744d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/TIE Squad.prefab using Guid(b5d1acf18bd6f41a28766ee149d744d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '790020bbb95ab98f6a18592cedb55bf6') in 0.025950 seconds
+  Import took 0.028554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.978559 seconds.
+  path: Assets/Prefabs/LEADER TIE Fighter.prefab
+  artifactKey: Guid(363cdaa1fa88d4a138a028c5184e6de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LEADER TIE Fighter.prefab using Guid(363cdaa1fa88d4a138a028c5184e6de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f8cbae4ea6e3fdc5326e89ee972423d') in 0.022992 seconds
+  Import took 0.025355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016603 seconds.
+  path: Assets/Prefabs/LEADER TIE Fighter.prefab
+  artifactKey: Guid(363cdaa1fa88d4a138a028c5184e6de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LEADER TIE Fighter.prefab using Guid(363cdaa1fa88d4a138a028c5184e6de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f8cbae4ea6e3fdc5326e89ee972423d') in 0.022911 seconds
+  Import took 0.025563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Prefabs/TIE Squad.prefab
+  artifactKey: Guid(b5d1acf18bd6f41a28766ee149d744d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/TIE Squad.prefab using Guid(b5d1acf18bd6f41a28766ee149d744d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd378ad98badd54c92521043a4384aba') in 0.025997 seconds
+  Import took 0.028714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.147789 seconds.
+  path: Assets/Prefabs/TIE Fighter.prefab
+  artifactKey: Guid(e0c73633e8ace45d499219403076e933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/TIE Fighter.prefab using Guid(e0c73633e8ace45d499219403076e933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c8a9b35ab1548872e718025c91f4de4') in 0.041489 seconds
+  Import took 0.044229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Prefabs/TIE Squad.prefab
+  artifactKey: Guid(b5d1acf18bd6f41a28766ee149d744d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/TIE Squad.prefab using Guid(b5d1acf18bd6f41a28766ee149d744d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a25044eb073257acc725f570533c1aa') in 0.025249 seconds
+  Import took 0.028173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.429454 seconds.
+  path: Assets/Prefabs/TIE Fighter.prefab
+  artifactKey: Guid(e0c73633e8ace45d499219403076e933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/TIE Fighter.prefab using Guid(e0c73633e8ace45d499219403076e933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c967c9fb211384c279588a99c98c5656') in 0.041746 seconds
+  Import took 0.044436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Prefabs/TIE Squad.prefab
+  artifactKey: Guid(b5d1acf18bd6f41a28766ee149d744d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/TIE Squad.prefab using Guid(b5d1acf18bd6f41a28766ee149d744d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb50a228c0e27f923310ae8d597cd2fe') in 0.028921 seconds
+  Import took 0.031864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.568590 seconds.
+  path: Assets/Prefabs/TIE Squad.prefab
+  artifactKey: Guid(b5d1acf18bd6f41a28766ee149d744d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/TIE Squad.prefab using Guid(b5d1acf18bd6f41a28766ee149d744d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83c3a495b80d632d8fd1615b79083d57') in 0.026796 seconds
+  Import took 0.029706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.713780 seconds.
+  path: Assets/Prefabs/TIE Squad.prefab
+  artifactKey: Guid(b5d1acf18bd6f41a28766ee149d744d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/TIE Squad.prefab using Guid(b5d1acf18bd6f41a28766ee149d744d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0015ad747af7db74b6c8c0dff6e5eb21') in 0.028039 seconds
+  Import took 0.031038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.938372 seconds.
+  path: Assets/Prefabs/X-Wing.prefab
+  artifactKey: Guid(64858a0af3e7b4464998dcad882b446e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/X-Wing.prefab using Guid(64858a0af3e7b4464998dcad882b446e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91808ed27b4f9f0214df3b01544ff3e3') in 0.054049 seconds
+  Import took 0.056072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.406628 seconds.
+  path: Assets/Prefabs/X-Wing.prefab
+  artifactKey: Guid(64858a0af3e7b4464998dcad882b446e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/X-Wing.prefab using Guid(64858a0af3e7b4464998dcad882b446e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbd38306b48a12d821725e48c9109da7') in 0.023718 seconds
+  Import took 0.025801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017504 seconds.
+  path: Assets/Prefabs/X-Wing.prefab
+  artifactKey: Guid(64858a0af3e7b4464998dcad882b446e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/X-Wing.prefab using Guid(64858a0af3e7b4464998dcad882b446e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbd38306b48a12d821725e48c9109da7') in 0.020241 seconds
+  Import took 0.022581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.850041 seconds.
+  path: Assets/Prefabs/Purrgil Variant.prefab
+  artifactKey: Guid(60ef0d59ff29545878e1c62e8b08069d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Purrgil Variant.prefab using Guid(60ef0d59ff29545878e1c62e8b08069d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f77e039cdac10f24a36d0832b0a84fc2') in 0.010548 seconds
+  Import took 0.012729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031574 seconds.
+  path: Assets/Prefabs/Purrgil Pod.prefab
+  artifactKey: Guid(5689f214c5536457cada7000ef556d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Purrgil Pod.prefab using Guid(5689f214c5536457cada7000ef556d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8099b39a8877da1920d62fcbb803cbe') in 0.013740 seconds
+  Import took 0.016092 seconds .
+
