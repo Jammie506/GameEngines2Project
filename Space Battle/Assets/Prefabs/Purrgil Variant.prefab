@@ -1,30 +1,5 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-2646818634026751335
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7738928102792721491}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c42415ddbc78040eb92fee768c2bbf87, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  weight: 1
-  force: {x: 0, y: 0, z: 0}
-  ShipMain: {fileID: 0}
-  scale: 4
-  forwardFeelerDepth: 15
-  sideFeelerDepth: 15
-  frontFeelerUpdatesPerSecond: 10
-  sideFeelerUpdatesPerSecond: 5
-  feelerRadius: 2
-  forceType: 0
-  mask:
-    serializedVersion: 2
-    m_Bits: 4294967295
 --- !u!114 &1810839984
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -98,7 +73,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 253042826337801733, guid: 37138cd1051154ba28891e2936c13d76, type: 3}
       propertyPath: m_Name
-      value: Purrgil Variant
+      value: Purrgil
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 37138cd1051154ba28891e2936c13d76, type: 3}
