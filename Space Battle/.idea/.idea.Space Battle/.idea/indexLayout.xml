@@ -5,9 +5,13 @@
       <Path>../../GameEngines2</Path>
     </attachedFolders>
     <explicitIncludes>
+<<<<<<< HEAD
       <Path>Library/PackageCache/com.havok.physics@0.4.1-preview.2</Path>
       <Path>Library/PackageCache/com.havok.physics@0.6.0-preview.3</Path>
       <Path>Library/PackageCache/com.unity.burst@1.5.3</Path>
+=======
+      <Path>Library/PackageCache/com.unity.burst@1.4.1</Path>
+>>>>>>> parent of d940237c (Hybrid Renderer)
       <Path>Library/PackageCache/com.unity.collab-proxy@1.3.9</Path>
       <Path>Library/PackageCache/com.unity.collections@0.15.0-preview.21</Path>
       <Path>Library/PackageCache/com.unity.entities@0.17.0-preview.41</Path>
@@ -19,8 +23,11 @@
       <Path>Library/PackageCache/com.unity.mathematics@1.2.1</Path>
       <Path>Library/PackageCache/com.unity.nuget.mono-cecil@0.1.6-preview.2</Path>
       <Path>Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0-preview</Path>
+<<<<<<< HEAD
       <Path>Library/PackageCache/com.unity.physics@0.5.1-preview.2</Path>
       <Path>Library/PackageCache/com.unity.physics@0.6.0-preview.3</Path>
+=======
+>>>>>>> parent of d940237c (Hybrid Renderer)
       <Path>Library/PackageCache/com.unity.platforms@0.10.0-preview.10</Path>
       <Path>Library/PackageCache/com.unity.properties.ui@1.6.2-preview.1</Path>
       <Path>Library/PackageCache/com.unity.properties@1.6.0-preview</Path>
