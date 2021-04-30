@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637553898260000000
-    m_Hash: 1107703873
+      ticks: 637553902330000000
+    m_Hash: 2549760467
   m_LockFileStatus:
     m_FilePath: /Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space Battle/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637553898270000000
-    m_Hash: 833738212
+      ticks: 637553902350000000
+    m_Hash: 2274735297
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -464,6 +464,152 @@ m_PackageAssets:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
         revision: fa825106f349f996acff22f718845eab46ca2d7c
+        path: 
+    - packageId: com.unity.collections@0.15.0-preview.21
+      testable: 0
+      isDirectDependency: 1
+      version: 0.15.0-preview.21
+      source: 1
+      resolvedPath: /Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space
+        Battle/Library/PackageCache/com.unity.collections@0.15.0-preview.21
+      assetPath: Packages/com.unity.collections
+      name: com.unity.collections
+      displayName: Collections
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: A C# collections library providing data structures that can be
+        used in jobs, and optimized by Burst compiler.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.0.9-preview.1
+        - 0.0.9-preview.2
+        - 0.0.9-preview.3
+        - 0.0.9-preview.4
+        - 0.0.9-preview.5
+        - 0.0.9-preview.6
+        - 0.0.9-preview.7
+        - 0.0.9-preview.8
+        - 0.0.9-preview.9
+        - 0.0.9-preview.10
+        - 0.0.9-preview.11
+        - 0.0.9-preview.12
+        - 0.0.9-preview.13
+        - 0.0.9-preview.14
+        - 0.0.9-preview.15
+        - 0.0.9-preview.16
+        - 0.0.9-preview.17
+        - 0.0.9-preview.18
+        - 0.0.9-preview.19
+        - 0.0.9-preview.20
+        - 0.1.0-preview
+        - 0.1.1-preview
+        - 0.2.0-preview.13
+        - 0.3.0-preview.0
+        - 0.4.0-preview.6
+        - 0.5.0-preview.9
+        - 0.5.1-preview.11
+        - 0.5.2-preview.8
+        - 0.6.0-preview.9
+        - 0.7.0-preview.2
+        - 0.7.1-preview.3
+        - 0.8.0-preview.5
+        - 0.9.0-preview.5
+        - 0.9.0-preview.6
+        - 0.11.0-preview.17
+        - 0.12.0-preview.13
+        - 0.14.0-preview.16
+        - 0.15.0-preview.21
+        compatible:
+        - 0.0.9-preview.1
+        - 0.0.9-preview.2
+        - 0.0.9-preview.3
+        - 0.0.9-preview.4
+        - 0.0.9-preview.5
+        - 0.0.9-preview.6
+        - 0.0.9-preview.7
+        - 0.0.9-preview.8
+        - 0.0.9-preview.9
+        - 0.0.9-preview.10
+        - 0.0.9-preview.11
+        - 0.0.9-preview.12
+        - 0.0.9-preview.13
+        - 0.0.9-preview.14
+        - 0.0.9-preview.15
+        - 0.0.9-preview.16
+        - 0.0.9-preview.17
+        - 0.0.9-preview.18
+        - 0.0.9-preview.19
+        - 0.0.9-preview.20
+        - 0.1.0-preview
+        - 0.1.1-preview
+        - 0.2.0-preview.13
+        - 0.3.0-preview.0
+        - 0.4.0-preview.6
+        - 0.5.0-preview.9
+        - 0.5.1-preview.11
+        - 0.5.2-preview.8
+        - 0.6.0-preview.9
+        - 0.7.0-preview.2
+        - 0.7.1-preview.3
+        - 0.8.0-preview.5
+        - 0.9.0-preview.5
+        - 0.9.0-preview.6
+        - 0.11.0-preview.17
+        - 0.12.0-preview.13
+        - 0.14.0-preview.16
+        - 0.15.0-preview.21
+        verified: 
+      dependencies:
+      - name: com.unity.test-framework.performance
+        version: 2.3.1-preview
+      - name: com.unity.burst
+        version: 1.4.1
+      resolvedDependencies:
+      - name: com.unity.test-framework.performance
+        version: 2.3.1-preview
+      - name: com.unity.test-framework
+        version: 1.1.20
+      - name: com.unity.ext.nunit
+        version: 1.0.6
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      - name: com.unity.nuget.newtonsoft-json
+        version: 2.0.0-preview
+      - name: com.unity.burst
+        version: 1.5.3
+      - name: com.unity.mathematics
+        version: 1.2.1
+      keywords:
+      - dots
+      - collections
+      - unity
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637469313670000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git+https://github.com/Unity-Technologies/dots.git
+        revision: 8bc56fa514dccfdf40ccdf6e36e446b9bcbd9bae
         path: 
     - packageId: com.unity.entities@0.17.0-preview.41
       testable: 0
@@ -3515,152 +3661,6 @@ m_PackageAssets:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ext.nunit.git
         revision: 29ea4d6504a5f58fb3a6934db839aa80ae6d9d88
-        path: 
-    - packageId: com.unity.collections@0.15.0-preview.21
-      testable: 0
-      isDirectDependency: 0
-      version: 0.15.0-preview.21
-      source: 1
-      resolvedPath: /Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space
-        Battle/Library/PackageCache/com.unity.collections@0.15.0-preview.21
-      assetPath: Packages/com.unity.collections
-      name: com.unity.collections
-      displayName: Collections
-      author:
-        name: 
-        email: 
-        url: 
-      category: 
-      type: 
-      description: A C# collections library providing data structures that can be
-        used in jobs, and optimized by Burst compiler.
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 0.0.9-preview.1
-        - 0.0.9-preview.2
-        - 0.0.9-preview.3
-        - 0.0.9-preview.4
-        - 0.0.9-preview.5
-        - 0.0.9-preview.6
-        - 0.0.9-preview.7
-        - 0.0.9-preview.8
-        - 0.0.9-preview.9
-        - 0.0.9-preview.10
-        - 0.0.9-preview.11
-        - 0.0.9-preview.12
-        - 0.0.9-preview.13
-        - 0.0.9-preview.14
-        - 0.0.9-preview.15
-        - 0.0.9-preview.16
-        - 0.0.9-preview.17
-        - 0.0.9-preview.18
-        - 0.0.9-preview.19
-        - 0.0.9-preview.20
-        - 0.1.0-preview
-        - 0.1.1-preview
-        - 0.2.0-preview.13
-        - 0.3.0-preview.0
-        - 0.4.0-preview.6
-        - 0.5.0-preview.9
-        - 0.5.1-preview.11
-        - 0.5.2-preview.8
-        - 0.6.0-preview.9
-        - 0.7.0-preview.2
-        - 0.7.1-preview.3
-        - 0.8.0-preview.5
-        - 0.9.0-preview.5
-        - 0.9.0-preview.6
-        - 0.11.0-preview.17
-        - 0.12.0-preview.13
-        - 0.14.0-preview.16
-        - 0.15.0-preview.21
-        compatible:
-        - 0.0.9-preview.1
-        - 0.0.9-preview.2
-        - 0.0.9-preview.3
-        - 0.0.9-preview.4
-        - 0.0.9-preview.5
-        - 0.0.9-preview.6
-        - 0.0.9-preview.7
-        - 0.0.9-preview.8
-        - 0.0.9-preview.9
-        - 0.0.9-preview.10
-        - 0.0.9-preview.11
-        - 0.0.9-preview.12
-        - 0.0.9-preview.13
-        - 0.0.9-preview.14
-        - 0.0.9-preview.15
-        - 0.0.9-preview.16
-        - 0.0.9-preview.17
-        - 0.0.9-preview.18
-        - 0.0.9-preview.19
-        - 0.0.9-preview.20
-        - 0.1.0-preview
-        - 0.1.1-preview
-        - 0.2.0-preview.13
-        - 0.3.0-preview.0
-        - 0.4.0-preview.6
-        - 0.5.0-preview.9
-        - 0.5.1-preview.11
-        - 0.5.2-preview.8
-        - 0.6.0-preview.9
-        - 0.7.0-preview.2
-        - 0.7.1-preview.3
-        - 0.8.0-preview.5
-        - 0.9.0-preview.5
-        - 0.9.0-preview.6
-        - 0.11.0-preview.17
-        - 0.12.0-preview.13
-        - 0.14.0-preview.16
-        - 0.15.0-preview.21
-        verified: 
-      dependencies:
-      - name: com.unity.test-framework.performance
-        version: 2.3.1-preview
-      - name: com.unity.burst
-        version: 1.4.1
-      resolvedDependencies:
-      - name: com.unity.test-framework.performance
-        version: 2.3.1-preview
-      - name: com.unity.test-framework
-        version: 1.1.20
-      - name: com.unity.ext.nunit
-        version: 1.0.6
-      - name: com.unity.modules.imgui
-        version: 1.0.0
-      - name: com.unity.modules.jsonserialize
-        version: 1.0.0
-      - name: com.unity.nuget.newtonsoft-json
-        version: 2.0.0-preview
-      - name: com.unity.burst
-        version: 1.5.3
-      - name: com.unity.mathematics
-        version: 1.2.1
-      keywords:
-      - dots
-      - collections
-      - unity
-      registry:
-        id: main
-        name: 
-        url: https://packages.unity.com
-        scopes: []
-        isDefault: 1
-        capabilities: 7
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 637469313670000000
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: git+https://github.com/Unity-Technologies/dots.git
-        revision: 8bc56fa514dccfdf40ccdf6e36e446b9bcbd9bae
         path: 
     - packageId: com.unity.jobs@0.8.0-preview.23
       testable: 0

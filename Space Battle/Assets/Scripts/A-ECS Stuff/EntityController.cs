@@ -9,6 +9,7 @@ using Unity.Physics.Systems;
 using Unity.Transforms;
 using UnityEngine;
 
+namespace gay
 public partial class EntityController : SystemBase
 {
     public struct Boid : IComponentData
