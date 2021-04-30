@@ -1,0 +1,8 @@
+{
+  "ExternalFunctions": [
+    {
+      "Name": "#dllimport:HavokNative|HP_StepWorld",
+      "FullName": "Havok.Physics.Plugin.HP_StepWorld(int worldIndex, ref Havok.Physics.HavokSimulation.StepInput input, Havok.Physics.HavokSimulation.StepContext* context)_453C4705381A3031"
+    }
+  ]
+}

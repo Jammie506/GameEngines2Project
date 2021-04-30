@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5998812232396126050}
   - component: {fileID: 5998812232396126049}
-  - component: {fileID: 5998812232396126048}
+  - component: {fileID: 1269268273499804540}
   m_Layer: 0
   m_Name: TIE Fighter
   m_TagString: Untagged
@@ -51,9 +51,9 @@ MonoBehaviour:
   mass: 1
   damping: 0.01
   banking: 0.1
-  maxSpeed: 45
-  maxForce: 45
---- !u!114 &5998812232396126048
+  maxSpeed: 95
+  maxForce: 95
+--- !u!114 &1269268273499804540
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -62,13 +62,22 @@ MonoBehaviour:
   m_GameObject: {fileID: 5998812232396126063}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6deb050d5002f472b8a268ebb3806f02, type: 3}
+  m_Script: {fileID: 11500000, guid: c42415ddbc78040eb92fee768c2bbf87, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   weight: 1
   force: {x: 0, y: 0, z: 0}
   ShipMain: {fileID: 0}
-  leader: {fileID: 0}
+  scale: 4
+  forwardFeelerDepth: 30
+  sideFeelerDepth: 15
+  frontFeelerUpdatesPerSecond: 10
+  sideFeelerUpdatesPerSecond: 5
+  feelerRadius: 2
+  forceType: 0
+  mask:
+    serializedVersion: 2
+    m_Bits: 4294967295
 --- !u!1001 &5998812233244001153
 PrefabInstance:
   m_ObjectHideFlags: 0

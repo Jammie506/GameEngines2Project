@@ -1,0 +1,20 @@
+{
+  "ExternalFunctions": [
+    {
+      "Name": "Unity.Jobs.LowLevel.Unsafe.JobsUtility::GetWorkStealingRange",
+      "FullName": "Unity.Jobs.LowLevel.Unsafe.JobsUtility.GetWorkStealingRange(ref Unity.Jobs.LowLevel.Unsafe.JobRanges ranges, int jobIndex, ref int beginIndex, ref int endIndex)_72EEAC320E5935AA"
+    },
+    {
+      "Name": "Unity.Jobs.LowLevel.Unsafe.JobsUtility::PatchBufferMinMaxRanges",
+      "FullName": "Unity.Jobs.LowLevel.Unsafe.JobsUtility.PatchBufferMinMaxRanges(System.IntPtr bufferRangePatchData, void* jobdata, int startIndex, int rangeSize)_9EB083F63620D8B8"
+    },
+    {
+      "Name": "#dllimport:HavokNative|HP_SyncMotionsOut",
+      "FullName": "Havok.Physics.Plugin.HP_SyncMotionsOut(int worldIndex, Unity.Physics.MotionData* dynamicMotionDatas, int numDynamicMotionDatas, int dynamicMotionDataStride, Unity.Physics.MotionVelocity* dynamicMotionVelocities, int numDynamicMotionVelocities, int dynamicMotionVelocityStride, int startIndex, int num)_F4289406963726B7"
+    },
+    {
+      "Name": "Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle::CheckWriteAndThrowNoEarlyOut_Injected",
+      "FullName": "Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle.CheckWriteAndThrowNoEarlyOut_Injected(ref Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle handle)_BBB3C78A1E995A27"
+    }
+  ]
+}
