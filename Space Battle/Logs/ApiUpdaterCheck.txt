@@ -118,3 +118,33 @@ C# parse time         : 250ms
 candidates check time : 39ms
 console write time    : 0ms
 
+[api-updater (non-obsolete-error-filter)] 30/04/2021 12:57:55 : Starting /Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 221.37ms
+moved types parse time: 63ms
+candidates parse time : 1ms
+C# parse time         : 354ms
+candidates check time : 366ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 30/04/2021 13:02:16 : Starting /Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 133.503ms
+moved types parse time: 43ms
+candidates parse time : 1ms
+C# parse time         : 288ms
+candidates check time : 312ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 30/04/2021 13:03:09 : Starting /Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 157.579ms
+moved types parse time: 69ms
+candidates parse time : 3ms
+C# parse time         : 402ms
+candidates check time : 387ms
+console write time    : 0ms
+
