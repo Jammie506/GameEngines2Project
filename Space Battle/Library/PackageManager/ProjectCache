@@ -5,21 +5,162 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637553714310000000
-    m_Hash: 1661834437
+      ticks: 637553796130000000
+    m_Hash: 2374234154
   m_LockFileStatus:
     m_FilePath: /Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space Battle/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637553714320000000
-    m_Hash: 1639410086
+      ticks: 637553796140000000
+    m_Hash: 2849271109
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
   m_Packages:
     m_ResolvedPackages:
+    - packageId: com.havok.physics@0.6.0-preview.3
+      testable: 0
+      isDirectDependency: 1
+      version: 0.6.0-preview.3
+      source: 1
+      resolvedPath: /Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space
+        Battle/Library/PackageCache/com.havok.physics@0.6.0-preview.3
+      assetPath: Packages/com.havok.physics
+      name: com.havok.physics
+      displayName: Havok Physics for Unity
+      author:
+        name: Microsoft
+        email: 
+        url: 
+      category: Havok
+      type: 
+      description: 'Havok''s award winning physics engine, applied to the DOTS framework.
+        This augments the Unity Physics package, allowing physics scenes authored
+        for DOTS to be simulated using the Havok Physics engine.
+
+
+        Havok
+        Physics for Unity is free to use for both Unity Personal and Unity Plus users.
+        Unity Pro users must purchase a Havok subscription from the Unity Asset Store.
+        For more details on licensing, see the package documentation.
+
+
+        NOTE:
+        The licensing and distribution model of Havok Physics for Unity is owned
+        and managed entirely by Microsoft (Havok) and not by Unity.'
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.1.1-preview
+        - 0.1.2-preview
+        - 0.2.0-preview
+        - 0.2.1-preview
+        - 0.2.2-preview
+        - 0.3.0-preview.1
+        - 0.3.1-preview
+        - 0.4.0-preview.1
+        - 0.4.1-preview.2
+        - 0.6.0-preview.3
+        compatible:
+        - 0.1.1-preview
+        - 0.1.2-preview
+        - 0.2.0-preview
+        - 0.2.1-preview
+        - 0.2.2-preview
+        - 0.3.0-preview.1
+        - 0.3.1-preview
+        - 0.4.0-preview.1
+        - 0.4.1-preview.2
+        - 0.6.0-preview.3
+        verified: 
+      dependencies:
+      - name: com.unity.burst
+        version: 1.4.1
+      - name: com.unity.collections
+        version: 0.15.0-preview.21
+      - name: com.unity.entities
+        version: 0.17.0-preview.41
+      - name: com.unity.jobs
+        version: 0.8.0-preview.23
+      - name: com.unity.mathematics
+        version: 1.2.1
+      - name: com.unity.physics
+        version: 0.6.0-preview.3
+      - name: com.unity.test-framework
+        version: 1.1.11
+      resolvedDependencies:
+      - name: com.unity.burst
+        version: 1.4.1
+      - name: com.unity.mathematics
+        version: 1.2.1
+      - name: com.unity.collections
+        version: 0.15.0-preview.21
+      - name: com.unity.test-framework.performance
+        version: 2.3.1-preview
+      - name: com.unity.test-framework
+        version: 1.1.20
+      - name: com.unity.ext.nunit
+        version: 1.0.6
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      - name: com.unity.nuget.newtonsoft-json
+        version: 2.0.0-preview
+      - name: com.unity.entities
+        version: 0.17.0-preview.41
+      - name: com.unity.properties
+        version: 1.6.0-preview
+      - name: com.unity.nuget.mono-cecil
+        version: 0.1.6-preview.2
+      - name: nuget.mono-cecil
+        version: 0.1.6-preview
+      - name: com.unity.serialization
+        version: 1.6.2-preview
+      - name: com.unity.jobs
+        version: 0.8.0-preview.23
+      - name: com.unity.modules.assetbundle
+        version: 1.0.0
+      - name: com.unity.scriptablebuildpipeline
+        version: 1.9.0
+      - name: com.unity.platforms
+        version: 0.10.0-preview.10
+      - name: com.unity.properties.ui
+        version: 1.6.2-preview.1
+      - name: com.unity.modules.uielements
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.uielementsnative
+        version: 1.0.0
+      - name: com.unity.physics
+        version: 0.6.0-preview.3
+      keywords:
+      - havok
+      - physics
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637469315180000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git+https://github.com/Unity-Technologies/Unity.Physics.git
+        revision: 6ec1fba588df68052879913d6e4b14ed3714e90e
+        path: 
     - packageId: com.unity.collab-proxy@1.3.9
       testable: 0
       isDirectDependency: 1
@@ -4135,6 +4276,162 @@ m_PackageAssets:
         type: git
         url: git+https://github.com/Unity-Technologies/dots-platforms.git
         revision: cb94cae75a4c8fcfa518414cdadd82749c5c632c
+        path: 
+    - packageId: com.unity.physics@0.6.0-preview.3
+      testable: 0
+      isDirectDependency: 0
+      version: 0.6.0-preview.3
+      source: 1
+      resolvedPath: /Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space
+        Battle/Library/PackageCache/com.unity.physics@0.6.0-preview.3
+      assetPath: Packages/com.unity.physics
+      name: com.unity.physics
+      displayName: Unity Physics
+      author:
+        name: 
+        email: 
+        url: 
+      category: Unity
+      type: 
+      description: 'Unity''s C# stateless physics library.
+
+
+        Built on top
+        of the Unity C# DOTS framework, Unity Physics is network-ready, completely
+        customizable, and built for performance out of the box. Whether you''re building
+        the next mobile hit or a new networked multiplayer console experience, Unity
+        Physics leverages the Burst compiler and Job system to scale across a range
+        of hardware.
+
+
+        Unity Physics is currently in preview, and is compatible
+        with Unity 2019.3 and newer.'
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.0.1-preview.1
+        - 0.0.2-preview.1
+        - 0.1.0-preview
+        - 0.2.0-preview
+        - 0.2.2-preview
+        - 0.2.3-preview
+        - 0.2.4-preview
+        - 0.2.5-preview
+        - 0.2.5-preview.1
+        - 0.3.0-preview.1
+        - 0.3.1-preview
+        - 0.3.2-preview
+        - 0.4.0-preview.5
+        - 0.4.1-preview
+        - 0.5.0-preview.1
+        - 0.5.1-preview.2
+        - 0.6.0-preview.3
+        compatible:
+        - 0.0.1-preview.1
+        - 0.0.2-preview.1
+        - 0.1.0-preview
+        - 0.2.0-preview
+        - 0.2.2-preview
+        - 0.2.3-preview
+        - 0.2.4-preview
+        - 0.2.5-preview
+        - 0.2.5-preview.1
+        - 0.3.0-preview.1
+        - 0.3.1-preview
+        - 0.3.2-preview
+        - 0.4.0-preview.5
+        - 0.4.1-preview
+        - 0.5.0-preview.1
+        - 0.5.1-preview.2
+        - 0.6.0-preview.3
+        verified: 
+      dependencies:
+      - name: com.unity.burst
+        version: 1.4.1
+      - name: com.unity.collections
+        version: 0.15.0-preview.21
+      - name: com.unity.entities
+        version: 0.17.0-preview.41
+      - name: com.unity.jobs
+        version: 0.8.0-preview.23
+      - name: com.unity.mathematics
+        version: 1.2.1
+      - name: com.unity.test-framework
+        version: 1.1.11
+      - name: com.unity.test-framework.performance
+        version: 2.3.1-preview
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.burst
+        version: 1.4.1
+      - name: com.unity.mathematics
+        version: 1.2.1
+      - name: com.unity.collections
+        version: 0.15.0-preview.21
+      - name: com.unity.test-framework.performance
+        version: 2.3.1-preview
+      - name: com.unity.test-framework
+        version: 1.1.20
+      - name: com.unity.ext.nunit
+        version: 1.0.6
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      - name: com.unity.nuget.newtonsoft-json
+        version: 2.0.0-preview
+      - name: com.unity.entities
+        version: 0.17.0-preview.41
+      - name: com.unity.properties
+        version: 1.6.0-preview
+      - name: com.unity.nuget.mono-cecil
+        version: 0.1.6-preview.2
+      - name: nuget.mono-cecil
+        version: 0.1.6-preview
+      - name: com.unity.serialization
+        version: 1.6.2-preview
+      - name: com.unity.jobs
+        version: 0.8.0-preview.23
+      - name: com.unity.modules.assetbundle
+        version: 1.0.0
+      - name: com.unity.scriptablebuildpipeline
+        version: 1.9.0
+      - name: com.unity.platforms
+        version: 0.10.0-preview.10
+      - name: com.unity.properties.ui
+        version: 1.6.2-preview.1
+      - name: com.unity.modules.uielements
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.uielementsnative
+        version: 1.0.0
+      keywords:
+      - unity
+      - physics
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637469315570000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git+https://github.com/Unity-Technologies/Unity.Physics.git
+        revision: 6ec1fba588df68052879913d6e4b14ed3714e90e
         path: 
     - packageId: com.unity.properties@1.6.0-preview
       testable: 0
