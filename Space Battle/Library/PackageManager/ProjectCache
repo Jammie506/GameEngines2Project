@@ -5,28 +5,28 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637553809590000000
-    m_Hash: 2374234154
+      ticks: 637553898260000000
+    m_Hash: 1107703873
   m_LockFileStatus:
     m_FilePath: /Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space Battle/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637553847560000000
-    m_Hash: 2849271109
+      ticks: 637553898270000000
+    m_Hash: 833738212
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
   m_Packages:
     m_ResolvedPackages:
-    - packageId: com.havok.physics@0.6.0-preview.3
+    - packageId: com.havok.physics@0.4.1-preview.2
       testable: 0
       isDirectDependency: 1
-      version: 0.6.0-preview.3
+      version: 0.4.1-preview.2
       source: 1
       resolvedPath: /Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space
-        Battle/Library/PackageCache/com.havok.physics@0.6.0-preview.3
+        Battle/Library/PackageCache/com.havok.physics@0.4.1-preview.2
       assetPath: Packages/com.havok.physics
       name: com.havok.physics
       displayName: Havok Physics for Unity
@@ -78,22 +78,22 @@ m_PackageAssets:
         verified: 
       dependencies:
       - name: com.unity.burst
-        version: 1.4.1
+        version: 1.3.7
       - name: com.unity.collections
-        version: 0.15.0-preview.21
+        version: 0.14.0-preview.16
       - name: com.unity.entities
-        version: 0.17.0-preview.41
+        version: 0.16.0-preview.21
       - name: com.unity.jobs
-        version: 0.8.0-preview.23
+        version: 0.7.0-preview.17
       - name: com.unity.mathematics
         version: 1.2.1
       - name: com.unity.physics
-        version: 0.6.0-preview.3
+        version: 0.5.1-preview.2
       - name: com.unity.test-framework
         version: 1.1.11
       resolvedDependencies:
       - name: com.unity.burst
-        version: 1.4.1
+        version: 1.5.3
       - name: com.unity.mathematics
         version: 1.2.1
       - name: com.unity.collections
@@ -153,13 +153,219 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637469315180000000
+      datePublishedTicks: 637396082000000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: git+https://github.com/Unity-Technologies/Unity.Physics.git
-        revision: 6ec1fba588df68052879913d6e4b14ed3714e90e
+        revision: 107c985da0b8a22d04b85a01c17e3beedce0f5de
+        path: 
+    - packageId: com.unity.burst@1.5.3
+      testable: 0
+      isDirectDependency: 1
+      version: 1.5.3
+      source: 1
+      resolvedPath: /Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space
+        Battle/Library/PackageCache/com.unity.burst@1.5.3
+      assetPath: Packages/com.unity.burst
+      name: com.unity.burst
+      displayName: Burst
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: Burst is a compiler that translates from IL/.NET bytecode to highly
+        optimized native code using LLVM.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.2.4-preview.5
+        - 0.2.4-preview.7
+        - 0.2.4-preview.11
+        - 0.2.4-preview.12
+        - 0.2.4-preview.13
+        - 0.2.4-preview.14
+        - 0.2.4-preview.15
+        - 0.2.4-preview.16
+        - 0.2.4-preview.17
+        - 0.2.4-preview.18
+        - 0.2.4-preview.19
+        - 0.2.4-preview.20
+        - 0.2.4-preview.21
+        - 0.2.4-preview.22
+        - 0.2.4-preview.23
+        - 0.2.4-preview.24
+        - 0.2.4-preview.25
+        - 0.2.4-preview.30
+        - 0.2.4-preview.31
+        - 0.2.4-preview.33
+        - 0.2.4-preview.34
+        - 0.2.4-preview.37
+        - 0.2.4-preview.41
+        - 0.2.4-preview.45
+        - 0.2.4-preview.48
+        - 0.2.4-preview.50
+        - 1.1.0-preview.2
+        - 1.1.0-preview.3
+        - 1.1.0-preview.4
+        - 1.1.1
+        - 1.1.2
+        - 1.1.3-preview.3
+        - 1.2.0-preview.1
+        - 1.2.0-preview.5
+        - 1.2.0-preview.6
+        - 1.2.0-preview.8
+        - 1.2.0-preview.9
+        - 1.2.0-preview.10
+        - 1.2.0-preview.11
+        - 1.2.0-preview.12
+        - 1.2.0
+        - 1.2.1
+        - 1.2.2
+        - 1.2.3
+        - 1.3.0-preview.1
+        - 1.3.0-preview.2
+        - 1.3.0-preview.3
+        - 1.3.0-preview.4
+        - 1.3.0-preview.5
+        - 1.3.0-preview.6
+        - 1.3.0-preview.7
+        - 1.3.0-preview.8
+        - 1.3.0-preview.9
+        - 1.3.0-preview.10
+        - 1.3.0-preview.11
+        - 1.3.0-preview.12
+        - 1.3.0-preview.13
+        - 1.3.0
+        - 1.3.1
+        - 1.3.2
+        - 1.3.3
+        - 1.3.4
+        - 1.3.5
+        - 1.3.6
+        - 1.3.7
+        - 1.3.8
+        - 1.3.9
+        - 1.4.0-pre.1
+        - 1.4.0-preview.1
+        - 1.4.0-preview.2
+        - 1.4.0-preview.3
+        - 1.4.0-preview.4
+        - 1.4.0-preview.5
+        - 1.4.1-pre.1
+        - 1.4.1-pre.2
+        - 1.4.1
+        - 1.4.2
+        - 1.4.3
+        - 1.4.4-preview.1
+        - 1.4.4-preview.2
+        - 1.4.4
+        - 1.4.5
+        - 1.4.6
+        - 1.4.7
+        - 1.5.0-pre.3
+        - 1.5.0-pre.4
+        - 1.5.0-pre.5
+        - 1.5.0
+        - 1.5.1
+        - 1.5.2
+        - 1.5.3
+        - 1.6.0-pre.2
+        compatible:
+        - 1.1.1
+        - 1.1.2
+        - 1.1.3-preview.3
+        - 1.2.0-preview.1
+        - 1.2.0-preview.5
+        - 1.2.0-preview.6
+        - 1.2.0-preview.8
+        - 1.2.0-preview.9
+        - 1.2.0-preview.10
+        - 1.2.0-preview.11
+        - 1.2.0-preview.12
+        - 1.2.0
+        - 1.2.1
+        - 1.2.2
+        - 1.2.3
+        - 1.3.0-preview.1
+        - 1.3.0-preview.2
+        - 1.3.0-preview.3
+        - 1.3.0-preview.4
+        - 1.3.0-preview.5
+        - 1.3.0-preview.6
+        - 1.3.0-preview.7
+        - 1.3.0-preview.8
+        - 1.3.0-preview.9
+        - 1.3.0-preview.10
+        - 1.3.0-preview.11
+        - 1.3.0-preview.12
+        - 1.3.0-preview.13
+        - 1.3.0
+        - 1.3.1
+        - 1.3.2
+        - 1.3.3
+        - 1.3.4
+        - 1.3.5
+        - 1.3.6
+        - 1.3.7
+        - 1.3.8
+        - 1.3.9
+        - 1.4.0-pre.1
+        - 1.4.0-preview.1
+        - 1.4.0-preview.2
+        - 1.4.0-preview.3
+        - 1.4.0-preview.4
+        - 1.4.0-preview.5
+        - 1.4.1-pre.1
+        - 1.4.1-pre.2
+        - 1.4.1
+        - 1.4.2
+        - 1.4.3
+        - 1.4.4-preview.1
+        - 1.4.4-preview.2
+        - 1.4.4
+        - 1.4.5
+        - 1.4.6
+        - 1.4.7
+        - 1.5.0-pre.3
+        - 1.5.0-pre.4
+        - 1.5.0-pre.5
+        - 1.5.0
+        - 1.5.1
+        - 1.5.2
+        - 1.5.3
+        - 1.6.0-pre.2
+        verified: 1.4.7
+      dependencies:
+      - name: com.unity.mathematics
+        version: 1.2.1
+      resolvedDependencies:
+      - name: com.unity.mathematics
+        version: 1.2.1
+      keywords: []
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637547911860000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/burst.git
+        revision: d01eb4cdf915df33362750051e4984789193ecb6
         path: 
     - packageId: com.unity.collab-proxy@1.3.9
       testable: 0
@@ -403,7 +609,7 @@ m_PackageAssets:
         version: 0.10.0-preview.10
       resolvedDependencies:
       - name: com.unity.burst
-        version: 1.4.1
+        version: 1.5.3
       - name: com.unity.mathematics
         version: 1.2.1
       - name: com.unity.properties
@@ -716,6 +922,162 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.vscode.git
         revision: b5ec9b38109e52b1b26597d521e4df75e042ebb9
         path: 
+    - packageId: com.unity.physics@0.6.0-preview.3
+      testable: 0
+      isDirectDependency: 1
+      version: 0.6.0-preview.3
+      source: 1
+      resolvedPath: /Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space
+        Battle/Library/PackageCache/com.unity.physics@0.6.0-preview.3
+      assetPath: Packages/com.unity.physics
+      name: com.unity.physics
+      displayName: Unity Physics
+      author:
+        name: 
+        email: 
+        url: 
+      category: Unity
+      type: 
+      description: 'Unity''s C# stateless physics library.
+
+
+        Built on top
+        of the Unity C# DOTS framework, Unity Physics is network-ready, completely
+        customizable, and built for performance out of the box. Whether you''re building
+        the next mobile hit or a new networked multiplayer console experience, Unity
+        Physics leverages the Burst compiler and Job system to scale across a range
+        of hardware.
+
+
+        Unity Physics is currently in preview, and is compatible
+        with Unity 2019.3 and newer.'
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.0.1-preview.1
+        - 0.0.2-preview.1
+        - 0.1.0-preview
+        - 0.2.0-preview
+        - 0.2.2-preview
+        - 0.2.3-preview
+        - 0.2.4-preview
+        - 0.2.5-preview
+        - 0.2.5-preview.1
+        - 0.3.0-preview.1
+        - 0.3.1-preview
+        - 0.3.2-preview
+        - 0.4.0-preview.5
+        - 0.4.1-preview
+        - 0.5.0-preview.1
+        - 0.5.1-preview.2
+        - 0.6.0-preview.3
+        compatible:
+        - 0.0.1-preview.1
+        - 0.0.2-preview.1
+        - 0.1.0-preview
+        - 0.2.0-preview
+        - 0.2.2-preview
+        - 0.2.3-preview
+        - 0.2.4-preview
+        - 0.2.5-preview
+        - 0.2.5-preview.1
+        - 0.3.0-preview.1
+        - 0.3.1-preview
+        - 0.3.2-preview
+        - 0.4.0-preview.5
+        - 0.4.1-preview
+        - 0.5.0-preview.1
+        - 0.5.1-preview.2
+        - 0.6.0-preview.3
+        verified: 
+      dependencies:
+      - name: com.unity.burst
+        version: 1.4.1
+      - name: com.unity.collections
+        version: 0.15.0-preview.21
+      - name: com.unity.entities
+        version: 0.17.0-preview.41
+      - name: com.unity.jobs
+        version: 0.8.0-preview.23
+      - name: com.unity.mathematics
+        version: 1.2.1
+      - name: com.unity.test-framework
+        version: 1.1.11
+      - name: com.unity.test-framework.performance
+        version: 2.3.1-preview
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.burst
+        version: 1.5.3
+      - name: com.unity.mathematics
+        version: 1.2.1
+      - name: com.unity.collections
+        version: 0.15.0-preview.21
+      - name: com.unity.test-framework.performance
+        version: 2.3.1-preview
+      - name: com.unity.test-framework
+        version: 1.1.20
+      - name: com.unity.ext.nunit
+        version: 1.0.6
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      - name: com.unity.nuget.newtonsoft-json
+        version: 2.0.0-preview
+      - name: com.unity.entities
+        version: 0.17.0-preview.41
+      - name: com.unity.properties
+        version: 1.6.0-preview
+      - name: com.unity.nuget.mono-cecil
+        version: 0.1.6-preview.2
+      - name: nuget.mono-cecil
+        version: 0.1.6-preview
+      - name: com.unity.serialization
+        version: 1.6.2-preview
+      - name: com.unity.jobs
+        version: 0.8.0-preview.23
+      - name: com.unity.modules.assetbundle
+        version: 1.0.0
+      - name: com.unity.scriptablebuildpipeline
+        version: 1.9.0
+      - name: com.unity.platforms
+        version: 0.10.0-preview.10
+      - name: com.unity.properties.ui
+        version: 1.6.2-preview.1
+      - name: com.unity.modules.uielements
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.uielementsnative
+        version: 1.0.0
+      keywords:
+      - unity
+      - physics
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637469315570000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git+https://github.com/Unity-Technologies/Unity.Physics.git
+        revision: 6ec1fba588df68052879913d6e4b14ed3714e90e
+        path: 
     - packageId: com.unity.rendering.hybrid@0.11.0-preview.42
       testable: 0
       isDirectDependency: 1
@@ -808,7 +1170,7 @@ m_PackageAssets:
       - name: com.unity.entities
         version: 0.17.0-preview.41
       - name: com.unity.burst
-        version: 1.4.1
+        version: 1.5.3
       - name: com.unity.mathematics
         version: 1.2.1
       - name: com.unity.properties
@@ -3154,212 +3516,6 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ext.nunit.git
         revision: 29ea4d6504a5f58fb3a6934db839aa80ae6d9d88
         path: 
-    - packageId: com.unity.burst@1.4.1
-      testable: 0
-      isDirectDependency: 0
-      version: 1.4.1
-      source: 1
-      resolvedPath: /Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space
-        Battle/Library/PackageCache/com.unity.burst@1.4.1
-      assetPath: Packages/com.unity.burst
-      name: com.unity.burst
-      displayName: Burst
-      author:
-        name: 
-        email: 
-        url: 
-      category: 
-      type: 
-      description: Burst is a compiler that translates from IL/.NET bytecode to highly
-        optimized native code using LLVM.
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 0.2.4-preview.5
-        - 0.2.4-preview.7
-        - 0.2.4-preview.11
-        - 0.2.4-preview.12
-        - 0.2.4-preview.13
-        - 0.2.4-preview.14
-        - 0.2.4-preview.15
-        - 0.2.4-preview.16
-        - 0.2.4-preview.17
-        - 0.2.4-preview.18
-        - 0.2.4-preview.19
-        - 0.2.4-preview.20
-        - 0.2.4-preview.21
-        - 0.2.4-preview.22
-        - 0.2.4-preview.23
-        - 0.2.4-preview.24
-        - 0.2.4-preview.25
-        - 0.2.4-preview.30
-        - 0.2.4-preview.31
-        - 0.2.4-preview.33
-        - 0.2.4-preview.34
-        - 0.2.4-preview.37
-        - 0.2.4-preview.41
-        - 0.2.4-preview.45
-        - 0.2.4-preview.48
-        - 0.2.4-preview.50
-        - 1.1.0-preview.2
-        - 1.1.0-preview.3
-        - 1.1.0-preview.4
-        - 1.1.1
-        - 1.1.2
-        - 1.1.3-preview.3
-        - 1.2.0-preview.1
-        - 1.2.0-preview.5
-        - 1.2.0-preview.6
-        - 1.2.0-preview.8
-        - 1.2.0-preview.9
-        - 1.2.0-preview.10
-        - 1.2.0-preview.11
-        - 1.2.0-preview.12
-        - 1.2.0
-        - 1.2.1
-        - 1.2.2
-        - 1.2.3
-        - 1.3.0-preview.1
-        - 1.3.0-preview.2
-        - 1.3.0-preview.3
-        - 1.3.0-preview.4
-        - 1.3.0-preview.5
-        - 1.3.0-preview.6
-        - 1.3.0-preview.7
-        - 1.3.0-preview.8
-        - 1.3.0-preview.9
-        - 1.3.0-preview.10
-        - 1.3.0-preview.11
-        - 1.3.0-preview.12
-        - 1.3.0-preview.13
-        - 1.3.0
-        - 1.3.1
-        - 1.3.2
-        - 1.3.3
-        - 1.3.4
-        - 1.3.5
-        - 1.3.6
-        - 1.3.7
-        - 1.3.8
-        - 1.3.9
-        - 1.4.0-pre.1
-        - 1.4.0-preview.1
-        - 1.4.0-preview.2
-        - 1.4.0-preview.3
-        - 1.4.0-preview.4
-        - 1.4.0-preview.5
-        - 1.4.1-pre.1
-        - 1.4.1-pre.2
-        - 1.4.1
-        - 1.4.2
-        - 1.4.3
-        - 1.4.4-preview.1
-        - 1.4.4-preview.2
-        - 1.4.4
-        - 1.4.5
-        - 1.4.6
-        - 1.4.7
-        - 1.5.0-pre.3
-        - 1.5.0-pre.4
-        - 1.5.0-pre.5
-        - 1.5.0
-        - 1.5.1
-        - 1.5.2
-        - 1.5.3
-        - 1.6.0-pre.2
-        compatible:
-        - 1.1.1
-        - 1.1.2
-        - 1.1.3-preview.3
-        - 1.2.0-preview.1
-        - 1.2.0-preview.5
-        - 1.2.0-preview.6
-        - 1.2.0-preview.8
-        - 1.2.0-preview.9
-        - 1.2.0-preview.10
-        - 1.2.0-preview.11
-        - 1.2.0-preview.12
-        - 1.2.0
-        - 1.2.1
-        - 1.2.2
-        - 1.2.3
-        - 1.3.0-preview.1
-        - 1.3.0-preview.2
-        - 1.3.0-preview.3
-        - 1.3.0-preview.4
-        - 1.3.0-preview.5
-        - 1.3.0-preview.6
-        - 1.3.0-preview.7
-        - 1.3.0-preview.8
-        - 1.3.0-preview.9
-        - 1.3.0-preview.10
-        - 1.3.0-preview.11
-        - 1.3.0-preview.12
-        - 1.3.0-preview.13
-        - 1.3.0
-        - 1.3.1
-        - 1.3.2
-        - 1.3.3
-        - 1.3.4
-        - 1.3.5
-        - 1.3.6
-        - 1.3.7
-        - 1.3.8
-        - 1.3.9
-        - 1.4.0-pre.1
-        - 1.4.0-preview.1
-        - 1.4.0-preview.2
-        - 1.4.0-preview.3
-        - 1.4.0-preview.4
-        - 1.4.0-preview.5
-        - 1.4.1-pre.1
-        - 1.4.1-pre.2
-        - 1.4.1
-        - 1.4.2
-        - 1.4.3
-        - 1.4.4-preview.1
-        - 1.4.4-preview.2
-        - 1.4.4
-        - 1.4.5
-        - 1.4.6
-        - 1.4.7
-        - 1.5.0-pre.3
-        - 1.5.0-pre.4
-        - 1.5.0-pre.5
-        - 1.5.0
-        - 1.5.1
-        - 1.5.2
-        - 1.5.3
-        - 1.6.0-pre.2
-        verified: 1.4.7
-      dependencies:
-      - name: com.unity.mathematics
-        version: 1.2.1
-      resolvedDependencies:
-      - name: com.unity.mathematics
-        version: 1.2.1
-      keywords: []
-      registry:
-        id: main
-        name: 
-        url: https://packages.unity.com
-        scopes: []
-        isDefault: 1
-        capabilities: 7
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 637397751160000000
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: https://github.cds.internal.unity3d.com/unity/burst.git
-        revision: 5effe0268604aa4d67de03dbe2d28964b3653146
-        path: 
     - packageId: com.unity.collections@0.15.0-preview.21
       testable: 0
       isDirectDependency: 0
@@ -3479,7 +3635,7 @@ m_PackageAssets:
       - name: com.unity.nuget.newtonsoft-json
         version: 2.0.0-preview
       - name: com.unity.burst
-        version: 1.4.1
+        version: 1.5.3
       - name: com.unity.mathematics
         version: 1.2.1
       keywords:
@@ -3505,6 +3661,142 @@ m_PackageAssets:
         type: git
         url: git+https://github.com/Unity-Technologies/dots.git
         revision: 8bc56fa514dccfdf40ccdf6e36e446b9bcbd9bae
+        path: 
+    - packageId: com.unity.jobs@0.8.0-preview.23
+      testable: 0
+      isDirectDependency: 0
+      version: 0.8.0-preview.23
+      source: 1
+      resolvedPath: /Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space
+        Battle/Library/PackageCache/com.unity.jobs@0.8.0-preview.23
+      assetPath: Packages/com.unity.jobs
+      name: com.unity.jobs
+      displayName: Jobs
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: The Jobs package provides additional job types like IJobParallelForBatch,
+        IJobParallelForDefer, and IJobParallelForFilter.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.0.7-preview.1
+        - 0.0.7-preview.2
+        - 0.0.7-preview.3
+        - 0.0.7-preview.4
+        - 0.0.7-preview.5
+        - 0.0.7-preview.6
+        - 0.0.7-preview.7
+        - 0.0.7-preview.8
+        - 0.0.7-preview.9
+        - 0.0.7-preview.10
+        - 0.0.7-preview.11
+        - 0.0.7-preview.12
+        - 0.0.7-preview.13
+        - 0.1.0-preview
+        - 0.1.1-preview
+        - 0.2.0-preview.13
+        - 0.2.1-preview.3
+        - 0.2.2-preview.6
+        - 0.2.3-preview.9
+        - 0.2.4-preview.11
+        - 0.2.5-preview.20
+        - 0.2.6-preview.13
+        - 0.2.7-preview.11
+        - 0.2.8-preview.3
+        - 0.2.9-preview.15
+        - 0.2.10-preview.11
+        - 0.2.10-preview.12
+        - 0.2.10-preview.13
+        - 0.4.0-preview.18
+        - 0.5.0-preview.14
+        - 0.7.0-preview.17
+        - 0.8.0-preview.23
+        compatible:
+        - 0.0.7-preview.1
+        - 0.0.7-preview.2
+        - 0.0.7-preview.3
+        - 0.0.7-preview.4
+        - 0.0.7-preview.5
+        - 0.0.7-preview.6
+        - 0.0.7-preview.7
+        - 0.0.7-preview.8
+        - 0.0.7-preview.9
+        - 0.0.7-preview.10
+        - 0.0.7-preview.11
+        - 0.0.7-preview.12
+        - 0.0.7-preview.13
+        - 0.1.0-preview
+        - 0.1.1-preview
+        - 0.2.0-preview.13
+        - 0.2.1-preview.3
+        - 0.2.2-preview.6
+        - 0.2.3-preview.9
+        - 0.2.4-preview.11
+        - 0.2.5-preview.20
+        - 0.2.6-preview.13
+        - 0.2.7-preview.11
+        - 0.2.8-preview.3
+        - 0.2.9-preview.15
+        - 0.2.10-preview.11
+        - 0.2.10-preview.12
+        - 0.2.10-preview.13
+        - 0.4.0-preview.18
+        - 0.5.0-preview.14
+        - 0.7.0-preview.17
+        - 0.8.0-preview.23
+        verified: 
+      dependencies:
+      - name: com.unity.collections
+        version: 0.15.0-preview.21
+      - name: com.unity.mathematics
+        version: 1.2.1
+      resolvedDependencies:
+      - name: com.unity.collections
+        version: 0.15.0-preview.21
+      - name: com.unity.test-framework.performance
+        version: 2.3.1-preview
+      - name: com.unity.test-framework
+        version: 1.1.20
+      - name: com.unity.ext.nunit
+        version: 1.0.6
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      - name: com.unity.nuget.newtonsoft-json
+        version: 2.0.0-preview
+      - name: com.unity.burst
+        version: 1.5.3
+      - name: com.unity.mathematics
+        version: 1.2.1
+      keywords:
+      - dots
+      - jobs
+      - unity
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637469313560000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git+https://github.com/Unity-Technologies/dots.git
+        revision: 011950b3e6b7c3fabea375fdac55ad367be62814
         path: 
     - packageId: com.unity.mathematics@1.2.1
       testable: 0
@@ -3775,142 +4067,6 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.mono-cecil.git
         revision: a4a04e8951e3501659276618cb3e5e9b29210dd0
         path: 
-    - packageId: com.unity.jobs@0.8.0-preview.23
-      testable: 0
-      isDirectDependency: 0
-      version: 0.8.0-preview.23
-      source: 1
-      resolvedPath: /Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space
-        Battle/Library/PackageCache/com.unity.jobs@0.8.0-preview.23
-      assetPath: Packages/com.unity.jobs
-      name: com.unity.jobs
-      displayName: Jobs
-      author:
-        name: 
-        email: 
-        url: 
-      category: 
-      type: 
-      description: The Jobs package provides additional job types like IJobParallelForBatch,
-        IJobParallelForDefer, and IJobParallelForFilter.
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 0.0.7-preview.1
-        - 0.0.7-preview.2
-        - 0.0.7-preview.3
-        - 0.0.7-preview.4
-        - 0.0.7-preview.5
-        - 0.0.7-preview.6
-        - 0.0.7-preview.7
-        - 0.0.7-preview.8
-        - 0.0.7-preview.9
-        - 0.0.7-preview.10
-        - 0.0.7-preview.11
-        - 0.0.7-preview.12
-        - 0.0.7-preview.13
-        - 0.1.0-preview
-        - 0.1.1-preview
-        - 0.2.0-preview.13
-        - 0.2.1-preview.3
-        - 0.2.2-preview.6
-        - 0.2.3-preview.9
-        - 0.2.4-preview.11
-        - 0.2.5-preview.20
-        - 0.2.6-preview.13
-        - 0.2.7-preview.11
-        - 0.2.8-preview.3
-        - 0.2.9-preview.15
-        - 0.2.10-preview.11
-        - 0.2.10-preview.12
-        - 0.2.10-preview.13
-        - 0.4.0-preview.18
-        - 0.5.0-preview.14
-        - 0.7.0-preview.17
-        - 0.8.0-preview.23
-        compatible:
-        - 0.0.7-preview.1
-        - 0.0.7-preview.2
-        - 0.0.7-preview.3
-        - 0.0.7-preview.4
-        - 0.0.7-preview.5
-        - 0.0.7-preview.6
-        - 0.0.7-preview.7
-        - 0.0.7-preview.8
-        - 0.0.7-preview.9
-        - 0.0.7-preview.10
-        - 0.0.7-preview.11
-        - 0.0.7-preview.12
-        - 0.0.7-preview.13
-        - 0.1.0-preview
-        - 0.1.1-preview
-        - 0.2.0-preview.13
-        - 0.2.1-preview.3
-        - 0.2.2-preview.6
-        - 0.2.3-preview.9
-        - 0.2.4-preview.11
-        - 0.2.5-preview.20
-        - 0.2.6-preview.13
-        - 0.2.7-preview.11
-        - 0.2.8-preview.3
-        - 0.2.9-preview.15
-        - 0.2.10-preview.11
-        - 0.2.10-preview.12
-        - 0.2.10-preview.13
-        - 0.4.0-preview.18
-        - 0.5.0-preview.14
-        - 0.7.0-preview.17
-        - 0.8.0-preview.23
-        verified: 
-      dependencies:
-      - name: com.unity.collections
-        version: 0.15.0-preview.21
-      - name: com.unity.mathematics
-        version: 1.2.1
-      resolvedDependencies:
-      - name: com.unity.collections
-        version: 0.15.0-preview.21
-      - name: com.unity.test-framework.performance
-        version: 2.3.1-preview
-      - name: com.unity.test-framework
-        version: 1.1.20
-      - name: com.unity.ext.nunit
-        version: 1.0.6
-      - name: com.unity.modules.imgui
-        version: 1.0.0
-      - name: com.unity.modules.jsonserialize
-        version: 1.0.0
-      - name: com.unity.nuget.newtonsoft-json
-        version: 2.0.0-preview
-      - name: com.unity.burst
-        version: 1.4.1
-      - name: com.unity.mathematics
-        version: 1.2.1
-      keywords:
-      - dots
-      - jobs
-      - unity
-      registry:
-        id: main
-        name: 
-        url: https://packages.unity.com
-        scopes: []
-        isDefault: 1
-        capabilities: 7
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 637469313560000000
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: git+https://github.com/Unity-Technologies/dots.git
-        revision: 011950b3e6b7c3fabea375fdac55ad367be62814
-        path: 
     - packageId: com.unity.scriptablebuildpipeline@1.9.0
       testable: 0
       isDirectDependency: 0
@@ -3976,6 +4132,7 @@ m_PackageAssets:
         - 1.15.2
         - 1.16.1
         - 1.17.0
+        - 1.18.0
         compatible:
         - 0.0.5-preview
         - 0.0.6-preview
@@ -4018,6 +4175,7 @@ m_PackageAssets:
         - 1.15.2
         - 1.16.1
         - 1.17.0
+        - 1.18.0
         verified: 1.14.1
       dependencies: []
       resolvedDependencies: []
@@ -4241,7 +4399,7 @@ m_PackageAssets:
       - name: com.unity.collections
         version: 0.15.0-preview.21
       - name: com.unity.burst
-        version: 1.4.1
+        version: 1.5.3
       - name: com.unity.mathematics
         version: 1.2.1
       - name: com.unity.jobs
@@ -4277,142 +4435,61 @@ m_PackageAssets:
         url: git+https://github.com/Unity-Technologies/dots-platforms.git
         revision: cb94cae75a4c8fcfa518414cdadd82749c5c632c
         path: 
-    - packageId: com.unity.physics@0.6.0-preview.3
+    - packageId: com.unity.nuget.newtonsoft-json@2.0.0-preview
       testable: 0
       isDirectDependency: 0
-      version: 0.6.0-preview.3
+      version: 2.0.0-preview
       source: 1
       resolvedPath: /Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space
-        Battle/Library/PackageCache/com.unity.physics@0.6.0-preview.3
-      assetPath: Packages/com.unity.physics
-      name: com.unity.physics
-      displayName: Unity Physics
+        Battle/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0-preview
+      assetPath: Packages/com.unity.nuget.newtonsoft-json
+      name: com.unity.nuget.newtonsoft-json
+      displayName: Newtonsoft Json
       author:
         name: 
         email: 
         url: 
-      category: Unity
+      category: 
       type: 
-      description: 'Unity''s C# stateless physics library.
+      description: 'Newtonsoft Json for use in Unity projects and Unity packages.
+        Currently synced to version 12.0.2.
 
 
-        Built on top
-        of the Unity C# DOTS framework, Unity Physics is network-ready, completely
-        customizable, and built for performance out of the box. Whether you''re building
-        the next mobile hit or a new networked multiplayer console experience, Unity
-        Physics leverages the Burst compiler and Job system to scale across a range
-        of hardware.
+        This package is used for advanced
+        json serialization and deserialization. Most Unity users will be better suited
+        using the existing json tools built into Unity.
 
-
-        Unity Physics is currently in preview, and is compatible
-        with Unity 2019.3 and newer.'
+        To avoid assembly
+        clashes, please use this package if you intend to use Newtonsoft Json.'
       status: 4
       errors: []
       versions:
         all:
-        - 0.0.1-preview.1
-        - 0.0.2-preview.1
-        - 0.1.0-preview
-        - 0.2.0-preview
-        - 0.2.2-preview
-        - 0.2.3-preview
-        - 0.2.4-preview
-        - 0.2.5-preview
-        - 0.2.5-preview.1
-        - 0.3.0-preview.1
-        - 0.3.1-preview
-        - 0.3.2-preview
-        - 0.4.0-preview.5
-        - 0.4.1-preview
-        - 0.5.0-preview.1
-        - 0.5.1-preview.2
-        - 0.6.0-preview.3
+        - 1.0.0-preview.2
+        - 1.0.0-preview.3
+        - 1.0.0-preview.4
+        - 1.0.1-preview.1
+        - 1.1.2
+        - 2.0.0-preview
+        - 2.0.0-preview.1
+        - 2.0.0-preview.2
+        - 2.0.0
+        - 2.0.1-preview.1
         compatible:
-        - 0.0.1-preview.1
-        - 0.0.2-preview.1
-        - 0.1.0-preview
-        - 0.2.0-preview
-        - 0.2.2-preview
-        - 0.2.3-preview
-        - 0.2.4-preview
-        - 0.2.5-preview
-        - 0.2.5-preview.1
-        - 0.3.0-preview.1
-        - 0.3.1-preview
-        - 0.3.2-preview
-        - 0.4.0-preview.5
-        - 0.4.1-preview
-        - 0.5.0-preview.1
-        - 0.5.1-preview.2
-        - 0.6.0-preview.3
-        verified: 
-      dependencies:
-      - name: com.unity.burst
-        version: 1.4.1
-      - name: com.unity.collections
-        version: 0.15.0-preview.21
-      - name: com.unity.entities
-        version: 0.17.0-preview.41
-      - name: com.unity.jobs
-        version: 0.8.0-preview.23
-      - name: com.unity.mathematics
-        version: 1.2.1
-      - name: com.unity.test-framework
-        version: 1.1.11
-      - name: com.unity.test-framework.performance
-        version: 2.3.1-preview
-      - name: com.unity.modules.imgui
-        version: 1.0.0
-      - name: com.unity.modules.jsonserialize
-        version: 1.0.0
-      resolvedDependencies:
-      - name: com.unity.burst
-        version: 1.4.1
-      - name: com.unity.mathematics
-        version: 1.2.1
-      - name: com.unity.collections
-        version: 0.15.0-preview.21
-      - name: com.unity.test-framework.performance
-        version: 2.3.1-preview
-      - name: com.unity.test-framework
-        version: 1.1.20
-      - name: com.unity.ext.nunit
-        version: 1.0.6
-      - name: com.unity.modules.imgui
-        version: 1.0.0
-      - name: com.unity.modules.jsonserialize
-        version: 1.0.0
-      - name: com.unity.nuget.newtonsoft-json
-        version: 2.0.0-preview
-      - name: com.unity.entities
-        version: 0.17.0-preview.41
-      - name: com.unity.properties
-        version: 1.6.0-preview
-      - name: com.unity.nuget.mono-cecil
-        version: 0.1.6-preview.2
-      - name: nuget.mono-cecil
-        version: 0.1.6-preview
-      - name: com.unity.serialization
-        version: 1.6.2-preview
-      - name: com.unity.jobs
-        version: 0.8.0-preview.23
-      - name: com.unity.modules.assetbundle
-        version: 1.0.0
-      - name: com.unity.scriptablebuildpipeline
-        version: 1.9.0
-      - name: com.unity.platforms
-        version: 0.10.0-preview.10
-      - name: com.unity.properties.ui
-        version: 1.6.2-preview.1
-      - name: com.unity.modules.uielements
-        version: 1.0.0
-      - name: com.unity.modules.ui
-        version: 1.0.0
-      - name: com.unity.modules.uielementsnative
-        version: 1.0.0
-      keywords:
-      - unity
-      - physics
+        - 1.0.0-preview.2
+        - 1.0.0-preview.3
+        - 1.0.0-preview.4
+        - 1.0.1-preview.1
+        - 1.1.2
+        - 2.0.0-preview
+        - 2.0.0-preview.1
+        - 2.0.0-preview.2
+        - 2.0.0
+        - 2.0.1-preview.1
+        verified: 2.0.0
+      dependencies: []
+      resolvedDependencies: []
+      keywords: []
       registry:
         id: main
         name: 
@@ -4425,13 +4502,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637469315570000000
+      datePublishedTicks: 637118653110000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
-        url: git+https://github.com/Unity-Technologies/Unity.Physics.git
-        revision: 6ec1fba588df68052879913d6e4b14ed3714e90e
+        url: git@github.cds.internal.unity3d.com:unity/com.unity.nuget.newtonsoft-json.git
+        revision: 74ca86c283a2f63ba5b687451a0842ba924da907
         path: 
     - packageId: com.unity.properties@1.6.0-preview
       testable: 0
@@ -4652,7 +4729,7 @@ m_PackageAssets:
       - name: com.unity.collections
         version: 0.15.0-preview.21
       - name: com.unity.burst
-        version: 1.4.1
+        version: 1.5.3
       - name: com.unity.mathematics
         version: 1.2.1
       - name: com.unity.jobs
@@ -4786,7 +4863,7 @@ m_PackageAssets:
       - name: com.unity.nuget.newtonsoft-json
         version: 2.0.0-preview
       - name: com.unity.burst
-        version: 1.4.1
+        version: 1.5.3
       - name: com.unity.mathematics
         version: 1.2.1
       - name: com.unity.jobs
@@ -4871,81 +4948,6 @@ m_PackageAssets:
         type: git
         url: git@gitlab.cds.internal.unity3d.com/upm-packages/core/nuget.mono-cecil.git
         revision: d9e57e10c26ba36a62a828729ad08eb73d0386b6
-        path: 
-    - packageId: com.unity.nuget.newtonsoft-json@2.0.0-preview
-      testable: 0
-      isDirectDependency: 0
-      version: 2.0.0-preview
-      source: 1
-      resolvedPath: /Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space
-        Battle/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0-preview
-      assetPath: Packages/com.unity.nuget.newtonsoft-json
-      name: com.unity.nuget.newtonsoft-json
-      displayName: Newtonsoft Json
-      author:
-        name: 
-        email: 
-        url: 
-      category: 
-      type: 
-      description: 'Newtonsoft Json for use in Unity projects and Unity packages.
-        Currently synced to version 12.0.2.
-
-
-        This package is used for advanced
-        json serialization and deserialization. Most Unity users will be better suited
-        using the existing json tools built into Unity.
-
-        To avoid assembly
-        clashes, please use this package if you intend to use Newtonsoft Json.'
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 1.0.0-preview.2
-        - 1.0.0-preview.3
-        - 1.0.0-preview.4
-        - 1.0.1-preview.1
-        - 1.1.2
-        - 2.0.0-preview
-        - 2.0.0-preview.1
-        - 2.0.0-preview.2
-        - 2.0.0
-        - 2.0.1-preview.1
-        compatible:
-        - 1.0.0-preview.2
-        - 1.0.0-preview.3
-        - 1.0.0-preview.4
-        - 1.0.1-preview.1
-        - 1.1.2
-        - 2.0.0-preview
-        - 2.0.0-preview.1
-        - 2.0.0-preview.2
-        - 2.0.0
-        - 2.0.1-preview.1
-        verified: 2.0.0
-      dependencies: []
-      resolvedDependencies: []
-      keywords: []
-      registry:
-        id: main
-        name: 
-        url: https://packages.unity.com
-        scopes: []
-        isDefault: 1
-        capabilities: 7
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 637118653110000000
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: git@github.cds.internal.unity3d.com:unity/com.unity.nuget.newtonsoft-json.git
-        revision: 74ca86c283a2f63ba5b687451a0842ba924da907
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
