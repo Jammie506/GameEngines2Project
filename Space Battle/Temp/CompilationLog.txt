@@ -1,2 +1,8 @@
+# Starting compiling HelloCube.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-921bd9841cb2747099a76d9eaa2f2b1a
+# Starting IL post processing on HelloCube.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space Battle/Temp/UnityTempFile-ef1de6111b1914c209605c8c8488b82f"
 # Starting compiling Assembly-CSharp.dll
-/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-65aa36d9488134b27aa1dcc4d6a8d23c
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-bc6fc96eeae11494bb1cf5e329b7cb2c
+# Starting IL post processing on Assembly-CSharp.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space Battle/Temp/UnityTempFile-3753e375e89354628a08fc1c3dfa97be"
