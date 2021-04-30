@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637553698820000000
-    m_Hash: 2843810863
+      ticks: 637553714310000000
+    m_Hash: 1661834437
   m_LockFileStatus:
     m_FilePath: /Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space Battle/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637553698830000000
-    m_Hash: 2369375729
+      ticks: 637553714320000000
+    m_Hash: 1639410086
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -117,6 +117,215 @@ m_PackageAssets:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
         revision: fa825106f349f996acff22f718845eab46ca2d7c
+        path: 
+    - packageId: com.unity.entities@0.17.0-preview.41
+      testable: 0
+      isDirectDependency: 1
+      version: 0.17.0-preview.41
+      source: 1
+      resolvedPath: /Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space
+        Battle/Library/PackageCache/com.unity.entities@0.17.0-preview.41
+      assetPath: Packages/com.unity.entities
+      name: com.unity.entities
+      displayName: Entities
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: The Entities package provides a modern Entity Component System
+        (ECS) implementation with a basic set of systems and components made for
+        Unity.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.0.12-preview.2
+        - 0.0.12-preview.4
+        - 0.0.12-preview.5
+        - 0.0.12-preview.6
+        - 0.0.12-preview.8
+        - 0.0.12-preview.11
+        - 0.0.12-preview.12
+        - 0.0.12-preview.13
+        - 0.0.12-preview.14
+        - 0.0.12-preview.15
+        - 0.0.12-preview.16
+        - 0.0.12-preview.17
+        - 0.0.12-preview.18
+        - 0.0.12-preview.19
+        - 0.0.12-preview.20
+        - 0.0.12-preview.21
+        - 0.0.12-preview.23
+        - 0.0.12-preview.24
+        - 0.0.12-preview.26
+        - 0.0.12-preview.27
+        - 0.0.12-preview.28
+        - 0.0.12-preview.29
+        - 0.0.12-preview.30
+        - 0.0.12-preview.31
+        - 0.0.12-preview.32
+        - 0.0.12-preview.33
+        - 0.1.0-preview
+        - 0.1.1-preview
+        - 0.2.0-preview.18
+        - 0.3.0-preview.4
+        - 0.4.0-preview.10
+        - 0.5.0-preview.17
+        - 0.5.1-preview.11
+        - 0.6.0-preview.24
+        - 0.7.0-preview.19
+        - 0.8.0-preview.8
+        - 0.9.0-preview.6
+        - 0.9.1-preview.15
+        - 0.10.0-preview.6
+        - 0.11.0-preview.7
+        - 0.11.1-preview.4
+        - 0.11.2-preview.1
+        - 0.13.0-preview.24
+        - 0.14.0-preview.18
+        - 0.14.0-preview.19
+        - 0.16.0-preview.21
+        - 0.17.0-preview.41
+        compatible:
+        - 0.0.12-preview.2
+        - 0.0.12-preview.4
+        - 0.0.12-preview.5
+        - 0.0.12-preview.6
+        - 0.0.12-preview.8
+        - 0.0.12-preview.11
+        - 0.0.12-preview.12
+        - 0.0.12-preview.13
+        - 0.0.12-preview.14
+        - 0.0.12-preview.15
+        - 0.0.12-preview.16
+        - 0.0.12-preview.17
+        - 0.0.12-preview.18
+        - 0.0.12-preview.19
+        - 0.0.12-preview.20
+        - 0.0.12-preview.21
+        - 0.0.12-preview.23
+        - 0.0.12-preview.24
+        - 0.0.12-preview.26
+        - 0.0.12-preview.27
+        - 0.0.12-preview.28
+        - 0.0.12-preview.29
+        - 0.0.12-preview.30
+        - 0.0.12-preview.31
+        - 0.0.12-preview.32
+        - 0.0.12-preview.33
+        - 0.1.0-preview
+        - 0.1.1-preview
+        - 0.2.0-preview.18
+        - 0.3.0-preview.4
+        - 0.4.0-preview.10
+        - 0.5.0-preview.17
+        - 0.5.1-preview.11
+        - 0.6.0-preview.24
+        - 0.7.0-preview.19
+        - 0.8.0-preview.8
+        - 0.9.0-preview.6
+        - 0.9.1-preview.15
+        - 0.10.0-preview.6
+        - 0.11.0-preview.7
+        - 0.11.1-preview.4
+        - 0.11.2-preview.1
+        - 0.13.0-preview.24
+        - 0.14.0-preview.18
+        - 0.14.0-preview.19
+        - 0.16.0-preview.21
+        - 0.17.0-preview.41
+        verified: 
+      dependencies:
+      - name: com.unity.burst
+        version: 1.4.1
+      - name: com.unity.properties
+        version: 1.5.0-preview
+      - name: com.unity.serialization
+        version: 1.5.0-preview
+      - name: com.unity.collections
+        version: 0.15.0-preview.21
+      - name: com.unity.mathematics
+        version: 1.2.1
+      - name: com.unity.modules.assetbundle
+        version: 1.0.0
+      - name: com.unity.test-framework.performance
+        version: 2.3.1-preview
+      - name: com.unity.nuget.mono-cecil
+        version: 0.1.6-preview.2
+      - name: com.unity.jobs
+        version: 0.8.0-preview.23
+      - name: com.unity.scriptablebuildpipeline
+        version: 1.9.0
+      - name: com.unity.platforms
+        version: 0.10.0-preview.10
+      resolvedDependencies:
+      - name: com.unity.burst
+        version: 1.4.1
+      - name: com.unity.mathematics
+        version: 1.2.1
+      - name: com.unity.properties
+        version: 1.6.0-preview
+      - name: com.unity.nuget.mono-cecil
+        version: 0.1.6-preview.2
+      - name: nuget.mono-cecil
+        version: 0.1.6-preview
+      - name: com.unity.test-framework.performance
+        version: 2.3.1-preview
+      - name: com.unity.test-framework
+        version: 1.1.20
+      - name: com.unity.ext.nunit
+        version: 1.0.6
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      - name: com.unity.nuget.newtonsoft-json
+        version: 2.0.0-preview
+      - name: com.unity.serialization
+        version: 1.6.2-preview
+      - name: com.unity.collections
+        version: 0.15.0-preview.21
+      - name: com.unity.jobs
+        version: 0.8.0-preview.23
+      - name: com.unity.modules.assetbundle
+        version: 1.0.0
+      - name: com.unity.scriptablebuildpipeline
+        version: 1.9.0
+      - name: com.unity.platforms
+        version: 0.10.0-preview.10
+      - name: com.unity.properties.ui
+        version: 1.6.2-preview.1
+      - name: com.unity.modules.uielements
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.uielementsnative
+        version: 1.0.0
+      keywords:
+      - entities
+      - dots
+      - unity
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637469314170000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git+https://github.com/Unity-Technologies/dots.git
+        revision: d40762a3123d21ac4e10ae68dd854546394c5da8
         path: 
     - packageId: com.unity.ide.rider@2.0.7
       testable: 0
@@ -2803,215 +3012,6 @@ m_PackageAssets:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ext.nunit.git
         revision: 29ea4d6504a5f58fb3a6934db839aa80ae6d9d88
-        path: 
-    - packageId: com.unity.entities@0.17.0-preview.41
-      testable: 0
-      isDirectDependency: 0
-      version: 0.17.0-preview.41
-      source: 1
-      resolvedPath: /Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space
-        Battle/Library/PackageCache/com.unity.entities@0.17.0-preview.41
-      assetPath: Packages/com.unity.entities
-      name: com.unity.entities
-      displayName: Entities
-      author:
-        name: 
-        email: 
-        url: 
-      category: 
-      type: 
-      description: The Entities package provides a modern Entity Component System
-        (ECS) implementation with a basic set of systems and components made for
-        Unity.
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 0.0.12-preview.2
-        - 0.0.12-preview.4
-        - 0.0.12-preview.5
-        - 0.0.12-preview.6
-        - 0.0.12-preview.8
-        - 0.0.12-preview.11
-        - 0.0.12-preview.12
-        - 0.0.12-preview.13
-        - 0.0.12-preview.14
-        - 0.0.12-preview.15
-        - 0.0.12-preview.16
-        - 0.0.12-preview.17
-        - 0.0.12-preview.18
-        - 0.0.12-preview.19
-        - 0.0.12-preview.20
-        - 0.0.12-preview.21
-        - 0.0.12-preview.23
-        - 0.0.12-preview.24
-        - 0.0.12-preview.26
-        - 0.0.12-preview.27
-        - 0.0.12-preview.28
-        - 0.0.12-preview.29
-        - 0.0.12-preview.30
-        - 0.0.12-preview.31
-        - 0.0.12-preview.32
-        - 0.0.12-preview.33
-        - 0.1.0-preview
-        - 0.1.1-preview
-        - 0.2.0-preview.18
-        - 0.3.0-preview.4
-        - 0.4.0-preview.10
-        - 0.5.0-preview.17
-        - 0.5.1-preview.11
-        - 0.6.0-preview.24
-        - 0.7.0-preview.19
-        - 0.8.0-preview.8
-        - 0.9.0-preview.6
-        - 0.9.1-preview.15
-        - 0.10.0-preview.6
-        - 0.11.0-preview.7
-        - 0.11.1-preview.4
-        - 0.11.2-preview.1
-        - 0.13.0-preview.24
-        - 0.14.0-preview.18
-        - 0.14.0-preview.19
-        - 0.16.0-preview.21
-        - 0.17.0-preview.41
-        compatible:
-        - 0.0.12-preview.2
-        - 0.0.12-preview.4
-        - 0.0.12-preview.5
-        - 0.0.12-preview.6
-        - 0.0.12-preview.8
-        - 0.0.12-preview.11
-        - 0.0.12-preview.12
-        - 0.0.12-preview.13
-        - 0.0.12-preview.14
-        - 0.0.12-preview.15
-        - 0.0.12-preview.16
-        - 0.0.12-preview.17
-        - 0.0.12-preview.18
-        - 0.0.12-preview.19
-        - 0.0.12-preview.20
-        - 0.0.12-preview.21
-        - 0.0.12-preview.23
-        - 0.0.12-preview.24
-        - 0.0.12-preview.26
-        - 0.0.12-preview.27
-        - 0.0.12-preview.28
-        - 0.0.12-preview.29
-        - 0.0.12-preview.30
-        - 0.0.12-preview.31
-        - 0.0.12-preview.32
-        - 0.0.12-preview.33
-        - 0.1.0-preview
-        - 0.1.1-preview
-        - 0.2.0-preview.18
-        - 0.3.0-preview.4
-        - 0.4.0-preview.10
-        - 0.5.0-preview.17
-        - 0.5.1-preview.11
-        - 0.6.0-preview.24
-        - 0.7.0-preview.19
-        - 0.8.0-preview.8
-        - 0.9.0-preview.6
-        - 0.9.1-preview.15
-        - 0.10.0-preview.6
-        - 0.11.0-preview.7
-        - 0.11.1-preview.4
-        - 0.11.2-preview.1
-        - 0.13.0-preview.24
-        - 0.14.0-preview.18
-        - 0.14.0-preview.19
-        - 0.16.0-preview.21
-        - 0.17.0-preview.41
-        verified: 
-      dependencies:
-      - name: com.unity.burst
-        version: 1.4.1
-      - name: com.unity.properties
-        version: 1.5.0-preview
-      - name: com.unity.serialization
-        version: 1.5.0-preview
-      - name: com.unity.collections
-        version: 0.15.0-preview.21
-      - name: com.unity.mathematics
-        version: 1.2.1
-      - name: com.unity.modules.assetbundle
-        version: 1.0.0
-      - name: com.unity.test-framework.performance
-        version: 2.3.1-preview
-      - name: com.unity.nuget.mono-cecil
-        version: 0.1.6-preview.2
-      - name: com.unity.jobs
-        version: 0.8.0-preview.23
-      - name: com.unity.scriptablebuildpipeline
-        version: 1.9.0
-      - name: com.unity.platforms
-        version: 0.10.0-preview.10
-      resolvedDependencies:
-      - name: com.unity.burst
-        version: 1.4.1
-      - name: com.unity.mathematics
-        version: 1.2.1
-      - name: com.unity.properties
-        version: 1.6.0-preview
-      - name: com.unity.nuget.mono-cecil
-        version: 0.1.6-preview.2
-      - name: nuget.mono-cecil
-        version: 0.1.6-preview
-      - name: com.unity.test-framework.performance
-        version: 2.3.1-preview
-      - name: com.unity.test-framework
-        version: 1.1.20
-      - name: com.unity.ext.nunit
-        version: 1.0.6
-      - name: com.unity.modules.imgui
-        version: 1.0.0
-      - name: com.unity.modules.jsonserialize
-        version: 1.0.0
-      - name: com.unity.nuget.newtonsoft-json
-        version: 2.0.0-preview
-      - name: com.unity.serialization
-        version: 1.6.2-preview
-      - name: com.unity.collections
-        version: 0.15.0-preview.21
-      - name: com.unity.jobs
-        version: 0.8.0-preview.23
-      - name: com.unity.modules.assetbundle
-        version: 1.0.0
-      - name: com.unity.scriptablebuildpipeline
-        version: 1.9.0
-      - name: com.unity.platforms
-        version: 0.10.0-preview.10
-      - name: com.unity.properties.ui
-        version: 1.6.2-preview.1
-      - name: com.unity.modules.uielements
-        version: 1.0.0
-      - name: com.unity.modules.ui
-        version: 1.0.0
-      - name: com.unity.modules.uielementsnative
-        version: 1.0.0
-      keywords:
-      - entities
-      - dots
-      - unity
-      registry:
-        id: main
-        name: 
-        url: https://packages.unity.com
-        scopes: []
-        isDefault: 1
-        capabilities: 7
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 637469314170000000
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: git+https://github.com/Unity-Technologies/dots.git
-        revision: d40762a3123d21ac4e10ae68dd854546394c5da8
         path: 
     - packageId: com.unity.burst@1.4.1
       testable: 0
