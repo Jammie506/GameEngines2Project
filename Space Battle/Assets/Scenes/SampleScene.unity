@@ -133,8 +133,9 @@ GameObject:
   m_Component:
   - component: {fileID: 47231209}
   - component: {fileID: 47231208}
+  - component: {fileID: 47231210}
   m_Layer: 0
-  m_Name: Rock Spawner
+  m_Name: Spawner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -147,7 +148,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 47231207}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5b432affc1b6b4dc095ee24655754a90, type: 3}
   m_Name: 
@@ -175,6 +176,21 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &47231210
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 47231207}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2dd9c57123314f55a908d0f64dc375c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 5998812232396126063, guid: e0c73633e8ace45d499219403076e933, type: 3}
+  CountX: 50
+  CountY: 50
 --- !u!1 &60908347
 GameObject:
   m_ObjectHideFlags: 0
