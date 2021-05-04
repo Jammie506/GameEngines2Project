@@ -36,7 +36,7 @@ namespace Unity.Physics
 
                     var parameters = new JobsUtility.JobScheduleParameters(
                         UnsafeUtility.AddressOf(ref data),
-                        CollisionEventJobProcess<T>.Initialize(), inputDeps, ScheduleMode.Batched);
+                        CollisionEventJobProcess<T>.Initialize(), inputDeps, ScheduleMode.Parallel);
                     return JobsUtility.Schedule(ref parameters);
                 }
 
@@ -60,7 +60,7 @@ namespace Unity.Physics
                 if (jobReflectionData == IntPtr.Zero)
                 {
                     jobReflectionData = JobsUtility.CreateJobReflectionData(typeof(CollisionEventJobData<T>),
-                        typeof(T), JobType.Single, (ExecuteJobFunction)Execute);
+                        typeof(T), (ExecuteJobFunction)Execute);
                 }
                 return jobReflectionData;
             }

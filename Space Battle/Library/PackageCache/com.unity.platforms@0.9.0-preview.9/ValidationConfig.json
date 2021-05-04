@@ -1,0 +1,13 @@
+{
+	"FilenameValidation": {
+		"Filenames": [{
+				"Filename": "Editor/Unity.Build.Classic.Private/NonIncremental/MissingPipelines/*ClassicNonIncrementalPipeline.cs*",
+				"Targets": "+Switch,+XboxOne,+PS4"
+			},
+			{
+				"Filename": "Editor/Unity.Build.Classic.Private/NonIncremental/Steps/SwitchPlatfomStep.cs*",
+				"Targets": "+Switch"
+			}
+		]
+	}
+}
