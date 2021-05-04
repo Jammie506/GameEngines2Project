@@ -1257,3 +1257,4 @@ Received Import Request.
 Start importing Assets/Prefabs/LEADER TIE Fighter.prefab using Guid(363cdaa1fa88d4a138a028c5184e6de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '895605399dbd8697fd9595e21f5439f4') in 0.023510 seconds
   Import took 0.028881 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
