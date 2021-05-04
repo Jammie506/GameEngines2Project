@@ -30,10 +30,6 @@ namespace ew
 
         private EntityManager entityManager;
 
-        private RenderMesh bodyMesh;
-        //public Mesh mesh;
-        //public Material material;
-
         public float seperationWeight = 1.0f;
         public float cohesionWeight = 2.0f;
         public float alignmentWeight = 1.0f;
@@ -102,11 +98,13 @@ namespace ew
         Entity CreateBoidWithTrail(Vector3 pos, Quaternion q, int boidId, float size)
         {
             var settings = GameObjectConversionSettings.FromWorld(World.DefaultGameObjectInjectionWorld, null);
-            Entity prefab = GameObjectConversionUtility.ConvertGameObjectHierarchy(Prefab, settings);
+            var prefab = GameObjectConversionUtility.ConvertGameObjectHierarchy(Prefab, settings);
+            
             var entityManager = World.DefaultGameObjectInjectionWorld.EntityManager;
             
             prefab = entityManager.CreateEntity(boidArchitype);
             allTheBoids[boidId] = prefab;
+            
             Translation p = new Translation
             {
                 Value = pos
@@ -141,34 +139,10 @@ namespace ew
                 target = UnityEngine.Random.insideUnitSphere * 1.2f
             });
             
-            entityManager.SetComponentData(prefab, new Spine() { parent = -1, spineId = (spineLength + 1) * boidId });
+            //entityManager.SetComponentData(prefab, new Spine() { parent = -1, spineId = (spineLength + 1) * boidId });
             entityManager.SetComponentData(prefab, new ObstacleAvoidance() {forwardFeelerDepth = 50, forceType = ObstacleAvoidance.ForceType.normal});
 
-            entityManager.AddSharedComponentData(prefab, bodyMesh);
-
-            for (int i = 0; i < spineLength; i++)
-            {
-                int parentId = (boidId * (spineLength + 1)) + i;
-                Translation sp = new Translation
-                {
-                    Value = pos - (q * Vector3.forward) * size * (float)(i + 1)
-                };
-                Entity spineEntity = entityManager.CreateEntity(spineArchitype);
-                int spineIndex = (boidId * spineLength) + i;
-                allTheSpines[spineIndex] = spineEntity;
-
-                entityManager.SetComponentData(spineEntity, sp);
-                entityManager.SetComponentData(spineEntity, r);
-                entityManager.SetComponentData(spineEntity, new Spine() { parent = parentId, spineId = parentId + 1, offset = new Vector3(0, 0, -size) });
-                entityManager.AddSharedComponentData(spineEntity, bodyMesh);
-                s = new NonUniformScale
-                {
-                    Value = new Vector3(0.01f, Map(i, 0, spineLength, size, 0.01f * size), size)
-                };
-                //s.Value = new Vector3(2, 4, 10);
-                entityManager.SetComponentData(spineEntity, s);
-
-            }
+            //entityManager.AddSharedComponentData(prefab, bodyMesh);
 
             return prefab;
         }
@@ -186,11 +160,11 @@ namespace ew
         void Start()
         {
             BoidJobSystem.Instance.Enabled = true;
-            HeadsAndTailsSystem.Instance.Enabled = true;
-            SpineSystem.Instance.Enabled = true;
+            //HeadsAndTailsSystem.Instance.Enabled = true;
+            //SpineSystem.Instance.Enabled = true;
             allTheBoids = new NativeArray<Entity>(numBoids, Allocator.Persistent);
-            allTheheadsAndTails = new NativeArray<Entity>(numBoids * 2, Allocator.Persistent);
-            allTheSpines = new NativeArray<Entity>(numBoids * spineLength, Allocator.Persistent);
+            //allTheheadsAndTails = new NativeArray<Entity>(numBoids * 2, Allocator.Persistent);
+            //allTheSpines = new NativeArray<Entity>(numBoids * spineLength, Allocator.Persistent);
 
             entityManager = World.DefaultGameObjectInjectionWorld.EntityManager;
 
@@ -217,19 +191,11 @@ namespace ew
 
             );
 
-            /*bodyMesh = new RenderMesh
-            {
-                mesh = mesh,
-                material = material
-            };*/
-            
             StartCoroutine(CreateBoids());
             
             Cursor.visible = false;
 
             cr = StartCoroutine(Show());
-
-            //Cursor.lockState = CursorLockMode.Locked;
         }
 
         IEnumerator CreateBoids()
@@ -257,16 +223,12 @@ namespace ew
         public int gridSize = 10000;
         public bool usePartitioning = true;
 
-        //Material boidMaterial;
-
         public void Update()
         {
             if (isContainer)
                 return;
 
             BoidJobSystem.Instance.bootstrap = this;
-            //SpineSystem.Instance.bootstrap = this;
-            //HeadsAndTailsSystem.Instance.bootstrap = this;
             
             Explosion();
         }
