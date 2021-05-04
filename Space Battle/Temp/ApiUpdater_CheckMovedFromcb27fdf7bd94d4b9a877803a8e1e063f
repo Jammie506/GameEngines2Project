@@ -1,0 +1,64 @@
+5202412776
+7136607203321344161
+/Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space Battle/Assets/Scripts/A-ECS Stuff/BackAndForthCamera.cs
+19
+9
+BoidBootstrap
+0
+0
+5202415368
+7136607203321344161
+/Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space Battle/Assets/Scripts/A-ECS Stuff/HeadsAndTailsSystem.cs
+112
+16
+BoidBootstrap
+0
+0
+5202415584
+7136607203321344161
+/Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space Battle/Assets/Scripts/A-ECS Stuff/SpineSystem.cs
+23
+16
+BoidBootstrap
+0
+0
+5202416664
+7136607203321344161
+/Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space Battle/Assets/Scripts/A-ECS Stuff/BoidBootstrap.cs
+119
+16
+BoidBootstrap
+0
+0
+5202418392
+7136607203321344161
+/Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space Battle/Assets/Scripts/A-ECS Stuff/BoidBootstrap.cs
+1016
+16
+CollisionWorld
+0
+0
+5202419256
+7136607203321344161
+/Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space Battle/Assets/Scripts/A-ECS Stuff/BoidJobSystem.cs
+116
+16
+BoidBootstrap
+0
+0
+5202419688
+7136607203321344161
+/Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space Battle/Assets/Scripts/A-ECS Stuff/BoidBootstrap.cs
+133
+9
+BuildPhysicsWorld
+0
+0
+5202419904
+7136607203321344161
+/Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space Battle/Assets/Scripts/A-ECS Stuff/BoidBootstrap.cs
+134
+9
+CollisionWorld
+0
+0

@@ -4,7 +4,7 @@ using Unity.Transforms;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
-[AddComponentMenu("DOTS Samples/SpawnFromMonoBehaviour/Spawner")]
+//[AddComponentMenu("DOTS Samples/SpawnFromMonoBehaviour/Spawner")]
 public class ShipMaker : MonoBehaviour
 {
     public GameObject Prefab;
