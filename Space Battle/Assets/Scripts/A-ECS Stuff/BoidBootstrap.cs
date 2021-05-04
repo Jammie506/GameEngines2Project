@@ -31,8 +31,8 @@ namespace ew
         private EntityManager entityManager;
 
         private RenderMesh bodyMesh;
-        public Mesh mesh;
-        public Material material;
+        //public Mesh mesh;
+        //public Material material;
 
         public float seperationWeight = 1.0f;
         public float cohesionWeight = 2.0f;
@@ -101,8 +101,12 @@ namespace ew
         
         Entity CreateBoidWithTrail(Vector3 pos, Quaternion q, int boidId, float size)
         {
-            Entity boidEntity = entityManager.CreateEntity(boidArchitype);
-            allTheBoids[boidId] = boidEntity;
+            var settings = GameObjectConversionSettings.FromWorld(World.DefaultGameObjectInjectionWorld, null);
+            Entity prefab = GameObjectConversionUtility.ConvertGameObjectHierarchy(Prefab, settings);
+            var entityManager = World.DefaultGameObjectInjectionWorld.EntityManager;
+            
+            prefab = entityManager.CreateEntity(boidArchitype);
+            allTheBoids[boidId] = prefab;
             Translation p = new Translation
             {
                 Value = pos
@@ -113,34 +117,34 @@ namespace ew
                 Value = q
             };
 
-            entityManager.SetComponentData(boidEntity, p);
-            entityManager.SetComponentData(boidEntity, r);
+            entityManager.SetComponentData(prefab, p);
+            entityManager.SetComponentData(prefab, r);
 
             NonUniformScale s = new NonUniformScale
             {
                 Value = new Vector3(size * 0.3f, size, size)
             };
 
-            entityManager.SetComponentData(boidEntity, s);
+            entityManager.SetComponentData(prefab, s);
 
-            entityManager.SetComponentData(boidEntity, new Boid() { boidId = boidId, mass = 1, maxSpeed = 100 * UnityEngine.Random.Range(0.9f, 1.1f), maxForce = 400, weight = 200 });
-            entityManager.SetComponentData(boidEntity, new Seperation());
-            entityManager.SetComponentData(boidEntity, new Alignment());
-            entityManager.SetComponentData(boidEntity, new Cohesion());
-            entityManager.SetComponentData(boidEntity, new Constrain());
-            entityManager.SetComponentData(boidEntity, new Flee());
-            entityManager.SetComponentData(boidEntity, new Wander()
+            entityManager.SetComponentData(prefab, new Boid() { boidId = boidId, mass = 1, maxSpeed = 100 * UnityEngine.Random.Range(0.9f, 1.1f), maxForce = 400, weight = 200 });
+            entityManager.SetComponentData(prefab, new Seperation());
+            entityManager.SetComponentData(prefab, new Alignment());
+            entityManager.SetComponentData(prefab, new Cohesion());
+            entityManager.SetComponentData(prefab, new Constrain());
+            entityManager.SetComponentData(prefab, new Flee());
+            entityManager.SetComponentData(prefab, new Wander()
             {
-                distance = 2
-                ,
+                distance = 2,
                 radius = 1.2f,
                 jitter = 80,
                 target = UnityEngine.Random.insideUnitSphere * 1.2f
-            });                        
-            entityManager.SetComponentData(boidEntity, new Spine() { parent = -1, spineId = (spineLength + 1) * boidId });
-            entityManager.SetComponentData(boidEntity, new ObstacleAvoidance() {forwardFeelerDepth = 50, forceType = ObstacleAvoidance.ForceType.normal});
+            });
+            
+            entityManager.SetComponentData(prefab, new Spine() { parent = -1, spineId = (spineLength + 1) * boidId });
+            entityManager.SetComponentData(prefab, new ObstacleAvoidance() {forwardFeelerDepth = 50, forceType = ObstacleAvoidance.ForceType.normal});
 
-            entityManager.AddSharedComponentData(boidEntity, bodyMesh);
+            entityManager.AddSharedComponentData(prefab, bodyMesh);
 
             for (int i = 0; i < spineLength; i++)
             {
@@ -166,49 +170,7 @@ namespace ew
 
             }
 
-            // Make the head
-
-            Entity headEntity = entityManager.CreateEntity(headArchitype);
-            allTheheadsAndTails[boidId * 2] = headEntity;
-            Translation headTranslation = new Translation();
-            headTranslation.Value = pos + (q * Vector3.forward) * size;
-            entityManager.SetComponentData(headEntity, headTranslation);
-            Rotation headRotation = new Rotation();
-            headRotation.Value = q;
-            entityManager.SetComponentData(headEntity, headRotation);
-            entityManager.AddSharedComponentData(headEntity, bodyMesh);
-            entityManager.SetComponentData(headEntity, s);
-            s = new NonUniformScale
-            {
-                Value = new Vector3(size * 0.3f, size, size)
-            };
-            //s.Value = new Vector3(2, 4, 10);
-            entityManager.SetComponentData(headEntity, s);
-            entityManager.SetComponentData(headEntity, new Head() { spineId = boidId * (spineLength + 1), boidId = boidId });
-            // End head
-
-            // Make the tail
-            Entity tailEntity = entityManager.CreateEntity(tailArchitype);
-            allTheheadsAndTails[(boidId * 2) + 1] = tailEntity;
-            Translation tailTranslation = new Translation();
-            tailTranslation.Value = pos - (q * Vector3.forward) * size;
-            //tailTranslation.Value = pos - (q * Vector3.forward) * size * (spineLength + 2);
-            entityManager.SetComponentData(tailEntity, tailTranslation);
-            Rotation tailRotation = new Rotation();
-            tailRotation.Value = q;
-            s = new NonUniformScale
-            {
-                Value = new Vector3(size * 0.3f, size, size)
-            };
-            //s.Value = new Vector3(2, 4, 10);
-            entityManager.SetComponentData(tailEntity, s);
-            entityManager.SetComponentData(tailEntity, tailRotation);
-            entityManager.AddSharedComponentData(tailEntity, bodyMesh);
-            entityManager.SetComponentData(tailEntity, s);
-            entityManager.SetComponentData(tailEntity, new Tail() { boidId = boidId, spineId = boidId * (spineLength + 1) });
-            // End tail    
-
-            return boidEntity;
+            return prefab;
         }
 
         public int numBoids = 100;
@@ -235,9 +197,6 @@ namespace ew
             constrainTranslation = transform.position;
             Cursor.visible = false;
             constrainWeight = baseConstrainWeight;
-            
-            var settings = GameObjectConversionSettings.FromWorld(World.DefaultGameObjectInjectionWorld, null);
-            var prefab = GameObjectConversionUtility.ConvertGameObjectHierarchy(Prefab, settings);
 
             boidArchitype = entityManager.CreateArchetype(
                 typeof(Translation),
@@ -258,11 +217,12 @@ namespace ew
 
             );
 
-            bodyMesh = new RenderMesh
+            /*bodyMesh = new RenderMesh
             {
                 mesh = mesh,
                 material = material
-            };
+            };*/
+            
             StartCoroutine(CreateBoids());
             
             Cursor.visible = false;
@@ -297,11 +257,7 @@ namespace ew
         public int gridSize = 10000;
         public bool usePartitioning = true;
 
-        Material boidMaterial;
-
-        public float colorSpeed = 100;
-
-        public float colorAdd = 0;
+        //Material boidMaterial;
 
         public void Update()
         {
@@ -311,71 +267,14 @@ namespace ew
             BoidJobSystem.Instance.bootstrap = this;
             //SpineSystem.Instance.bootstrap = this;
             //HeadsAndTailsSystem.Instance.bootstrap = this;
-
-            /*if (Input.GetAxis("DPadX") == -1)
-            {
-                colorAdd = Mathf.Lerp(colorAdd, -colorSpeed, Time.deltaTime);
-                material.SetFloat("_TranslationNonUniformScale", material.GetFloat("_TranslationNonUniformScale") + colorAdd);
-            }
-
-            if (Input.GetAxis("DPadX") == 1)
-            {
-                colorAdd = Mathf.Lerp(colorAdd, +colorSpeed, Time.deltaTime);
-                material.SetFloat("_TranslationNonUniformScale", material.GetFloat("_TranslationNonUniformScale") + colorAdd);
-            }
-            */
-
-            if (Input.GetAxis("DPadY") == -1)
-            {
-                colorAdd = Mathf.Lerp(colorAdd, -colorSpeed, Time.deltaTime);
-            }
-
-            if (Input.GetAxis("DPadY") == 1)
-            {
-                colorAdd = Mathf.Lerp(colorAdd, -colorSpeed, Time.deltaTime);
-            }
-            material.SetFloat("_Offset", material.GetFloat("_Offset") + colorAdd);
-            colorAdd = Mathf.Lerp(colorAdd, 0, Time.deltaTime * 0.5f);
-
-
-            //if (Input.GetKeyDown(KeyCode.Joystick1Button8))
-            //{
-            //    StartCoroutine(CreateBoids());
-
-            //}
-            //if (Input.GetKeyDown(KeyCode.Joystick1Button9))
-            //{
-            //    DestroyEntities();
-            //}
-
-            if (Input.GetKey(KeyCode.Joystick1Button2))
-            {
-                speed -= Time.deltaTime;
-                if (speed < 0)
-                {
-                    speed = 0;
-                }
-            }
-
-            if (Input.GetKey(KeyCode.Joystick1Button1))
-            {
-                speed += Time.deltaTime;
-                if (speed > 5)
-                {
-                    speed = 5;
-                }
-            }
+            
             Explosion();
         }
 
         float ellapsed = 1000;
         public float toPass = 0.3f;
         public int clickCount = 0;
-
-        void Awake()
-        {
-            //SceneManager.sceneUnloaded += DestroyTheBoids;
-        }
+        
 
         void DoExplosion(int expType)
         {
@@ -488,7 +387,7 @@ namespace ew
 
         void Explosion()
         {
-            if (Input.GetKeyDown(KeyCode.JoystickButton0) || Input.GetKeyDown(KeyCode.J))
+            if (Input.GetKeyDown(KeyCode.J))
             {
                 clickCount = (clickCount + 1) % 10;
                 ellapsed = 0;
