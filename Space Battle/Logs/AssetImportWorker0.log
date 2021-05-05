@@ -1256,3 +1256,43 @@ Received Import Request.
 Start importing Assets/GlobalEntitiesDependencies/GlobalLiveLinkAssetDependency.asset using Guid(0650e5447d4b34e2a9ea30e6cfba4e52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '360661af6bda3e31bf9e9cc31da9a216') in 0.004043 seconds
   Import took 0.008254 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 408.637860 seconds.
+  path: Assets/Scripts/A-ECS Stuff/ShipMaker.cs
+  artifactKey: Guid(c2dd9c57123314f55a908d0f64dc375c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/A-ECS Stuff/ShipMaker.cs using Guid(c2dd9c57123314f55a908d0f64dc375c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f68f92ec6521f83e5227825d02aaf8b') in 0.319495 seconds
+  Import took 0.330865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3376.127368 seconds.
+  path: Assets/Scripts/A-ECS Stuff/ShipMaker.cs
+  artifactKey: Guid(c2dd9c57123314f55a908d0f64dc375c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/A-ECS Stuff/ShipMaker.cs using Guid(c2dd9c57123314f55a908d0f64dc375c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c6dfc529a3e167c858aec36f7b43b0e') in 0.002131 seconds
+  Import took 0.007328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 898.442009 seconds.
+  path: Assets/Scripts/A-ECS Stuff/ShipMaker.cs
+  artifactKey: Guid(c2dd9c57123314f55a908d0f64dc375c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/A-ECS Stuff/ShipMaker.cs using Guid(c2dd9c57123314f55a908d0f64dc375c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ef2520e2fd292592a66977657ce5926') in 0.001841 seconds
+  Import took 0.006479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 388.875076 seconds.
+  path: Assets/Scripts/A-ECS Stuff/ShipMaker.cs
+  artifactKey: Guid(c2dd9c57123314f55a908d0f64dc375c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/A-ECS Stuff/ShipMaker.cs using Guid(c2dd9c57123314f55a908d0f64dc375c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e89a6d8b2d09f72efceb18d7ef19d03a') in 0.003875 seconds
+  Import took 0.013192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 480.080834 seconds.
+  path: Assets/Scripts/A-ECS Stuff/ShipMaker.cs
+  artifactKey: Guid(c2dd9c57123314f55a908d0f64dc375c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/A-ECS Stuff/ShipMaker.cs using Guid(c2dd9c57123314f55a908d0f64dc375c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eda173a486c3efdd1f7016ea9cdb6268') in 0.001995 seconds
+  Import took 0.007296 seconds .
+
