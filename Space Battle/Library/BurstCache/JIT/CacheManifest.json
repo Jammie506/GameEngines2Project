@@ -103,12 +103,21 @@
     {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "FullName": "Unity.Physics, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
       "LastWriteTime": "2021-05-04T16:41:33Z"
+=======
+      "FullName": "Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2021-05-04T19:05:32Z"
+>>>>>>> parent of 9cc36797 (.)
     },
     {
       "FullName": "Unity.Transforms, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
       "LastWriteTime": "2021-05-04T16:41:32Z"
+    },
+    {
+      "FullName": "Unity.Physics, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2021-05-04T16:41:33Z"
     },
     {
       "FullName": "Unity.Rendering.Hybrid, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -1718,6 +1727,23 @@
       ]
     },
     {
+      "FullName": "System.Void ew.BoidJobSystem/ew.<>c__DisplayClass_DrawGizmos_LambdaJob0::RunWithoutJobSystem(Unity.Entities.ArchetypeChunkIterator*,System.Void*)",
+      "ModuleOptionsHash": 8794384452606821980,
+      "ModuleHash": "1f70eb99de17f54f342e952cf441d398",
+      "LinkName": "9BDE0BD4749CA447",
+      "AssemblyDependencyIndices": [
+        10,
+        1,
+        2,
+        3,
+        5,
+        6,
+        11,
+        7,
+        4
+      ]
+    },
+    {
       "FullName": "System.Void Unity.Collections.xxHash3::_mono_to_burst_Hash64Long(System.Byte*,System.Byte*,System.Int64,System.Byte*,System.UInt64&)",
       "ModuleOptionsHash": 8794384452606821980,
       "ModuleHash": "f033f2bb36f5bbb3443c3b29f52c888c",
@@ -1766,7 +1792,7 @@
       "LinkName": "754D43DF35C8D195",
       "AssemblyDependencyIndices": [
         3,
-        10,
+        12,
         1,
         2,
         5,
@@ -1878,7 +1904,7 @@
       "LinkName": "575138C9033DC922",
       "AssemblyDependencyIndices": [
         3,
-        10,
+        12,
         1,
         2,
         5,
@@ -1918,7 +1944,7 @@
       "LinkName": "19BFC57C61C8DB14",
       "AssemblyDependencyIndices": [
         3,
-        10,
+        12,
         1,
         2,
         5,
@@ -2053,7 +2079,7 @@
       "LinkName": "340EB0EA7B45E42C",
       "AssemblyDependencyIndices": [
         5,
-        10,
+        12,
         6,
         1,
         2,
@@ -2227,6 +2253,7 @@
       "LinkName": "FF031EA991F5F00A",
       "AssemblyDependencyIndices": [
         3,
+<<<<<<< HEAD
         12,
 =======
 =======
@@ -2246,13 +2273,20 @@
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
+=======
+        13,
+>>>>>>> parent of 9cc36797 (.)
         1,
         2,
         5,
         6,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         13,
+=======
+        14,
+>>>>>>> parent of 9cc36797 (.)
         7,
         11,
         4
@@ -2265,7 +2299,7 @@
       "LinkName": "2FF0DB635BB12BB0",
       "AssemblyDependencyIndices": [
         5,
-        12,
+        13,
         6,
         3,
         1,
@@ -2369,6 +2403,7 @@
       "ModuleHash": "63af5c8aeec240db5fd11e64bbf36c20",
       "LinkName": "AD32600A384833D8",
       "AssemblyDependencyIndices": [
+<<<<<<< HEAD
         12,
 =======
 =======
@@ -2417,6 +2452,9 @@
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
+=======
+        13,
+>>>>>>> parent of 9cc36797 (.)
         1,
         2,
         5,
@@ -2424,7 +2462,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
         4,
-        13,
+        14,
         7,
         3
       ]
@@ -2435,11 +2473,11 @@
       "ModuleHash": "06311578c8a9966fe9dfacc76b0727ea",
       "LinkName": "3F80981DF4D063D4",
       "AssemblyDependencyIndices": [
-        12,
+        13,
         1,
         2,
         5,
-        13,
+        14,
         7,
         3,
         6,
@@ -2473,6 +2511,189 @@
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Entities.JobEntityBatchExtensions/JobEntityBatchProducer`1<ew.CopyTransformsToNativeJob>::Execute(Unity.Entities.JobEntityBatchExtensions/JobEntityBatchWrapper`1<T>&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
+      "ModuleOptionsHash": 8794384452606821980,
+      "ModuleHash": "701401cdf959fb1839b24648816f0dc7",
+      "LinkName": "B5C592A6BAC700A2",
+      "AssemblyDependencyIndices": [
+        3,
+        10,
+        1,
+        2,
+        5,
+        4,
+        6,
+        11,
+        7
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Entities.JobEntityBatchExtensions/JobEntityBatchProducer`1<ew.ObstacleAvoidanceJob>::Execute(Unity.Entities.JobEntityBatchExtensions/JobEntityBatchWrapper`1<T>&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
+      "ModuleOptionsHash": 8794384452606821980,
+      "ModuleHash": "9f48b5e2110a68e5176e0c86a0ccf29e",
+      "LinkName": "ABCE61EF0D1A31E2",
+      "AssemblyDependencyIndices": [
+        3,
+        10,
+        1,
+        2,
+        5,
+        4,
+        6,
+        11,
+        7,
+        12
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Jobs.IJobParallelForExtensions/ParallelForJobStruct`1<ew.PartitionSpaceJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
+      "ModuleOptionsHash": 8794384452606821980,
+      "ModuleHash": "dc76a6781607a418971d2e9d7a8d6ac9",
+      "LinkName": "6E308524D0E28A10",
+      "AssemblyDependencyIndices": [
+        5,
+        10,
+        6,
+        4,
+        1,
+        2,
+        7
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Entities.JobEntityBatchExtensions/JobEntityBatchProducer`1<ew.CountNeighboursJob>::Execute(Unity.Entities.JobEntityBatchExtensions/JobEntityBatchWrapper`1<T>&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
+      "ModuleOptionsHash": 8794384452606821980,
+      "ModuleHash": "1123275bec6aa221e5284a08da85cda3",
+      "LinkName": "6AFE1FE9947D586B",
+      "AssemblyDependencyIndices": [
+        3,
+        10,
+        1,
+        2,
+        5,
+        4,
+        6,
+        11,
+        7
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Entities.JobEntityBatchExtensions/JobEntityBatchProducer`1<ew.ConstrainJob>::Execute(Unity.Entities.JobEntityBatchExtensions/JobEntityBatchWrapper`1<T>&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
+      "ModuleOptionsHash": 8794384452606821980,
+      "ModuleHash": "1411c20a08b9f621acb161d19ab9da63",
+      "LinkName": "14CBB42F4F1677E4",
+      "AssemblyDependencyIndices": [
+        3,
+        10,
+        1,
+        2,
+        5,
+        4,
+        6,
+        7
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Entities.JobEntityBatchExtensions/JobEntityBatchProducer`1<ew.SeperationJob>::Execute(Unity.Entities.JobEntityBatchExtensions/JobEntityBatchWrapper`1<T>&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
+      "ModuleOptionsHash": 8794384452606821980,
+      "ModuleHash": "b2d419821ffcded25248d5dcf5adc6e2",
+      "LinkName": "EA41E4331E2814EA",
+      "AssemblyDependencyIndices": [
+        3,
+        10,
+        1,
+        2,
+        5,
+        4,
+        6,
+        11,
+        7
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Entities.JobEntityBatchExtensions/JobEntityBatchProducer`1<ew.CohesionJob>::Execute(Unity.Entities.JobEntityBatchExtensions/JobEntityBatchWrapper`1<T>&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
+      "ModuleOptionsHash": 8794384452606821980,
+      "ModuleHash": "3de4b4ca2aed6a03b2b2e8fb4385f8f6",
+      "LinkName": "32B36D4E63A85472",
+      "AssemblyDependencyIndices": [
+        3,
+        10,
+        1,
+        2,
+        5,
+        4,
+        6,
+        7
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Entities.JobEntityBatchExtensions/JobEntityBatchProducer`1<ew.AlignmentJob>::Execute(Unity.Entities.JobEntityBatchExtensions/JobEntityBatchWrapper`1<T>&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
+      "ModuleOptionsHash": 8794384452606821980,
+      "ModuleHash": "791a98b0d17c541e8ba6a4f9734eb2f6",
+      "LinkName": "365C792F088BA492",
+      "AssemblyDependencyIndices": [
+        3,
+        10,
+        1,
+        2,
+        5,
+        4,
+        6,
+        7
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Entities.JobEntityBatchExtensions/JobEntityBatchProducer`1<ew.WanderJob>::Execute(Unity.Entities.JobEntityBatchExtensions/JobEntityBatchWrapper`1<T>&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
+      "ModuleOptionsHash": 8794384452606821980,
+      "ModuleHash": "a39e8a753365d80e314322f41b24d1cf",
+      "LinkName": "5FE5A8CE44A9CACD",
+      "AssemblyDependencyIndices": [
+        3,
+        10,
+        1,
+        2,
+        5,
+        4,
+        6,
+        7,
+        11
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Entities.JobEntityBatchExtensions/JobEntityBatchProducer`1<ew.BoidJob>::Execute(Unity.Entities.JobEntityBatchExtensions/JobEntityBatchWrapper`1<T>&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
+      "ModuleOptionsHash": 8794384452606821980,
+      "ModuleHash": "1492575fe4cd6114b30911623cf14169",
+      "LinkName": "16077FB9012D1FB8",
+      "AssemblyDependencyIndices": [
+        3,
+        10,
+        1,
+        2,
+        5,
+        4,
+        6,
+        11,
+        7
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Entities.JobEntityBatchExtensions/JobEntityBatchProducer`1<ew.CopyTransformsFromNativeJob>::Execute(Unity.Entities.JobEntityBatchExtensions/JobEntityBatchWrapper`1<T>&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
+      "ModuleOptionsHash": 8794384452606821980,
+      "ModuleHash": "710bb31b9973ef001ae9573a1d1c0891",
+      "LinkName": "91FB910BF051E191",
+      "AssemblyDependencyIndices": [
+        3,
+        10,
+        1,
+        2,
+        5,
+        4,
+        6,
+        11,
+        7
       ]
     }
   ]

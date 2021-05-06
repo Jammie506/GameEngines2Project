@@ -183,12 +183,13 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 47231207}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c2dd9c57123314f55a908d0f64dc375c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Prefab: {fileID: 5998812232396126063, guid: e0c73633e8ace45d499219403076e933, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   maxSize: 100
@@ -208,6 +209,12 @@ MonoBehaviour:
   material: {fileID: -382652638819485698, guid: f46cbda16939d4b1db7bdbd0aa225348, type: 3}
   maxBoidsPerFrame: 500
   size: 3
+=======
+  maxX: 100
+  maxY: 100
+  maxZ: 100
+  shipCount: 100
+>>>>>>> parent of 9cc36797 (.)
 --- !u!114 &47231211
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -215,7 +222,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 47231207}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7e58382a3feedd24394c1a54908e5390, type: 3}
   m_Name: 

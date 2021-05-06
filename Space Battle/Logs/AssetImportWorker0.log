@@ -1892,6 +1892,7 @@ Received Import Request.
 Start importing Assets/Scripts/A-ECS Stuff/ShipMaker.cs using Guid(c2dd9c57123314f55a908d0f64dc375c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eda173a486c3efdd1f7016ea9cdb6268') in 0.001995 seconds
   Import took 0.007296 seconds .
 
+<<<<<<< HEAD
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
@@ -7978,3 +7979,5 @@ Start importing Assets/Prefabs/LEADER TIE Fighter.prefab using Guid(363cdaa1fa88
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+=======
+>>>>>>> parent of 9cc36797 (.)
