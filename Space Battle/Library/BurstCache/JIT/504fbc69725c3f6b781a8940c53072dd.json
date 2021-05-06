@@ -1,0 +1,16 @@
+{
+  "ExternalFunctions": [
+    {
+      "Name": "Unity.Jobs.LowLevel.Unsafe.JobsUtility::GetWorkStealingRange",
+      "FullName": "Unity.Jobs.LowLevel.Unsafe.JobsUtility.GetWorkStealingRange(ref Unity.Jobs.LowLevel.Unsafe.JobRanges ranges, int jobIndex, ref int beginIndex, ref int endIndex)_72EEAC320E5935AA"
+    },
+    {
+      "Name": "Unity.Jobs.LowLevel.Unsafe.JobsUtility::PatchBufferMinMaxRanges",
+      "FullName": "Unity.Jobs.LowLevel.Unsafe.JobsUtility.PatchBufferMinMaxRanges(System.IntPtr bufferRangePatchData, void* jobdata, int startIndex, int rangeSize)_9EB083F63620D8B8"
+    },
+    {
+      "Name": "#dllimport:HavokNative|HP_ProcessStep",
+      "FullName": "Havok.Physics.Plugin.HP_ProcessStep(Havok.Physics.HavokSimulation.Task* task)_053540C6ECE7CBD7"
+    }
+  ]
+}

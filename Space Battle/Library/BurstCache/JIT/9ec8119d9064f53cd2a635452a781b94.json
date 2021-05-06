@@ -1,0 +1,8 @@
+{
+  "ExternalFunctions": [
+    {
+      "Name": "#dllimport:HavokNative|HP_StepVisualDebugger",
+      "FullName": "Havok.Physics.Plugin.HP_StepVisualDebugger(int worldIndex, float timeStep, ref Havok.Physics.HavokSimulation.Camera camera)_E1FC5BF6F0EE8DDD"
+    }
+  ]
+}
