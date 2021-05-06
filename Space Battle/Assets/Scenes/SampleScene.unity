@@ -152,15 +152,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2dd9c57123314f55a908d0f64dc375c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpaceRock1: {fileID: 5007242284274667688, guid: ae4264612386846ee9f132676d6fcd65, type: 3}
-  SpaceRock2: {fileID: 2674607831213264757, guid: c6c1ef776914c4c11984f4c652b86acf, type: 3}
-  SpaceRock3: {fileID: 3964740494045696663, guid: 919b6e09f37cc4c5883d3b361c704ab9, type: 3}
-  rock1Count: 100
-  rock2Count: 100
-  rock3Count: 100
-  maxX: 200
-  maxY: 200
-  maxZ: 200
+  Prefab: {fileID: 5007242284274667688, guid: ae4264612386846ee9f132676d6fcd65, type: 3}
+  maxX: 100
+  maxY: 100
+  maxZ: 100
+  shipCount: 200
 --- !u!4 &47231209
 Transform:
   m_ObjectHideFlags: 0
@@ -449,7 +445,7 @@ Camera:
     m_Bits: 4294967295
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
-  m_TargetDisplay: 1
+  m_TargetDisplay: 0
   m_TargetEye: 3
   m_HDR: 1
   m_AllowMSAA: 1

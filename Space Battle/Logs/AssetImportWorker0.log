@@ -23602,3 +23602,4 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.AvatarEditor: 38c120dc7013259d38c120dc7013259d -> 
   custom:DOTSType/UnityEngine.UI.ScrollRect: 62cfaff9f3d4457062cfaff9f3d44570 -> 
   custom:DOTSType/UnityEditor.NavMeshObstacleInspector: e09ab8310b8a0334e09ab8310b8a0334 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
