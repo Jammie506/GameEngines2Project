@@ -489,6 +489,7 @@ candidates check time : 32ms
 console write time    : 0ms
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [api-updater (non-obsolete-error-filter)] 04/05/2021 17:09:06 : Starting /Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
 [api-updater (non-obsolete-error-filter)] 
 ----------------------------------
@@ -659,5 +660,7 @@ C# parse time         : 236ms
 candidates check time : 43ms
 console write time    : 0ms
 
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)

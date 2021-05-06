@@ -190,6 +190,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Prefab: {fileID: 5998812232396126063, guid: e0c73633e8ace45d499219403076e933, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
   maxSize: 100
   shipCount: 50
   constrainTranslation: {x: 0, y: 0, z: 0}
@@ -251,6 +252,10 @@ MonoBehaviour:
   usePartitioning: 1
   toPass: 0.3
   clickCount: 0
+=======
+  CountX: 50
+  CountY: 50
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
   CountX: 50
   CountY: 50

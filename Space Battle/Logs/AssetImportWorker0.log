@@ -13,17 +13,23 @@ AssetImportWorker0
 Logs/AssetImportWorker0.log
 -srvPort
 <<<<<<< HEAD
+<<<<<<< HEAD
 49652
 Successfully changed project path to: /Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space Battle
 /Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space Battle
 Using Asset Import Pipeline V2.
 Refreshing native plugins compatible for Editor in 47.03 ms, found 3 plugins.
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 50977
 Successfully changed project path to: /Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space Battle
 /Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space Battle
 Using Asset Import Pipeline V2.
 Refreshing native plugins compatible for Editor in 68.63 ms, found 3 plugins.
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.4f1 (becced5a802b)
@@ -31,17 +37,23 @@ Initialize engine version: 2020.2.4f1 (becced5a802b)
 [Subsystems] Discovering subsystems at path /Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space Battle/Assets
 GfxDevice: creating device client; threaded=0
 <<<<<<< HEAD
+<<<<<<< HEAD
 2021-05-05 16:51:26.240 Unity[2068:26065] Color LCD preferred device: Intel(R) UHD Graphics 630 (low power)
 2021-05-05 16:51:26.240 Unity[2068:26065] Metal devices available: 2
 2021-05-05 16:51:26.240 Unity[2068:26065] 0: AMD Radeon Pro 5500M (high power)
 2021-05-05 16:51:26.240 Unity[2068:26065] 1: Intel(R) UHD Graphics 630 (low power)
 2021-05-05 16:51:26.240 Unity[2068:26065] Using device AMD Radeon Pro 5500M (high power)
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 2021-05-04 09:55:48.647 Unity[8019:109190] Color LCD preferred device: Intel(R) UHD Graphics 630 (low power)
 2021-05-04 09:55:48.647 Unity[8019:109190] Metal devices available: 2
 2021-05-04 09:55:48.647 Unity[8019:109190] 0: AMD Radeon Pro 5500M (high power)
 2021-05-04 09:55:48.647 Unity[8019:109190] 1: Intel(R) UHD Graphics 630 (low power)
 2021-05-04 09:55:48.647 Unity[8019:109190] Using device AMD Radeon Pro 5500M (high power)
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 Initializing Metal device caps: AMD Radeon Pro 5500M
 Initialize mono
@@ -49,7 +61,11 @@ Mono path[0] = '/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/
 Mono path[1] = '/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = '/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/etc'
 <<<<<<< HEAD
+<<<<<<< HEAD
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56068
+=======
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56019
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56019
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -59,17 +75,23 @@ Register platform support module: /Users/jamiemccarthy/Documents/Unity Stuff/202
 Register platform support module: /Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: /Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 <<<<<<< HEAD
+<<<<<<< HEAD
 Registered in 0.001162 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 43.92 ms, found 3 plugins.
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 Registered in 0.001103 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 44.86 ms, found 3 plugins.
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
@@ -77,24 +99,36 @@ RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Completed reload, in  2.029 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
 Registered in 0.003521 seconds.
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 - Completed reload, in  2.325 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
 Registered in 0.010458 seconds.
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
 <<<<<<< HEAD
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 42.31 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 TypeManager.Initialize took: 178ms
+=======
+Refreshing native plugins compatible for Editor in 46.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 152ms
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 Refreshing native plugins compatible for Editor in 46.40 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
@@ -105,7 +139,11 @@ RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Completed reload, in  1.893 seconds
+=======
+- Completed reload, in  1.704 seconds
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 - Completed reload, in  1.704 seconds
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -114,6 +152,7 @@ Platform modules already initialized, skipping
 Worker process is ready to serve import requests
 Launching external process: /Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/UnityShaderCompiler
 Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+<<<<<<< HEAD
 <<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
@@ -124,6 +163,8 @@ System memory in use after: 232.4 MB.
 Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 3680.
 Total: 3.770741 ms (FindLiveObjects: 0.376414 ms CreateObjectMapping: 0.170795 ms MarkObjects: 3.156431 ms  DeleteObjects: 0.066146 ms)
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3310 Unused Serialized files (Serialized files now loaded: 0)
@@ -132,6 +173,9 @@ System memory in use after: 229.3 MB.
 
 Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 3733.
 Total: 3.523455 ms (FindLiveObjects: 0.345689 ms CreateObjectMapping: 0.184536 ms MarkObjects: 2.924647 ms  DeleteObjects: 0.067735 ms)
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 
 AssetImportParameters requested are different than current active one (requested -> active):
@@ -186,7 +230,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/TMPro.EditorUtilities.TMP_EditorPanel: e42c8ca42f7f214ee42c8ca42f7f214e -> 
   custom:DOTSType/Unity.Transforms.RotationEulerZYX: 2773eac02e7f200d2773eac02e7f200d -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/UniversalAvoidance: f200b8e5cb9b558ef200b8e5cb9b558e -> 
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/UnityEditor.Timeline.ActivationTrackInspector: 13627869d268351113627869d2683511 -> 
@@ -231,6 +278,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEngine.CustomRenderTexture: c7a6f37206c55713c7a6f37206c55713 -> 
   custom:DOTSType/UnityEditor.AssemblyDefinitionImporterInspector+AssemblyDefinitionState: d8a0262c734e3188d8a0262c734e3188 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  custom:DOTSType/Unity.Rendering.HybridBatchPartition: 8f19dbf5cfad489e8f19dbf5cfad489e -> 
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
   custom:DOTSType/Unity.Rendering.HybridBatchPartition: 8f19dbf5cfad489e8f19dbf5cfad489e -> 
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -264,8 +315,13 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/Unity.Rendering.HLOD: f41aa023894dcd0bf41aa023894dcd0b -> 
   custom:DOTSType/Unity.Transforms.LocalToParent: 62243fe83dfe1a4d62243fe83dfe1a4d -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/ew.Spine: d107c5f30e87be42d107c5f30e87be42 -> 
   custom:DOTSType/TimelineProjectSettings: 4c2b1ff9e697c6ac4c2b1ff9e697c6ac -> 
+=======
+  custom:DOTSType/TimelineProjectSettings: 4c2b1ff9e697c6ac4c2b1ff9e697c6ac -> 
+  custom:DOTSType/Unity.Transforms.CopyTransformFromGameObjectAuthoring: 4dbd5ee2f68d35234dbd5ee2f68d3523 -> 
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
   custom:DOTSType/TimelineProjectSettings: 4c2b1ff9e697c6ac4c2b1ff9e697c6ac -> 
   custom:DOTSType/Unity.Transforms.CopyTransformFromGameObjectAuthoring: 4dbd5ee2f68d35234dbd5ee2f68d3523 -> 
@@ -320,7 +376,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.NavMeshAgentInspector: 2094ace172aa86702094ace172aa8670 -> 
   custom:DOTSType/UnityEditor.VersionControlSettingsProvider: 95a219a3de0f5e8e95a219a3de0f5e8e -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/Unity.Transforms.TranslationProxy: 4703314a995199204703314a99519920 -> 
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/UnityEditor.NavMeshEditorWindow: 9755bc7ce9b8f0079755bc7ce9b8f007 -> 
@@ -352,7 +411,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.GraphicsSettingsWindow+ShaderPreloadEditor: 4f0d4249ee548b3a4f0d4249ee548b3a -> 
   custom:DOTSType/UnityEngine.PointEffector2D: 4ddf4aac8be40c794ddf4aac8be40c79 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/Unity.Rendering.LodRequirement: fe2b9d7e1758c84bfe2b9d7e1758c84b -> 
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/UnityEditor.VideoClipInspector: dcbd4e68e3da9810dcbd4e68e3da9810 -> 
@@ -379,7 +441,11 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.UIElements.StyleSheets.StyleSheetEditor: 471c92afe6b2efcb471c92afe6b2efcb -> 
   custom:DOTSType/UnityEditor.ModeDescriptor: 908a228b304a8715908a228b304a8715 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSAllSystemsVersion: 734699cda470a2ab211399d949ceb58e -> 
+=======
+  custom:DOTSAllSystemsVersion: 05072b848d3912e24e29e4718329e984 -> 
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
   custom:DOTSAllSystemsVersion: 05072b848d3912e24e29e4718329e984 -> 
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -413,7 +479,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEngine.Material: 4e4a5d9f029da0364e4a5d9f029da036 -> 
   custom:DOTSType/UnityEngine.TerrainLayer: 51fc73a19b98ca3d51fc73a19b98ca3d -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/ShipMain: 42223d270680478842223d2706804788 -> 
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/UnityEngine.Timeline.SignalEmitter: 5201f28094ec24ed5201f28094ec24ed -> 
@@ -455,7 +524,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.ProjectWindowCallback.DoCreatePrefab: 278274ed755776a4278274ed755776a4 -> 
   custom:DOTSType/UnityEditor.Physics2DSettings: d0bc0ae7ba48acdad0bc0ae7ba48acda -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/ew.Boid: 0c172374630142dc0c172374630142dc -> 
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/Unity.Entities.Editor.EntityDebugger: 6ddd4eb9b8c0655d6ddd4eb9b8c0655d -> 
@@ -488,9 +560,14 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.TooltipView: 0022f65e693db12d0022f65e693db12d -> 
   custom:DOTSType/UnityEditor.PackageManager.UI.PackageManifestImporterEditor+PackageManifestState: 69153dbb3219e87169153dbb3219e871 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/Unity.Transforms.CopyTransformFromGameObjectProxy: f0d00f7add914850f0d00f7add914850 -> 
   custom:DOTSType/UnityEditorInternal.Transition: 1affe5395ccf908c1affe5395ccf908c -> 
   custom:DOTSType/Unity.Transforms.NonUniformScaleProxy: 37102b896c2edd4c37102b896c2edd4c -> 
+=======
+  custom:DOTSType/TMPro.TMP_SpriteAnimator: e6fabc5c983adeb1e6fabc5c983adeb1 -> 
+  custom:DOTSType/UnityEditorInternal.Transition: 1affe5395ccf908c1affe5395ccf908c -> 
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
   custom:DOTSType/TMPro.TMP_SpriteAnimator: e6fabc5c983adeb1e6fabc5c983adeb1 -> 
   custom:DOTSType/UnityEditorInternal.Transition: 1affe5395ccf908c1affe5395ccf908c -> 
@@ -500,9 +577,15 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.OcclusionAreaEditor: 5b8288d682d1e0115b8288d682d1e011 -> 
   custom:DOTSType/UnityEditor.UI.ScrollbarEditor: 338d5256505cfe6e338d5256505cfe6e -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/TMPro.TMP_SpriteAnimator: e6fabc5c983adeb1e6fabc5c983adeb1 -> 
   custom:DOTSType/UnityEditor.Timeline.AnimationPlayableAssetInspector: a807bf1edc1784d3a807bf1edc1784d3 -> 
   custom:DOTSType/UnityEditor.AssetPopupBackend+DoCreateNewAsset: f3f2ca18669a7d82f3f2ca18669a7d82 -> 
+=======
+  custom:DOTSType/UnityEditor.Timeline.AnimationPlayableAssetInspector: a807bf1edc1784d3a807bf1edc1784d3 -> 
+  custom:DOTSType/UnityEditor.AssetPopupBackend+DoCreateNewAsset: f3f2ca18669a7d82f3f2ca18669a7d82 -> 
+  custom:DOTSType/Unity.Rendering.RootLODRange: 7927be3e9718af827927be3e9718af82 -> 
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
   custom:DOTSType/UnityEditor.Timeline.AnimationPlayableAssetInspector: a807bf1edc1784d3a807bf1edc1784d3 -> 
   custom:DOTSType/UnityEditor.AssetPopupBackend+DoCreateNewAsset: f3f2ca18669a7d82f3f2ca18669a7d82 -> 
@@ -519,6 +602,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/Unity.Transforms.ScalePivot: 3f870807a0b3e2623f870807a0b3e262 -> 
   custom:DOTSType/UnityEditor.CompositeCollider2DEditor: e4d41dcd2cea6186e4d41dcd2cea6186 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  custom:DOTSType/Unity.Rendering.LODGroupWorldReferencePoint: 91485408f7afc20891485408f7afc208 -> 
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
   custom:DOTSType/Unity.Rendering.LODGroupWorldReferencePoint: 91485408f7afc20891485408f7afc208 -> 
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -565,15 +652,21 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.TestTools.TestRunner.EditModeLauncher+BackgroundListener: c80c9a2ebf99517cc80c9a2ebf99517c -> 
   custom:DOTSType/Unity.Entities.EntityManager+IsolateCopiedEntities: 703c8c39c22b63af703c8c39c22b63af -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/UnityEditor.Timeline.GroupTrackInspector: 58a13dd1607f091458a13dd1607f0914 -> 
   custom:DOTSType/UnityEditor.TestTools.TestRunner.Api.CallbacksHolder: 4d071da20270dff34d071da20270dff3 -> 
   custom:DOTSType/Unity.Transforms.PostRotationEulerZXY: ff322c6891514de1ff322c6891514de1 -> 
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/Unity.Scenes.GameObjectSceneData: 30e29e34368112e430e29e34368112e4 -> 
   custom:DOTSType/UnityEditor.Timeline.GroupTrackInspector: 58a13dd1607f091458a13dd1607f0914 -> 
   custom:DOTSType/UnityEditor.TestTools.TestRunner.Api.CallbacksHolder: 4d071da20270dff34d071da20270dff3 -> 
   custom:DOTSType/Unity.Transforms.PostRotationEulerZXY: ff322c6891514de1ff322c6891514de1 -> 
   custom:DOTSType/Unity.Rendering.LODRange: fb547c848540b2c4fb547c848540b2c4 -> 
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/UnityEditor.PackageExport: 3af3c2e9169259743af3c2e916925974 -> 
   custom:DOTSType/Unity.Scenes.SceneSectionStreamingSystem+StreamingState: 26d6035e28a57e6326d6035e28a57e63 -> 
@@ -581,15 +674,21 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.LightProbesInspector: a4e975b1e198aba1a4e975b1e198aba1 -> 
   custom:DOTSType/UnityEditor.ScriptableWizard: b2450ec0810395bbb2450ec0810395bb -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/TempAvoidance: 870ff95c593fd672870ff95c593fd672 -> 
   custom:DOTSType/UnityEngine.Timeline.ControlTrack: 328723e0d2b39105328723e0d2b39105 -> 
   custom:DOTSType/Unity.Scenes.Editor.EditorSceneLiveLinkToPlayerSendSystem: b3a1ee40e1751a11b3a1ee40e1751a11 -> 
   custom:DOTSType/UnityEditor.ExportRawHeightmap: 33db266c55fcb12a33db266c55fcb12a -> 
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/Unity.Scenes.Editor.EditorSceneLiveLinkToPlayerSendSystem: b3a1ee40e1751a11b3a1ee40e1751a11 -> 
   custom:DOTSType/UnityEngine.Timeline.ControlTrack: 328723e0d2b39105328723e0d2b39105 -> 
   custom:DOTSType/UnityEditor.ExportRawHeightmap: 33db266c55fcb12a33db266c55fcb12a -> 
   custom:DOTSType/Unity.Transforms.CopyTransformFromPrimaryEntityTag: d6f4ecac65f9b53ed6f4ecac65f9b53e -> 
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/UnityEngine.FixedJoint: ed9849b42dc16356ed9849b42dc16356 -> 
   custom:DOTSType/UnityEditor.MetroCreateTestCertificateWindow: a6e6f4780f854deca6e6f4780f854dec -> 
@@ -617,6 +716,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEngine.Networking.Match.NetworkMatch: 43ab22123659b31643ab22123659b316 -> 
   custom:DOTSType/UnityEngine.LensFlare: 75d066ee17247d6f75d066ee17247d6f -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  custom:DOTSType/Unity.Rendering.LODWorldReferencePoint: 5c37b8664267e43d5c37b8664267e43d -> 
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
   custom:DOTSType/Unity.Rendering.LODWorldReferencePoint: 5c37b8664267e43d5c37b8664267e43d -> 
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -625,7 +728,13 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.Graphs.AnimationStateMachine.Graph: 2db7cc0f54ed4b592db7cc0f54ed4b59 -> 
   custom:DOTSType/UnityEditor.BlendTreeInspector: 64b966def35795dd64b966def35795dd -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/UnityEditor.ShaderInspector: 4e33041aa1ee64a14e33041aa1ee64a1 -> 
+=======
+  custom:DOTSType/Unity.Transforms.CopyTransformToGameObjectAuthoring: fc5320d9cf687e3cfc5320d9cf687e3c -> 
+  custom:DOTSType/UnityEditor.ShaderInspector: 4e33041aa1ee64a14e33041aa1ee64a1 -> 
+  custom:DOTSType/Unity.Scenes.RequestGameObjectSceneLoaded: f6249464427bbc14f6249464427bbc14 -> 
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
   custom:DOTSType/Unity.Transforms.CopyTransformToGameObjectAuthoring: fc5320d9cf687e3cfc5320d9cf687e3c -> 
   custom:DOTSType/UnityEditor.ShaderInspector: 4e33041aa1ee64a14e33041aa1ee64a1 -> 
@@ -655,7 +764,11 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/Unity.Scenes.ResolvedSectionEntity: c8af028cd7764693c8af028cd7764693 -> 
   custom:DOTSType/UnityEngine.RenderTexture: 5412fc88ff87af6c5412fc88ff87af6c -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/Unity.Entities.Editor.DynamicBufferProxyBaseEditor: 02d9c56ffee7fcc902d9c56ffee7fcc9 -> 
+=======
+  custom:DOTSType/Unity.Transforms.CopyInitialTransformFromGameObjectAuthoring: 07ff4b9bcaadcc2407ff4b9bcaadcc24 -> 
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
   custom:DOTSType/Unity.Transforms.CopyInitialTransformFromGameObjectAuthoring: 07ff4b9bcaadcc2407ff4b9bcaadcc24 -> 
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -665,16 +778,22 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/Unity.Scenes.BundleElementData: c69657eccd1cdef1c69657eccd1cdef1 -> 
   custom:DOTSType/UnityEditor.LightmapPreviewWindow: 2c5e84bd7e5c90b22c5e84bd7e5c90b2 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/ShipPath: 20f7129b6becbd8920f7129b6becbd89 -> 
   custom:DOTSType/UnityEditor.PrefabImporterEditor: 258e4defc1bc48c1258e4defc1bc48c1 -> 
   custom:DOTSType/UnityEditor.MonoScriptImporterInspector: e9a51f80f5ad856ae9a51f80f5ad856a -> 
   custom:DOTSType/Unity.Physics.PhysicsExclude: 8d11f48d5b793d618d11f48d5b793d61 -> 
   custom:DOTSType/UnityEngine.UI.ContentSizeFitter: 1f3da7cb7e4550011f3da7cb7e455001 -> 
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/UnityEngine.UI.ContentSizeFitter: 1f3da7cb7e4550011f3da7cb7e455001 -> 
   custom:DOTSType/UnityEditor.PrefabImporterEditor: 258e4defc1bc48c1258e4defc1bc48c1 -> 
   custom:DOTSType/UnityEditor.MonoScriptImporterInspector: e9a51f80f5ad856ae9a51f80f5ad856a -> 
   custom:DOTSType/Unity.Physics.PhysicsExclude: 8d11f48d5b793d618d11f48d5b793d61 -> 
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/UnityEditor.LightingExplorerWindow: 1dfe6b46298ab56e1dfe6b46298ab56e -> 
   custom:DOTSType/UnityEditor.TierSettingsWindow: 9b55c90824d80bd69b55c90824d80bd6 -> 
@@ -692,7 +811,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/Unity.Scenes.ExternalEntityRef: c1a8c7bce86282c7c1a8c7bce86282c7 -> 
   custom:DOTSType/UnityEngine.DistanceJoint2D: 369f58f010979eb0369f58f010979eb0 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/Unity.Rendering.RenderMeshProxy: 5a6cf9b7b529d4925a6cf9b7b529d492 -> 
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/UnityEngine.Cubemap: e4ca47a62d1d7309e4ca47a62d1d7309 -> 
@@ -705,7 +827,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.UIElements.Debugger.AllocatorDebugger: b40e818c78777503b40e818c78777503 -> 
   custom:DOTSType/UnityEditor.TestTools.TestRunner.TestRunnerCallback: 2e5985e5f465b0112e5985e5f465b011 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/Unity.Scenes.SceneSystem+SceneLoadRequest: 9470fba852ae25e89470fba852ae25e8 -> 
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/UnityEngine.Component: c2c3bf8db4a645e8c2c3bf8db4a645e8 -> 
@@ -716,11 +841,17 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.UI.RawImageEditor: 34173f728af67d3234173f728af67d32 -> 
   custom:DOTSType/UnityEditor.RagdollBuilder: 52b2d40f6981f23652b2d40f6981f236 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/Unity.Transforms.CopyTransformToGameObjectProxy: 997ba34ce3b319a7997ba34ce3b319a7 -> 
   custom:DOTSType/UnityEditor.PlatformEffector2DEditor: 6eefd7db8a160c936eefd7db8a160c93 -> 
   custom:DOTSType/UnityEditor.GridPalette: b113e2e60f01051eb113e2e60f01051e -> 
   custom:DOTSType/UnityEditor.AnchoredJoint2DEditor: f5f02fbe8ab51070f5f02fbe8ab51070 -> 
   custom:DOTSType/Unity.Transforms.CopyInitialTransformFromGameObjectProxy: e24eff9c974fac32e24eff9c974fac32 -> 
+=======
+  custom:DOTSType/UnityEditor.PlatformEffector2DEditor: 6eefd7db8a160c936eefd7db8a160c93 -> 
+  custom:DOTSType/UnityEditor.GridPalette: b113e2e60f01051eb113e2e60f01051e -> 
+  custom:DOTSType/UnityEditor.AnchoredJoint2DEditor: f5f02fbe8ab51070f5f02fbe8ab51070 -> 
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
   custom:DOTSType/UnityEditor.PlatformEffector2DEditor: 6eefd7db8a160c936eefd7db8a160c93 -> 
   custom:DOTSType/UnityEditor.GridPalette: b113e2e60f01051eb113e2e60f01051e -> 
@@ -735,7 +866,11 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.UI.MaskEditor: db43f28f50bc6beedb43f28f50bc6bee -> 
   custom:DOTSType/UnityEditor.UIElements.Samples.UIElementsSamples: 3086f7da344c469d3086f7da344c469d -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:EntityBinaryFileFormatVersion: 7f587893f4710e3288c4588442d268ba -> 
+=======
+  custom:EntityBinaryFileFormatVersion: 03c247d7f971b093946f1be1fb23a63e -> 
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
   custom:EntityBinaryFileFormatVersion: 03c247d7f971b093946f1be1fb23a63e -> 
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -748,7 +883,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.InspectorWindow: 770d5fb3a028121d770d5fb3a028121d -> 
   custom:DOTSType/UnityEngine.HingeJoint2D: c433aef1143b2532c433aef1143b2532 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/ew.BoidBootstrap: aabc5b7a7741516faabc5b7a7741516f -> 
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/UnityEngine.RectTransform: 01cd79284a67cf0b01cd79284a67cf0b -> 
@@ -764,6 +902,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.PlayerSettingsEditor: efc6e24102d3212defc6e24102d3212d -> 
   custom:DOTSType/UnityEditor.Build.Reporting.ScenesUsingAssets: b0370b63a07971fbb0370b63a07971fb -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  custom:DOTSType/Unity.Scenes.GameObjectSceneDependency: e8522c106dbae46be8522c106dbae46b -> 
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
   custom:DOTSType/Unity.Scenes.GameObjectSceneDependency: e8522c106dbae46be8522c106dbae46b -> 
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -804,7 +946,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEngine.Texture3D: 8551b4c38be2aa4a8551b4c38be2aa4a -> 
   custom:DOTSType/UnityEditor.LightProbeGroupSelection: 13d5267a2cdea61613d5267a2cdea616 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/WhaleWander: 7b1932141ceb4ee87b1932141ceb4ee8 -> 
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/UnityEditor.AudioLowPassFilterInspector: 58f12e5016be5e0f58f12e5016be5e0f -> 
@@ -828,7 +973,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.HostView: 01e5ea1d4d01ca0a01e5ea1d4d01ca0a -> 
   custom:DOTSType/UnityEngine.CircleCollider2D: 2b61966575b571d92b61966575b571d9 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/ew.Head: a2bcf098af1ae74ba2bcf098af1ae74b -> 
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/UnityEditor.LineRendererInspector: 90ab0e90696155c890ab0e90696155c8 -> 
@@ -851,8 +999,11 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEngine.CubemapArrayInspector: 82ea9e9d74a4a24d82ea9e9d74a4a24d -> 
   custom:DOTSType/UnityEditor.AnimatorOverrideControllerInspector: a8c9ed67a04641c1a8c9ed67a04641c1 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/SceneSectionProxy: 0cf91e1a309f4b380cf91e1a309f4b38 -> 
   custom:DOTSType/Unity.Rendering.FrozenRenderSceneTagProxy: 331978cdf4c88d0b331978cdf4c88d0b -> 
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/Unity.Transforms.Translation: bee56307cce72da4bee56307cce72da4 -> 
@@ -869,6 +1020,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.AddComponent.AddComponentWindow: 8e96dbec03b129488e96dbec03b12948 -> 
   custom:DOTSType/UnityEditor.ShortcutManagement.ShortcutManagerWindow: 641a62e7c88eb769641a62e7c88eb769 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/UnityEngine.UIElements.ThemeStyleSheet: 15abddde221ed1fe15abddde221ed1fe -> 
   custom:DOTSType/UnityEditor.EditorToolbar: 980b07db75dd1639980b07db75dd1639 -> 
   custom:DOTSType/UnityEditor.Web.EditorProjectAccess: 9e421929367c84349e421929367c8434 -> 
@@ -879,6 +1031,8 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/TMPro.TMP_SubMesh: 6f7c4f0d2dc514816f7c4f0d2dc51481 -> 
   custom:DOTSType/UnityEngine.UIElements.VisualTreeAsset: ae1ca7178769546bae1ca7178769546b -> 
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/UnityEditor.Web.EditorProjectAccess: 9e421929367c84349e421929367c8434 -> 
   custom:DOTSType/UnityEngine.UIElements.ThemeStyleSheet: 15abddde221ed1fe15abddde221ed1fe -> 
   custom:DOTSType/UnityEditor.Graphs.AnimationStateMachine.AnimatorStateTransitionInspector: 390c9887fb69cab2390c9887fb69cab2 -> 
@@ -887,6 +1041,9 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEngine.UIElements.VisualTreeAsset: ae1ca7178769546bae1ca7178769546b -> 
   custom:DOTSType/UnityEditor.EditorToolbar: 980b07db75dd1639980b07db75dd1639 -> 
   custom:DOTSType/UnityEngine.FixedJoint2D: 97720f7c0255bc5a97720f7c0255bc5a -> 
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/Unity.Deformations.SkinMatrix: 17a3a1586559250f17a3a1586559250f -> 
   custom:DOTSType/UnityEditor.VFX.VisualEffectEditorDefault: f3ecb832db58b50ef3ecb832db58b50e -> 
@@ -901,7 +1058,11 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/Unity.Rendering.HybridChunkInfo: 04af8e2e20c4c79e04af8e2e20c4c79e -> 
   custom:DOTSType/UnityEditor.IHVImageFormatImporter: 2da23406f45ee1df2da23406f45ee1df -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/ew.Cohesion: 28bbe9f5598cd0e928bbe9f5598cd0e9 -> 
+=======
+  custom:DOTSType/TMPro.TMP_SubMesh: 6f7c4f0d2dc514816f7c4f0d2dc51481 -> 
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
   custom:DOTSType/TMPro.TMP_SubMesh: 6f7c4f0d2dc514816f7c4f0d2dc51481 -> 
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -913,16 +1074,22 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.CanvasEditor: 65e2743002a8243665e2743002a82436 -> 
   custom:DOTSType/UnityEditor.PackageImport: d782d27b9e9f3a63d782d27b9e9f3a63 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/UnityEngine.Sprite: 48e63c09ab7e195d48e63c09ab7e195d -> 
   custom:DOTSType/Unity.Transforms.RotationEulerXYZ: a73971462e1d0029a73971462e1d0029 -> 
   custom:DOTSType/UnityEditor.VideoPlayerEditor: 9b060caa314d8ac29b060caa314d8ac2 -> 
   custom:DOTSType/Unity.Entities.WorldTimeQueue: e9cbb96adca0937ee9cbb96adca0937e -> 
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/UnityEditor.VideoPlayerEditor: 9b060caa314d8ac29b060caa314d8ac2 -> 
   custom:DOTSType/UnityEngine.Sprite: 48e63c09ab7e195d48e63c09ab7e195d -> 
   custom:DOTSType/Unity.Rendering.RootLODWorldReferencePoint: 52dc7da50b87318452dc7da50b873184 -> 
   custom:DOTSType/Unity.Entities.WorldTimeQueue: e9cbb96adca0937ee9cbb96adca0937e -> 
   custom:DOTSType/Unity.Transforms.RotationEulerXYZ: a73971462e1d0029a73971462e1d0029 -> 
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/Unity.Scenes.Editor.ClearEntitiesCacheWindow: ff5e4942d7943fe4ff5e4942d7943fe4 -> 
   custom:DOTSType/UnityEditorInternal.AnimationWindowKeySelection: 947c91af5920f6ef947c91af5920f6ef -> 
@@ -939,7 +1106,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/Unity.Entities.SectionMetadataSetup: 75ea136fdb0e54ba75ea136fdb0e54ba -> 
   custom:DOTSType/UnityEditor.ProjectWindowCallback.DoCreateScene: 63707b03c78968a763707b03c78968a7 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/Unity.Transforms.LocalToWorldProxy: 8885734cd9fbeb2e8885734cd9fbeb2e -> 
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/Unity.Entities.BurstCompatibleComponentData: 1d232e8370167ced1d232e8370167ced -> 
@@ -962,7 +1132,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.CurvePresetLibraryEditor: 9cb77f475ccc53b19cb77f475ccc53b1 -> 
   custom:DOTSType/UnityEditor.LightmapSnapshot: b2033d35f22f7023b2033d35f22f7023 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/ShipFlock: 80c143acaf6138fb80c143acaf6138fb -> 
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/UnityEditor.Collider3DEditorBase: 893520ba66bdd3dc893520ba66bdd3dc -> 
@@ -973,7 +1146,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.AnimationClipEditor: 05eeb65a1b73b93d05eeb65a1b73b93d -> 
   custom:DOTSType/TMPro.TMP_SubMeshUI: 9b42df3ec6f04b979b42df3ec6f04b97 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/ew.Alignment: 67083217386540fe67083217386540fe -> 
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/UnityEngine.AudioReverbFilter: 9ba88c71eaecef959ba88c71eaecef95 -> 
@@ -984,10 +1160,16 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/TMPro.TextContainer: 0caa3abb2226842a0caa3abb2226842a -> 
   custom:DOTSType/Unity.Physics.PhysicsCustomTags: 7d9dddf48b181c997d9dddf48b181c99 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/AsteroidMaker: dcd653d03d7a5fdfdcd653d03d7a5fdf -> 
   custom:DOTSType/UnityEditor.RectTool: a025819f37ed9c9da025819f37ed9c9d -> 
   custom:DOTSType/UnityEditor.ShortcutManagement.DeleteShortcutProfileWindow: e1f89df9f3606a1ce1f89df9f3606a1c -> 
   custom:DOTSType/TMPro.EditorUtilities.DropdownEditor: 6fbcc36e0caf9dc96fbcc36e0caf9dc9 -> 
+=======
+  custom:DOTSType/TMPro.EditorUtilities.DropdownEditor: 6fbcc36e0caf9dc96fbcc36e0caf9dc9 -> 
+  custom:DOTSType/UnityEditor.RectTool: a025819f37ed9c9da025819f37ed9c9d -> 
+  custom:DOTSType/UnityEditor.ShortcutManagement.DeleteShortcutProfileWindow: e1f89df9f3606a1ce1f89df9f3606a1c -> 
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
   custom:DOTSType/TMPro.EditorUtilities.DropdownEditor: 6fbcc36e0caf9dc96fbcc36e0caf9dc9 -> 
   custom:DOTSType/UnityEditor.RectTool: a025819f37ed9c9da025819f37ed9c9d -> 
@@ -998,6 +1180,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.Graphs.AnimationStateMachine.StateMachineBehaviourEditor: 8f089cc3b54500a88f089cc3b54500a8 -> 
   custom:DOTSType/Unity.Scenes.ResolvedSceneHash: c472c7bcd5a4098fc472c7bcd5a4098f -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  custom:DOTSType/Unity.Rendering.LightBakingOutputData: 22fd6bf0915f8f1d22fd6bf0915f8f1d -> 
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
   custom:DOTSType/Unity.Rendering.LightBakingOutputData: 22fd6bf0915f8f1d22fd6bf0915f8f1d -> 
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -1008,6 +1194,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEngine.CubemapArray: 61fe0066dd7272d261fe0066dd7272d2 -> 
   custom:DOTSType/UnityEditor.SketchUpImportDlg: 39360ff28639c30e39360ff28639c30e -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/ew.Seek: 16dbcb50f64e557116dbcb50f64e5571 -> 
   custom:DOTSType/UnityEngine.Timeline.BasicPlayableBehaviour: b31a6d338e9e218ab31a6d338e9e218a -> 
   custom:DOTSType/UnityEngine.Flare: 79fb9c67a3fe356979fb9c67a3fe3569 -> 
@@ -1015,10 +1202,15 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/Unity.Physics.Authoring.PhysicsStepAuthoring: 29ca86243fe93d3b29ca86243fe93d3b -> 
   custom:DOTSType/Unity.Rendering.RootLodRequirement: 8a45953eb5c6332f8a45953eb5c6332f -> 
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/UnityEngine.Timeline.BasicPlayableBehaviour: b31a6d338e9e218ab31a6d338e9e218a -> 
   custom:DOTSType/Unity.Physics.Authoring.PhysicsStepAuthoring: 29ca86243fe93d3b29ca86243fe93d3b -> 
   custom:DOTSType/UnityEngine.Flare: 79fb9c67a3fe356979fb9c67a3fe3569 -> 
   custom:DOTSType/UnityEditor.ComputeShaderInspector: 9ff76f9f99c3d35e9ff76f9f99c3d35e -> 
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/UnityEngine.Cloth: f92295351c63b8b2f92295351c63b8b2 -> 
   custom:DOTSType/TMPro.EditorUtilities.TMPro_TextContainerEditor: 7961627b0154ece17961627b0154ece1 -> 
@@ -1026,7 +1218,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEngine.SurfaceEffector2D: 30142269c1198ebc30142269c1198ebc -> 
   custom:DOTSType/UnityEditor.VideoClipImporterInspector+TargetSettings: 74b08cb6e1bb737f74b08cb6e1bb737f -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/WhaleHarmoics: 10e028e87e68130610e028e87e681306 -> 
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/UnityEditor.PackageManager.UI.PackageManagerWindow: 12d6f755bd46f8a212d6f755bd46f8a2 -> 
@@ -1056,7 +1251,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEngine.TestRunner.Utils.TestRunCallbackListener: be8e9fd807bd1303be8e9fd807bd1303 -> 
   custom:DOTSType/UnityEditor.UI.ScrollRectEditor: 6e8aa818512418af6e8aa818512418af -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/Pathfollowing: c38366c3d093502cc38366c3d093502c -> 
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/UnityEditor.ConfigurableJointTool: 2d506b8ae31123392d506b8ae3112339 -> 
@@ -1087,7 +1285,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEngine.LODGroup: 15ad22bb5260348e15ad22bb5260348e -> 
   custom:DOTSType/UnityEngine.OcclusionPortal: 383ef822c66f16a3383ef822c66f16a3 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/ew.Seperation: 02202a923d427b1202202a923d427b12 -> 
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/UnityEngine.Texture2D: 200aaecece5d1600200aaecece5d1600 -> 
@@ -1095,7 +1296,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.UI.TextEditor: 5eda947aa1b364635eda947aa1b36463 -> 
   custom:DOTSType/UnityEditor.LookAtConstraintEditor: b2c669ce84ceb72cb2c669ce84ceb72c -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/Unity.Transforms.Editor.RotationComponentEditor: 93a57939a3b3c0b693a57939a3b3c0b6 -> 
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/Unity.Transforms.Static: a08c19e85cdd5a49a08c19e85cdd5a49 -> 
@@ -1109,7 +1313,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.SearchableEditorWindow: 953f795020fc6c5c953f795020fc6c5c -> 
   custom:DOTSType/TMPro.TMP_FontAsset: ab54e59dd028a99fab54e59dd028a99f -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/Havok.Physics.HavokConfiguration: a646ef3e590f9968a646ef3e590f9968 -> 
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/Unity.Entities.SceneTag: da8e6e0efc523a40da8e6e0efc523a40 -> 
@@ -1126,6 +1333,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.Networking.PlayerConnection.AttachToPlayerPlayerIPWindow: 48a672c8395454d748a672c8395454d7 -> 
   custom:DOTSType/UnityEditor.LightingWindow: 5e3e851f65f552305e3e851f65f55230 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  custom:DOTSType/Unity.Scenes.GameObjectSceneSubScene: c37a4dc062a456c9c37a4dc062a456c9 -> 
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
   custom:DOTSType/Unity.Scenes.GameObjectSceneSubScene: c37a4dc062a456c9c37a4dc062a456c9 -> 
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -1143,15 +1354,21 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEngine.Collider: e796157eabb2316ee796157eabb2316e -> 
   custom:DOTSType/UnityEditor.AudioMixerWindow: b55c12d15cca059cb55c12d15cca059c -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/UnityEditor.BrushEditor: 0ffbe3a9cca1ce5d0ffbe3a9cca1ce5d -> 
   custom:DOTSType/Unity.Physics.PhysicsVelocity: 8e8bc0a1b29052e28e8bc0a1b29052e2 -> 
   custom:DOTSType/UnityEditor.Graphs.GroupNode: 981a2d56f35c9f01981a2d56f35c9f01 -> 
   custom:DOTSType/ew.Tail: eae126310a42f131eae126310a42f131 -> 
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/Unity.Scenes.GameObjectReference: 384ae69775638aa2384ae69775638aa2 -> 
   custom:DOTSType/UnityEditor.BrushEditor: 0ffbe3a9cca1ce5d0ffbe3a9cca1ce5d -> 
   custom:DOTSType/Unity.Physics.PhysicsVelocity: 8e8bc0a1b29052e28e8bc0a1b29052e2 -> 
   custom:DOTSType/UnityEditor.Graphs.GroupNode: 981a2d56f35c9f01981a2d56f35c9f01 -> 
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/DebugStream+DrawComponent: f993a99b01c32449f993a99b01c32449 -> 
   custom:DOTSType/UnityEditor.PackageManager.UI.ServicesContainer: 0e90c0eb91ddf02e0e90c0eb91ddf02e -> 
@@ -1193,7 +1410,11 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.CapsuleCollider2DTool: 014b4c102fadf8e8014b4c102fadf8e8 -> 
   custom:DOTSType/UnityEditor.SceneVisibilityState: e74203d239ba0c3ae74203d239ba0c3a -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/SkyboxChanger: c70a940d82958481c70a940d82958481 -> 
+=======
+  custom:DOTSType/Unity.Rendering.BlendShapeTag: b76df7e273aca6a0b76df7e273aca6a0 -> 
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
   custom:DOTSType/Unity.Rendering.BlendShapeTag: b76df7e273aca6a0b76df7e273aca6a0 -> 
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -1202,7 +1423,11 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.SpeedTreeMaterialInspector: f570521503882bbbf570521503882bbb -> 
   custom:DOTSType/UnityEngine.UI.AspectRatioFitter: 0e2bc559704cca670e2bc559704cca67 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/Unity.Rendering.BlendShapeTag: b76df7e273aca6a0b76df7e273aca6a0 -> 
+=======
+  custom:DOTSType/Unity.Rendering.PerInstanceCullingTag: 45a7b9030cde606d45a7b9030cde606d -> 
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
   custom:DOTSType/Unity.Rendering.PerInstanceCullingTag: 45a7b9030cde606d45a7b9030cde606d -> 
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -1213,7 +1438,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.TerrainWizard: 0ccf2f22226b0c450ccf2f22226b0c45 -> 
   custom:DOTSType/UnityEngine.RenderSettings: 12e22dc69a3db32012e22dc69a3db320 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/Unity.Rendering.PerInstanceCullingTag: 45a7b9030cde606d45a7b9030cde606d -> 
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/UnityEngine.SkinnedMeshRenderer: 3fa50744ca67e0ee3fa50744ca67e0ee -> 
@@ -1222,6 +1450,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.AudioMixerControllerInspector: 3e328c3b798caa503e328c3b798caa50 -> 
   custom:DOTSType/UnityEditor.TestRunner.TestLaunchers.RemoteTestRunController: 38f6496d3554ce4c38f6496d3554ce4c -> 
   custom:DOTSType/Unity.Entities.RetainBlobAssetBatchPtr: 14017b765908ee1d14017b765908ee1d -> 
+<<<<<<< HEAD
 <<<<<<< HEAD
   custom:DOTSType/LookCamera: 75354371e010f1db75354371e010f1db -> 
   custom:DOTSType/UnityEditor.TestTools.TestRunner.CommandLineTest.ResultsSavingCallbacks: 2ed16a06d81dc2eb2ed16a06d81dc2eb -> 
@@ -1232,11 +1461,16 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEngine.TestTools.TestRunner.Callbacks.PlayerQuitHandler: 5629ecf1ea52d2325629ecf1ea52d232 -> 
   custom:DOTSType/ew.Constrain: c9a8ded76f301516c9a8ded76f301516 -> 
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/UnityEditor.TestTools.TestRunner.CommandLineTest.ResultsSavingCallbacks: 2ed16a06d81dc2eb2ed16a06d81dc2eb -> 
   custom:DOTSType/UnityEditor.Timeline.ActivationPlayableAssetInspector: fee1abb6cff4240dfee1abb6cff4240d -> 
   custom:DOTSType/UnityEditor.FrameDebuggerWindow: b82ade42f603cc3eb82ade42f603cc3e -> 
   custom:DOTSType/Unity.Physics.Editor.PhysicsBodyAuthoringEditor: 7e85753e4b31cd317e85753e4b31cd31 -> 
   custom:DOTSType/UnityEngine.TestTools.TestRunner.Callbacks.PlayerQuitHandler: 5629ecf1ea52d2325629ecf1ea52d232 -> 
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/Unity.Transforms.PostRotation: ae2fcedebecfe4ceae2fcedebecfe4ce -> 
   custom:DOTSType/Unity.Physics.Editor.CustomPhysicsBodyTagNamesEditor: 5e056a649e13a00c5e056a649e13a00c -> 
@@ -1299,7 +1533,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.CurveEditorSelection: a250a06b16ef8f99a250a06b16ef8f99 -> 
   custom:DOTSType/Unity.Rendering.BuiltinMaterialPropertyUnity_MatrixPreviousMI_Tag: 797ac022d7e96bdb797ac022d7e96bdb -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/ew.ObstacleAvoidance: 6ada0e27bc9711066ada0e27bc971106 -> 
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/UnityEditor.SceneManagement.MainStage: 5ebb5c04848ec6ec5ebb5c04848ec6ec -> 
@@ -1325,7 +1562,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEngine.UI.ToggleGroup: 7a2f63805f5f602e7a2f63805f5f602e -> 
   custom:DOTSType/UnityEditor.EditorTools.EditorToolWindow: cdfdd1ac790d9273cdfdd1ac790d9273 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/ShipPursue: cda34d380165a3e0cda34d380165a3e0 -> 
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/UnityEditor.MonoManager: 28d6d47b4cf6c3ae28d6d47b4cf6c3ae -> 
@@ -1348,6 +1588,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.GradientPresetLibrary: 745c2692b39a9d61745c2692b39a9d61 -> 
   custom:DOTSType/UnityEditor.Experimental.SceneManagement.PrefabStage: b535c738e22075d6b535c738e22075d6 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  custom:DOTSType/Unity.Scenes.Editor.GameObjectSceneMetaDataImporter: 35c29e171f7f1b1235c29e171f7f1b12 -> 
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
   custom:DOTSType/Unity.Scenes.Editor.GameObjectSceneMetaDataImporter: 35c29e171f7f1b1235c29e171f7f1b12 -> 
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -1356,7 +1600,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.U2D.SpriteAtlasAsset: 0d418336ac31dc000d418336ac31dc00 -> 
   custom:DOTSType/TMPro.EditorUtilities.TMP_FontAssetEditor: 1d231b0019a0cd831d231b0019a0cd83 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/Unity.Entities.Editor.ComponentDataProxyBaseEditor: f405e2b0cb1b0caef405e2b0cb1b0cae -> 
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/UnityEditor.BuoyancyEffector2DEditor: 55b7d16d4929d69155b7d16d4929d691 -> 
@@ -1373,6 +1620,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.SkinnedMeshRendererEditor: 5788cdd9e005404a5788cdd9e005404a -> 
   custom:DOTSType/Unity.Entities.Prefab: 8cefcfc0e3366a618cefcfc0e3366a61 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/Havok.Physics.Authoring.HavokConfigurationAuthoring: 3b04938b13941c2a3b04938b13941c2a -> 
   custom:DOTSType/Unity.Rendering.MeshLODComponent: 72f3b1409c3b6ea072f3b1409c3b6ea0 -> 
   custom:DOTSType/UnityEditorInternal.AnimationWindowState: 94f741479a091e1194f741479a091e11 -> 
@@ -1380,21 +1628,32 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/Unity.Transforms.ScalePivotTranslation: 7a4d398e04699c317a4d398e04699c31 -> 
   custom:DOTSType/Path: be92e79abf5e338bbe92e79abf5e338b -> 
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/Unity.Rendering.MeshLODComponent: 4ea9d5c0f85a41194ea9d5c0f85a4119 -> 
   custom:DOTSType/UnityEditorInternal.AnimationWindowState: 94f741479a091e1194f741479a091e11 -> 
   custom:DOTSType/Unity.Physics.PhysicsConstrainedBodyPair: 4b36b3ac559944444b36b3ac55994444 -> 
   custom:DOTSType/Unity.Transforms.ScalePivotTranslation: 7a4d398e04699c317a4d398e04699c31 -> 
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/UnityEditor.TestTools.TestRunner.Api.CallbacksDelegatorListener: 782ea27efdc36c2d782ea27efdc36c2d -> 
   custom:DOTSType/Unity.Transforms.RotationPivotTranslation: bec3fbdfd35c6009bec3fbdfd35c6009 -> 
   custom:DOTSType/CompanionGameObjectActiveSystemState: ec91cec1dbc008ddec91cec1dbc008dd -> 
   custom:DOTSType/UnityEngine.TargetJoint2D: 386f482ec8002d87386f482ec8002d87 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/ShipMaker: c16bb5bc8f318449c16bb5bc8f318449 -> 
   custom:DOTSType/UnityEditor.SliderJoint2DEditor: 742500998585c778742500998585c778 -> 
   custom:DOTSType/UnityEngine.SpeedTreeWindAsset: 3c59bbbdea82975c3c59bbbdea82975c -> 
   custom:DOTSType/UnityEditor.ProjectWindowCallback.DoCreateAudioMixer: 287760e33cd31c56287760e33cd31c56 -> 
   custom:DOTSType/SceneMetaDataImporter: fa6e14dc96fad8cdfa6e14dc96fad8cd -> 
+=======
+  custom:DOTSType/UnityEditor.SliderJoint2DEditor: 742500998585c778742500998585c778 -> 
+  custom:DOTSType/UnityEngine.SpeedTreeWindAsset: 3c59bbbdea82975c3c59bbbdea82975c -> 
+  custom:DOTSType/UnityEditor.ProjectWindowCallback.DoCreateAudioMixer: 287760e33cd31c56287760e33cd31c56 -> 
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
   custom:DOTSType/UnityEditor.SliderJoint2DEditor: 742500998585c778742500998585c778 -> 
   custom:DOTSType/UnityEngine.SpeedTreeWindAsset: 3c59bbbdea82975c3c59bbbdea82975c -> 
@@ -1425,10 +1684,15 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEngine.MeshCollider: 745c145fdcf1939e745c145fdcf1939e -> 
   custom:DOTSType/Unity.Rendering.BlendProbeTag: 4693a2a0c2a615bb4693a2a0c2a615bb -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/ew.Flee: e8228e29b0317023e8228e29b0317023 -> 
   custom:DOTSType/UnityEditor.SpriteUtilityWindow: 21bfa93620622a0921bfa93620622a09 -> 
   custom:DOTSType/UnityEditor.Graphs.AnimationStateMachine.AnimatorTransitionInspector: deeeaca05832039fdeeeaca05832039f -> 
   custom:DOTSType/ew.Wander: 0fb108caa97f3aa70fb108caa97f3aa7 -> 
+=======
+  custom:DOTSType/UnityEditor.SpriteUtilityWindow: 21bfa93620622a0921bfa93620622a09 -> 
+  custom:DOTSType/UnityEditor.Graphs.AnimationStateMachine.AnimatorTransitionInspector: deeeaca05832039fdeeeaca05832039f -> 
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
   custom:DOTSType/UnityEditor.SpriteUtilityWindow: 21bfa93620622a0921bfa93620622a09 -> 
   custom:DOTSType/UnityEditor.Graphs.AnimationStateMachine.AnimatorTransitionInspector: deeeaca05832039fdeeeaca05832039f -> 
@@ -1440,7 +1704,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/Unity.Entities.CodeGen.Tests.TestTypes.AccelerationInAnotherAssembly: 635950b225eb11d7635950b225eb11d7 -> 
   custom:DOTSType/UnityEditor.SpeedTreeImporterInspector: 004c63480a71533b004c63480a71533b -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/Unity.Transforms.Editor.PositionComponentEditor: 0a917483c787e47a0a917483c787e47a -> 
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/UnityEditor.TilemapEditor: 551d2898e5b8e1dd551d2898e5b8e1dd -> 
@@ -1473,8 +1740,12 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.UI.ContentSizeFitterEditor: 7b574be00a84b3d37b574be00a84b3d3 -> 
   custom:DOTSType/UnityEditor.TestTools.TestRunner.CommandLineTest.ExitCallbacks: 5cdc6cdeddd7fee35cdc6cdeddd7fee3 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/ew.BackAndForthCamera: 36192597757dce5136192597757dce51 -> 
   custom:DOTSType/Unity.Physics.PhysicsStep: e2d0d61a58b99e55e2d0d61a58b99e55 -> 
+=======
+  custom:DOTSType/Unity.Physics.PhysicsStep: 6a61d7b75d7187246a61d7b75d718724 -> 
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
   custom:DOTSType/Unity.Physics.PhysicsStep: 6a61d7b75d7187246a61d7b75d718724 -> 
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -1515,6 +1786,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.Timeline.DirectorNamedColorInspector: 321ef73a79c0edc1321ef73a79c0edc1 -> 
   custom:DOTSType/Unity.Physics.PhysicsJoint: 0192d908e12d1ecb0192d908e12d1ecb -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/Unity.Transforms.RotationProxy: c8e1f02200aab487c8e1f02200aab487 -> 
   custom:DOTSType/Unity.Rendering.ChunkWorldRenderBounds: 4dedf1fcb53468814dedf1fcb5346881 -> 
   custom:DOTSType/UnityEngine.AudioReverbZone: a9cb03f27a6045faa9cb03f27a6045fa -> 
@@ -1523,6 +1795,8 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.LightingSettingsEditor: 265112bd8b9bc51f265112bd8b9bc51f -> 
   custom:DOTSType/UnityEditor.PackageManager.UI.PackageSelectionObject: 5ce1516af832c5325ce1516af832c532 -> 
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/Unity.Rendering.ChunkWorldRenderBounds: 4dedf1fcb53468814dedf1fcb5346881 -> 
   custom:DOTSType/UnityEngine.AudioReverbZone: a9cb03f27a6045faa9cb03f27a6045fa -> 
   custom:DOTSType/UnityEngine.TerrainCollider: 784f2fa66494ee59784f2fa66494ee59 -> 
@@ -1530,6 +1804,9 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEngine.Texture: 7258077ff2bdfd437258077ff2bdfd43 -> 
   custom:DOTSType/UnityEditor.PackageManager.UI.PackageSelectionObject: 5ce1516af832c5325ce1516af832c532 -> 
   custom:DOTSType/UnityEditor.LightingSettingsEditor: 265112bd8b9bc51f265112bd8b9bc51f -> 
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   custom:DOTSType/UnityEditor.ViewModeToolCustomEditor: 6419ff5253218d3c6419ff5253218d3c -> 
   custom:DOTSType/UnityEngine.Animations.LookAtConstraint: e325a2fcf3d5a159e325a2fcf3d5a159 -> 
@@ -1540,7 +1817,11 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.AudioImporterInspector: 4f6b63b8ce601ea64f6b63b8ce601ea6 -> 
   custom:DOTSType/UnityEditor.TestTools.TestRunner.CommandLineTest.LogSavingCallbacks: 146ff92bed1c3159146ff92bed1c3159 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:DOTSType/Unity.Rendering.HLODComponent: 137e791d14d818af137e791d14d818af -> 
+=======
+  custom:DOTSType/Unity.Rendering.LightBakingOutputDataRestoredTag: 5c9519155d96ffe05c9519155d96ffe0 -> 
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
   custom:DOTSType/Unity.Rendering.LightBakingOutputDataRestoredTag: 5c9519155d96ffe05c9519155d96ffe0 -> 
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -1556,6 +1837,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEditor.NavMeshObstacleInspector: e09ab8310b8a0334e09ab8310b8a0334 -> 
 ========================================================================
 Received Import Request.
+<<<<<<< HEAD
 <<<<<<< HEAD
   path: Assets/GlobalEntitiesDependencies/GlobalEntitySceneDependency.asset
   artifactKey: Guid(72f5ae70dccf0454cb5987300041f5f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -7644,6 +7926,8 @@ AssetImportParameters requested are different than current active one (requested
   custom:DOTSType/UnityEngine.UI.ScrollRect: 62cfaff9f3d4457062cfaff9f3d44570 -> 
   custom:DOTSType/UnityEditor.NavMeshObstacleInspector: e09ab8310b8a0334e09ab8310b8a0334 -> 
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
   path: Assets/Prefabs/TIE Squad.prefab
   artifactKey: Guid(b5d1acf18bd6f41a28766ee149d744d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Prefabs/TIE Squad.prefab using Guid(b5d1acf18bd6f41a28766ee149d744d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2782ed34e17ba420d31a9d3dc2b7fd62') in 1.078469 seconds
@@ -7689,5 +7973,8 @@ Received Import Request.
 Start importing Assets/Prefabs/LEADER TIE Fighter.prefab using Guid(363cdaa1fa88d4a138a028c5184e6de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '895605399dbd8697fd9595e21f5439f4') in 0.023510 seconds
   Import took 0.028881 seconds .
 
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
