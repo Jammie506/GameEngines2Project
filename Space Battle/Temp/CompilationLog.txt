@@ -1,2 +1,274 @@
-# Starting compiling Assembly-CSharp.dll
-/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-68a4945915866430e9df7198161e55b4
+# Starting compiling UnityEngine.UI.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4b0788c9ae3164e12a90fd1b908499c8
+# Starting compiling UnityEngine.TestRunner.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4b6577f15ba654c0eb872cda824c45e7
+# Starting compiling UnityEditor.TestRunner.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3bdcca66485264b8e99ce7f8c4ea1711
+# Starting compiling UnityEditor.UI.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-623851e0474674f05a6c39c28af61ae7
+# Starting compiling Unity.Properties.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-208a96977448a4a3781f06a0330d6142
+# Starting compiling Unity.VSCode.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6213209e6673141118880d8f8f807292
+# Starting compiling UnityEditor.CacheServer.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2988e6a0e09d44542ad350166f0c2691
+# Starting compiling Unity.InternalAPIEditorBridge.012.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ac47a196193fc45b696981d8af9b5c1d
+# Starting compiling Unity.Rider.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b40924a70c588496e83ebaf4db97d3c4
+# Starting compiling Unity.Core.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-154b2138b9bed4e54aaa9e891f501182
+# Starting compiling Unity.CollabProxy.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-cf5185f2cd7324062a75effa4facea4e
+# Starting compiling Unity.PerformanceTesting.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-53e13eaf708aa484b81e1bafd8ad19fa
+# Starting compiling Unity.Platforms.Common.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-708f9380125d74897a4ce3a20a107037
+# Starting compiling Unity.Build.SlimPlayerRuntime.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1c29adf6931eb4e01b8adb192fc4b0af
+# Starting compiling Unity.Entities.BuildUtils.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7b9696372beda474aaf0717554eab73e
+# Starting compiling Unity.VisualStudio.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c33bd63ee4f4e47e5994a29a52623c1b
+# Starting compiling Unity.Timeline.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-588641421a9654da796367d487013843
+# Starting compiling Unity.TextMeshPro.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-258046d17b18a42d9b9972a3a14b0328
+# Starting compiling Unity.InternalAPIEngineBridge.012.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4c43b769f42ec4cff8159aa577011eb2
+# Starting compiling Unity.Mathematics.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a310b5d418cfe429cabc8442023cdf12
+# Starting compiling Unity.Burst.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8b763d7f8102046f89d45ee8a9fa8715
+# Starting compiling Unity.ScriptableBuildPipeline.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0779065525e634386a89931835367e99
+# Starting compiling Unity.PerformanceTesting.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d8fb605b8d7d941c19a10b73266fa9b1
+# Starting compiling Unity.Properties.CodeGen.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9a4de20608385481092832329814a9e6
+# Starting compiling Unity.Properties.Reflection.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7e7a280f2ce854722977bd1c40e2c7b1
+# Starting compiling Unity.Properties.UI.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-cb04fb906830441f4a32c039e20af36f
+# Starting compiling Unity.Timeline.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-397a0d1dc24474e059238814e4ea56eb
+# Starting compiling Unity.ScriptableBuildPipeline.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-105400548bf1f4d46a71346116be6fd3
+# Starting compiling Unity.Properties.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6dac643f6418f4f93b0ecdf4356f0522
+# Starting compiling Unity.TextMeshPro.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b2ff0e0c4eb8149fc9b3e14f24bb8366
+# Starting compiling Unity.Burst.CodeGen.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-251f1a4ee3133408f91729fda3b6a1e3
+# Starting compiling Unity.Burst.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3983bcc6ca6f24a12bcdf64e47bc7ee5
+# Starting compiling Unity.Mathematics.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-82a7e05334fc54aaaa31a99af9857cca
+# Starting compiling Unity.Collections.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-00d035109ff4f4b3e8ff5447f7efbf82
+# Starting compiling Unity.Collections.BurstCompatibilityGen.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c28a9a30b8b3444efb7de2bcba066df5
+# Starting compiling Unity.Jobs.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a8e4046b7f95447ae85ad77d9f0ab005
+# Starting compiling Unity.Serialization.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b1d64d9610f6d4b29b8b9d561ee0bdf3
+# Starting compiling Unity.Mathematics.Extensions.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a9daa7eab21a74276a9f4767eb7e8594
+# Starting compiling Unity.Jobs.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0b14f2a9e306b49fa9d8a7f072e0c91c
+# Starting compiling Unity.Mathematics.Extensions.Hybrid.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c019ed87dd7cb43e7afc946e0811eb07
+# Starting compiling Unity.Entities.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0121673268ebf4667a9591142800dc12
+# Starting compiling Unity.Serialization.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-26cf61a274a604907922a349953a5e1f
+# Starting compiling Unity.Properties.UI.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7c734fc8b276a4331b6f95ad4db3fc0e
+# Starting compiling Unity.Build.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3e85c54d9212a4e17809085d1e8e908d
+# Starting compiling Unity.Build.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0b6e1902f9d754c64bbe2f8f9731ac86
+# Starting compiling Unity.Build.Internals.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f33a02ab12a774051b2674e0cb2524c7
+# Starting compiling Unity.Entities.CodeGen.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-348d59864bbc745428162bbf47dda01a
+# Starting compiling Unity.Transforms.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-31e7535225c854d8da7aab5613823f58
+# Starting compiling Unity.Entities.CodeGen.Tests.TestTypes.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9742ad7660a2f43fd9e608e3a03589df
+# Starting compiling Unity.Deformations.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7a4f072a62ba84c31b956e9e78b2d1a6
+# Starting compiling Unity.Build.DotsRuntime.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-645ec05dd5a954401bc1fcb0a6c86703
+# Starting compiling Unity.Build.Classic.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2c2f33e2f1abc4c66afc92f5f45dcbbf
+# Starting compiling Unity.Scenes.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-707f21ec9e88242d6b75218e9aecb50b
+# Starting compiling Unity.Physics.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-931e6f331cc774c4abcc6a441c1395cb
+# Starting compiling Unity.Build.Classic.Private.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2db05f955e6b948f695e435914a709f5
+# Starting compiling Unity.Entities.Hybrid.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-bd257c2b56f414e6582c0fd67200d9f2
+# Starting compiling Unity.Build.Playmode.TestRunner.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-5e0bfb3e9db1f476d9ded77de3f8f230
+# Starting compiling Unity.Entities.Hybrid.CodeGen.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-48500b257300e410184cbd35438c14b9
+# Starting compiling Unity.Transforms.Hybrid.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-893e4875204cc49b98e1e38e848d5da0
+# Starting compiling Unity.Scenes.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7654fbc730d4245e5a73f38c8363ccfb
+# Starting compiling Havok.Physics.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-47f257e874fdb4a13840ba6ae41801ee
+# Starting compiling Unity.Physics.Hybrid.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6c362e16891e6490a9f1501f00251c39
+# Starting compiling Unity.Entities.Hybrid.EndToEnd.Tests.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ebde95951fad047c79dcd770e3d81074
+# Starting compiling Unity.Rendering.Hybrid.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ab171a4cb8972494f827edaf6a1a08b0
+# Starting compiling Unity.Entities.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9fe4a65eae8784893932746e1ad91e24
+# Starting compiling Havok.Physics.Hybrid.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-588571f543e6c47aba117259687a72a5
+# Starting IL post processing on UnityEngine.TestRunner.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-5c80abe6796084ed8991711e67d68e16"
+# Starting compiling Unity.Transforms.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0ed3b533215a24337ac01fd79c66df11
+# Starting compiling Unity.Rendering.Hybrid.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-77b18a8c2384941a598d943795ceb2c7
+# Starting compiling HelloCube.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-166b4ea575a8a47d694fe613409bfcd6
+# Starting compiling Unity.Physics.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7080da992f6b94cc0bc4778040bb2e61
+# Starting compiling Havok.Physics.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4736ea7478c6047b49ae538bdfc0dcdb
+# Starting IL post processing on UnityEngine.UI.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-87ab534e688094d5699b0aeb357745e4"
+# Starting IL post processing on UnityEditor.TestRunner.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-b4d443ade4b924d0e8f8dba39f0e6983"
+# Starting IL post processing on UnityEditor.UI.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-af2f223d861d6449aafb7b617f0401f4"
+# Starting IL post processing on UnityEditor.CacheServer.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-db3fa7c9b636f4c16a08402f5995c1e9"
+# Starting IL post processing on Unity.InternalAPIEditorBridge.012.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-3dd0499b7aa064c798446d101fbbeb53"
+# Starting IL post processing on Unity.Core.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-a82d479b177114397b0b278937eff47c"
+# Starting IL post processing on Unity.VSCode.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-7ccc767b0c64747a89ac5186b1f1c2fb"
+# Starting IL post processing on Unity.Build.SlimPlayerRuntime.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-e016b6b16f9694469be77b9ae66df5ac"
+# Starting IL post processing on Unity.Entities.BuildUtils.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-ce82420b712b54196b57a99799aca30d"
+# Starting IL post processing on Unity.Rider.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-78d7d7014374c430b934c09169e3ad69"
+# Starting IL post processing on Unity.Platforms.Common.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-7d4dd66727c5244e8b53953fab4f00b6"
+# Starting IL post processing on Unity.PerformanceTesting.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-77b56247273a8427ea8703cf574a9c28"
+# Starting IL post processing on Unity.InternalAPIEngineBridge.012.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-fdbb82790be13484688998baa7df3d89"
+# Starting IL post processing on Unity.Properties.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-50d320ae3f9dc423db6c7a9426293e9a"
+# Starting IL post processing on Unity.VisualStudio.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-57741a7c7010b4c8ba5d36c7b60ca61f"
+# Starting IL post processing on Unity.Timeline.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-188095c708a664e919b87864e793ebfc"
+# Starting IL post processing on Unity.ScriptableBuildPipeline.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-5383ffd076f044472bf8d2541de78492"
+# Starting IL post processing on Unity.CollabProxy.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-c5208d1064fb84d9094b98db9ad6050e"
+# Starting IL post processing on Unity.PerformanceTesting.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-2e2d6e52c3eff44329b2b6019e851fde"
+# Starting IL post processing on Unity.Properties.UI.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-bb26228c5d27f4608a641113b947244b"
+# Starting IL post processing on Unity.Properties.Reflection.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-0def80f994ae344aeac0e702cd97fd4a"
+# Starting IL post processing on Unity.TextMeshPro.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-181d056d3e7ad4651bd9566425aa7f52"
+# Starting IL post processing on Unity.ScriptableBuildPipeline.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-f648d3f0a4aaf440cbd612ceb0647616"
+# Starting IL post processing on Unity.Burst.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-b2c309e33409745438999c3f8ee3335b"
+# Starting IL post processing on Unity.Properties.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-98990c65c11ad4b49b80eaf0ae30aba3"
+# Starting IL post processing on Unity.Timeline.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-5480d6fb77b314b69b2eea3bcceb4d77"
+# Starting IL post processing on Unity.TextMeshPro.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-decaf7bfc057c44c9b2e485c209cb3bd"
+# Starting IL post processing on Unity.Burst.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-0ec5049b036d044f7a569380056a49a1"
+# Starting IL post processing on Unity.Mathematics.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-4a30723e8abd44f05810dcfef30247dd"
+# Starting IL post processing on Unity.Mathematics.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-d4fce894e79c34d4a8e83407e7796273"
+# Starting IL post processing on Unity.Collections.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-54330ec52dc254f2a9bff1b0d0b4f70b"
+# Starting IL post processing on Unity.Jobs.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-51afebde3d73b466cb8e2545b907a6ee"
+# Starting IL post processing on Unity.Collections.BurstCompatibilityGen.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-379d09382a80f42a28ed3f2281d81095"
+# Starting IL post processing on Unity.Mathematics.Extensions.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-b4fa99f60edc343a9b6593608e57731e"
+# Starting IL post processing on Unity.Jobs.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-f745b6a73a0c34752a4f9e36d56c5473"
+# Starting IL post processing on Unity.Serialization.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-9dc95e9acb2ac4ecebfe6bcca2211755"
+# Starting IL post processing on Unity.Mathematics.Extensions.Hybrid.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-cda9ded14e98540ef960d727d5f8ae55"
+# Starting IL post processing on Unity.Serialization.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-55aedb428303545c28419eef7d1ba8a7"
+# Starting IL post processing on Unity.Properties.UI.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-8dbfbf64020a24d09a02af657ae7accc"
+# Starting IL post processing on Unity.Build.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-7032e1d5e3dc94ddc86b188fbd48ba90"
+# Starting IL post processing on Unity.Entities.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-93988aa786912476e9c96c86e8b372ff"
+# Starting IL post processing on Unity.Build.Internals.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-82387f52799114163ab61fd8ba2294eb"
+# Starting IL post processing on Unity.Build.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-8a8a7c790833b44ba8c3c88de9ea6819"
+# Starting IL post processing on Unity.Entities.CodeGen.Tests.TestTypes.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-d6f3bc2c7b5b44cae9222297a4e94ce8"
+# Starting IL post processing on Unity.Deformations.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-17fbefaddb307487cb64b4ef1e46709c"
+# Starting IL post processing on Unity.Transforms.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-58e10de69760f47aca3fe6b61886a584"
+# Starting IL post processing on Unity.Build.DotsRuntime.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-1f553c3ebdf0f4bfca999ff8373f9472"
+# Starting IL post processing on Unity.Build.Classic.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-e446f2ee798fb48fabbf1a3c07fea3b7"
+# Starting IL post processing on Unity.Scenes.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-8727ffd0a0cd1400db9527704739a125"
+# Starting IL post processing on Unity.Build.Classic.Private.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-471fd1bbdc63b4eeb8ec37058105e14e"
+# Starting IL post processing on Unity.Entities.Hybrid.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-b990a15434f9c475f942d07340d40017"
+# Starting IL post processing on Unity.Physics.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-60bf6b48c915d451bb51d55c3dc36cde"
+# Starting IL post processing on Unity.Build.Playmode.TestRunner.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-d3e4378d61a4747e182eae1e2dfb7f5b"
+# Starting IL post processing on Unity.Transforms.Hybrid.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-c0e3312d2824e454cbadf79fe15ac3b1"
+# Starting IL post processing on Unity.Scenes.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-5fa527285c0534df1988a5728bca651a"
+# Starting IL post processing on Havok.Physics.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-9f89690b8a71d43c8aae4f4f241e5e96"
+# Starting IL post processing on Unity.Physics.Hybrid.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-d3cff3cca74ad4cc3b00d087603c4c39"
+# Starting IL post processing on Unity.Entities.Hybrid.EndToEnd.Tests.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-69bf041129b4d47b091c6ca3f5c8aa51"
+# Starting IL post processing on Unity.Entities.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-9c88820f197bf4b198fd1e9228b1204e"
+# Starting IL post processing on Unity.Rendering.Hybrid.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-0cf55e03475ac40b0936808a2c1e7e1d"
+# Starting IL post processing on Havok.Physics.Hybrid.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-4961ef0faa5334b5f839ec3b76261176"
+# Starting IL post processing on Unity.Transforms.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-1c626d3b2728b4389a99063bf9a258d9"
+# Starting IL post processing on Unity.Rendering.Hybrid.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-8c3710ae247de4482b4953b7a66f7dcb"
+# Starting IL post processing on Havok.Physics.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-3692a8368b3134790a57633ffc6e0ac3"
+# Starting IL post processing on Unity.Physics.Editor.dll
+/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space Battle/Temp/UnityTempFile-41e849fb5a6af41958233cae00118550"
