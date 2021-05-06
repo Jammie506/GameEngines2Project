@@ -20,6 +20,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - '{"m_Value":11.5,"m_LowValue":0.0,"m_HighValue":23.5}'
 =======
   - '{"m_Value":0.0,"m_LowValue":0.0,"m_HighValue":1256.5}'
@@ -30,3 +31,6 @@ MonoBehaviour:
 =======
   - '{"m_Value":0.0,"m_LowValue":0.0,"m_HighValue":1243.0}'
 >>>>>>> parent of 9cc36797 (.)
+=======
+  - '{"m_Value":0.0,"m_LowValue":0.0,"m_HighValue":1256.5}'
+>>>>>>> parent of d440c42c (ECS Examples Working)

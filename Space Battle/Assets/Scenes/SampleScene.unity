@@ -183,12 +183,13 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 47231207}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c2dd9c57123314f55a908d0f64dc375c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Prefab: {fileID: 5998812232396126063, guid: e0c73633e8ace45d499219403076e933, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -259,6 +260,10 @@ MonoBehaviour:
   usePartitioning: 1
   toPass: 0.3
   clickCount: 0
+=======
+  CountX: 50
+  CountY: 50
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
   CountX: 50
   CountY: 50

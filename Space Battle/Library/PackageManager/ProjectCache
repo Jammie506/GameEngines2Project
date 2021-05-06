@@ -6,7 +6,11 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< HEAD
       ticks: 637559067720000000
+=======
+      ticks: 637557155170000000
+>>>>>>> parent of d440c42c (ECS Examples Working)
     m_Hash: 4260282400
   m_LockFileStatus:
     m_FilePath: /Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space
@@ -15,7 +19,11 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< HEAD
       ticks: 637559070940000000
+=======
+      ticks: 637557155180000000
+>>>>>>> parent of d440c42c (ECS Examples Working)
     m_Hash: 908390582
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -168,7 +176,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.5.3
       source: 1
+<<<<<<< HEAD
       resolvedPath: /Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space
+=======
+      resolvedPath: /Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space
+>>>>>>> parent of d440c42c (ECS Examples Working)
         Battle/Library/PackageCache/com.unity.burst@1.5.3
       assetPath: Packages/com.unity.burst
       name: com.unity.burst
