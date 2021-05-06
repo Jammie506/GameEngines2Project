@@ -2,12 +2,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "BurstVersion": "9b99a8d2-6a5f-43d4-ad10-97789969a537",
   "Assemblies": [
     {
       "FullName": "Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
       "LastWriteTime": "2021-05-04T16:41:31Z"
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
@@ -19,6 +22,9 @@
       "LastWriteTime": "2021-05-04T08:59:14Z"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -38,12 +44,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "LastWriteTime": "2021-05-04T16:41:32Z"
     },
     {
       "FullName": "Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
       "LastWriteTime": "2021-05-04T16:41:31Z"
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
@@ -55,6 +64,9 @@
       "LastWriteTime": "2021-05-04T08:59:17Z"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -73,6 +85,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "FullName": "Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "LastWriteTime": "2021-05-04T16:41:31Z"
     },
@@ -80,6 +93,8 @@
       "FullName": "Unity.Burst.Unsafe, Version=4.0.5.0, Culture=neutral, PublicKeyToken=null",
       "LastWriteTime": "2020-09-25T20:47:59Z"
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
@@ -108,6 +123,9 @@
       "LastWriteTime": "2021-04-23T16:13:06Z"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -119,6 +137,7 @@
       "LastWriteTime": "2021-02-16T09:27:16Z"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -146,6 +165,8 @@
       "FullName": "Unity.Mathematics.Extensions, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
       "LastWriteTime": "2021-05-04T16:41:32Z"
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
@@ -178,6 +199,9 @@
       "LastWriteTime": "2021-05-04T08:59:16Z"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -190,9 +214,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "FullName": "System.Int32 Unity.Burst.Intrinsics.X86::DoGetCSRTrampoline()",
       "ModuleOptionsHash": 8794384452606821980,
       "ModuleHash": "e23dfe6d902603dc28b1239bceab0a62",
+=======
+      "FullName": "Unity.Burst.Intrinsics.X86, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::DoGetCSRTrampoline()",
+      "ModuleOptionsHash": 1809861571778145175,
+      "ModuleHash": "75ac8a19f21d078176a2054b4e99e637",
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
       "FullName": "Unity.Burst.Intrinsics.X86, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::DoGetCSRTrampoline()",
       "ModuleOptionsHash": 1809861571778145175,
@@ -219,9 +249,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "FullName": "System.Void Unity.Burst.Intrinsics.X86::DoSetCSRTrampoline(System.Int32)",
       "ModuleOptionsHash": 8794384452606821980,
       "ModuleHash": "45304e7bbb464d64d8474401dc8f44cf",
+=======
+      "FullName": "Unity.Burst.Intrinsics.X86, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::DoSetCSRTrampoline(System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 1809861571778145175,
+      "ModuleHash": "1302433114a1e91923c1eb5f9d473d01",
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
       "FullName": "Unity.Burst.Intrinsics.X86, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::DoSetCSRTrampoline(System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
       "ModuleOptionsHash": 1809861571778145175,
@@ -248,6 +284,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "FullName": "System.Void Unity.Entities.StructuralChange::_mono_to_burst_AddComponentChunks(System.IntPtr,System.IntPtr,System.Int32,System.Int32)",
       "ModuleOptionsHash": 8794384452606821980,
       "ModuleHash": "1fc7c899105815e59c48802bbb4aead8",
@@ -257,10 +294,13 @@
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
       "FullName": "Unity.Entities.FastEquality, Unity.Entities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::_mono_to_burst_Hash32(System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.UInt32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
       "ModuleOptionsHash": 1809861571778145175,
       "ModuleHash": "8c4d730a7ab4c5aa85c01dfc3cd0b153",
       "LinkName": "E40A231F79906976",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -288,10 +328,13 @@
       "LinkName": "81A40D824FF4844C",
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
       "AssemblyDependencyIndices": [
         3,
         1,
         2,
+<<<<<<< HEAD
 <<<<<<< HEAD
         4,
         5,
@@ -300,6 +343,8 @@
         0,
         8,
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
@@ -415,6 +460,9 @@
         11,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -424,6 +472,7 @@
       ]
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -442,6 +491,8 @@
         0,
         8,
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
@@ -545,6 +596,7 @@
         6,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of d440c42c (ECS Examples Working)
         9
       ]
@@ -569,10 +621,13 @@
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
         9
       ]
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "FullName": "System.Boolean Unity.Entities.StructuralChange::_mono_to_burst_RemoveComponentEntity(System.IntPtr,System.IntPtr,System.Int32)",
@@ -590,6 +645,8 @@
         0,
         8,
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
@@ -706,6 +763,7 @@
         3,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of d440c42c (ECS Examples Working)
         9
       ]
@@ -730,10 +788,13 @@
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
         9
       ]
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "FullName": "System.Void Unity.Entities.StructuralChange::_mono_to_burst_RemoveComponentEntitiesBatch(System.IntPtr,System.IntPtr,System.Int32)",
@@ -741,6 +802,8 @@
       "ModuleHash": "5afcf419b92747f73bea6933f89ad9e7",
       "LinkName": "74E50FA3D6683F1B",
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
@@ -867,6 +930,9 @@
       "LinkName": "8080AAA367B214DB",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -879,6 +945,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         4,
         5,
         6,
@@ -886,6 +953,8 @@
         0,
         8,
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
@@ -1080,6 +1149,7 @@
         7,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -1209,16 +1279,21 @@
         8,
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
         9
       ]
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "FullName": "System.Void Unity.Entities.EntityComponentStore::_mono_to_burst_EntityBatchFromEntityChunkDataShared(Unity.Entities.EntityInChunk*&,System.Int32,System.IntPtr,System.IntPtr,Unity.Entities.EntityComponentStore/ComponentOperation,Unity.Entities.ComponentType&,System.IntPtr)",
       "ModuleOptionsHash": 8794384452606821980,
       "ModuleHash": "57bd17e5f8de9412d313e9f26ae89214",
       "LinkName": "A0049CBD0622BA54",
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
@@ -1382,6 +1457,9 @@
       "LinkName": "2D1B93BF050A986D",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -1394,6 +1472,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         4
       ]
     },
@@ -1403,6 +1482,8 @@
       "ModuleHash": "47521af56c76455cda9e4c74df1c5c89",
       "LinkName": "D05CABF75DA16DA5",
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
@@ -1420,6 +1501,9 @@
       "LinkName": "922979C3567FE38C",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -1429,6 +1513,7 @@
         3,
         1,
         2,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1455,6 +1540,8 @@
       "ModuleHash": "5afb5cdf1af44098f77ca0e448ed55f8",
       "LinkName": "34775B2BD609D778",
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
@@ -1487,6 +1574,9 @@
       "LinkName": "50FC1549FF8D82FF",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -1499,6 +1589,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         4
       ]
     },
@@ -1508,6 +1599,8 @@
       "ModuleHash": "086d1e536ecb7e0ef496e60e3d0edaff",
       "LinkName": "F2836BA2DDFA7C9F",
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
@@ -1525,6 +1618,9 @@
       "LinkName": "FB7D2945788190D0",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -1537,6 +1633,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         4
       ]
     },
@@ -1546,6 +1643,8 @@
       "ModuleHash": "b450d46bf9639fb1fa272e8b880ec24c",
       "LinkName": "9263AC1F7F4532AF",
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
@@ -1563,6 +1662,9 @@
       "LinkName": "33EA89F87C38653D",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -1571,6 +1673,7 @@
         1,
         2,
         5,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
         6
@@ -1787,6 +1890,61 @@
         18,
         9
 >>>>>>> parent of d440c42c (ECS Examples Working)
+=======
+        7,
+        6,
+        9
+      ]
+    },
+    {
+      "FullName": "Unity.Entities.JobEntityBatchExtensions+JobEntityBatchProducer`1[[Unity.Physics.GraphicsIntegration.BufferInterpolatedRigidBodiesMotion+UpdateInterpolationBuffersJob, Unity.Physics, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], Unity.Entities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Entities.JobEntityBatchExtensions+JobEntityBatchWrapper`1[[Unity.Physics.GraphicsIntegration.BufferInterpolatedRigidBodiesMotion+UpdateInterpolationBuffersJob, Unity.Physics, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]&, Unity.Entities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 1809861571778145175,
+      "ModuleHash": "82ee17b190f5652874f79b1bce265fc2",
+      "LinkName": "52BBCD15EB3FF238",
+      "AssemblyDependencyIndices": [
+        3,
+        11,
+        1,
+        2,
+        5,
+        7,
+        6,
+        9,
+        18
+      ]
+    },
+    {
+      "FullName": "Unity.Entities.JobEntityBatchExtensions+JobEntityBatchProducer`1[[Unity.Physics.GraphicsIntegration.CopyPhysicsVelocityToSmoothing+CopyPhysicsVelocityJob, Unity.Physics, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], Unity.Entities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Entities.JobEntityBatchExtensions+JobEntityBatchWrapper`1[[Unity.Physics.GraphicsIntegration.CopyPhysicsVelocityToSmoothing+CopyPhysicsVelocityJob, Unity.Physics, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]&, Unity.Entities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 1809861571778145175,
+      "ModuleHash": "e64a3ea43fb71b41ba9c9f55c7166238",
+      "LinkName": "1939BDD592C63586",
+      "AssemblyDependencyIndices": [
+        3,
+        11,
+        1,
+        2,
+        5,
+        7,
+        6,
+        9
+      ]
+    },
+    {
+      "FullName": "Unity.Entities.JobEntityBatchExtensions+JobEntityBatchProducer`1[[Unity.Physics.GraphicsIntegration.SmoothRigidBodiesGraphicalMotion+SmoothMotionJob, Unity.Physics, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], Unity.Entities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Entities.JobEntityBatchExtensions+JobEntityBatchWrapper`1[[Unity.Physics.GraphicsIntegration.SmoothRigidBodiesGraphicalMotion+SmoothMotionJob, Unity.Physics, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]&, Unity.Entities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 1809861571778145175,
+      "ModuleHash": "3277870303a56408a2c69204856eb6ef",
+      "LinkName": "F0B6CD58147BCB9D",
+      "AssemblyDependencyIndices": [
+        3,
+        11,
+        1,
+        2,
+        5,
+        7,
+        6,
+        18,
+        9
+>>>>>>> parent of d440c42c (ECS Examples Working)
       ]
     },
     {
@@ -1860,6 +2018,7 @@
         6,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -1885,10 +2044,13 @@
         4,
         0,
         8,
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
         9
       ]
     },
     {
+<<<<<<< HEAD
       "FullName": "System.Void ew.BoidJobSystem/ew.<>c__DisplayClass_DrawGizmos_LambdaJob0::RunWithoutJobSystem(Unity.Entities.ArchetypeChunkIterator*,System.Void*)",
       "ModuleOptionsHash": 8794384452606821980,
       "ModuleHash": "1f70eb99de17f54f342e952cf441d398",
@@ -1965,6 +2127,8 @@
         0,
         8,
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
@@ -2054,6 +2218,9 @@
         6,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -2063,6 +2230,7 @@
       ]
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2086,6 +2254,8 @@
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
       "FullName": "Unity.Entities.JobEntityBatchExtensions+JobEntityBatchProducer`1[[Unity.Transforms.ParentScaleInverseSystem+ToChildParentScaleInverse, Unity.Transforms, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], Unity.Entities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Entities.JobEntityBatchExtensions+JobEntityBatchWrapper`1[[Unity.Transforms.ParentScaleInverseSystem+ToChildParentScaleInverse, Unity.Transforms, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]&, Unity.Entities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
       "ModuleOptionsHash": 1809861571778145175,
       "ModuleHash": "4e3dc94ca270e28a07ac3fc303ddcf5c",
@@ -2098,6 +2268,7 @@
         5,
         7,
         6,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -2179,6 +2350,12 @@
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
+=======
+        9
+      ]
+    },
+    {
+>>>>>>> parent of d440c42c (ECS Examples Working)
       "FullName": "Unity.Entities.JobEntityBatchExtensions+JobEntityBatchProducer`1[[Unity.Transforms.ParentSystem+GatherChangedParents, Unity.Transforms, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], Unity.Entities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Entities.JobEntityBatchExtensions+JobEntityBatchWrapper`1[[Unity.Transforms.ParentSystem+GatherChangedParents, Unity.Transforms, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]&, Unity.Entities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
       "ModuleOptionsHash": 1809861571778145175,
       "ModuleHash": "3812f8519272d92bf2d4b2e543df37a1",
@@ -2241,6 +2418,9 @@
         6,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -2250,6 +2430,7 @@
       ]
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2288,6 +2469,8 @@
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
       "FullName": "Unity.Entities.JobEntityBatchExtensions+JobEntityBatchProducer`1[[Unity.Transforms.TRSToLocalToWorldSystem+TRSToLocalToWorld, Unity.Transforms, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], Unity.Entities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Entities.JobEntityBatchExtensions+JobEntityBatchWrapper`1[[Unity.Transforms.TRSToLocalToWorldSystem+TRSToLocalToWorld, Unity.Transforms, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]&, Unity.Entities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
       "ModuleOptionsHash": 1809861571778145175,
       "ModuleHash": "7bb4938e08bae21114d435b7a79699da",
@@ -2318,6 +2501,9 @@
         6,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -2327,6 +2513,7 @@
       ]
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2342,6 +2529,8 @@
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
       "FullName": "Unity.Entities.JobEntityBatchIndexExtensions+JobEntityBatchIndexProducer`1[[Unity.Entities.DummyJobEntityBatchWithIndex, Unity.Entities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], Unity.Entities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Entities.JobEntityBatchIndexExtensions+JobEntityBatchIndexWrapper`1[[Unity.Entities.DummyJobEntityBatchWithIndex, Unity.Entities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]&, Unity.Entities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
       "ModuleOptionsHash": 1809861571778145175,
       "ModuleHash": "391b26a85629deb8bb2426c221465ba3",
@@ -2350,6 +2539,9 @@
         3,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -2359,6 +2551,7 @@
         2,
         5,
         6,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2379,6 +2572,8 @@
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
         9,
         7
       ]
@@ -2392,6 +2587,9 @@
         3,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -2401,6 +2599,7 @@
         2,
         5,
         6,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2421,6 +2620,8 @@
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
         9,
         7
       ]
@@ -2434,6 +2635,9 @@
         3,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -2443,6 +2647,7 @@
         2,
         5,
         6,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2464,6 +2669,8 @@
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
         9,
         7
       ]
@@ -2475,6 +2682,7 @@
       "LinkName": "B0BE573A8E9391A1",
       "AssemblyDependencyIndices": [
         3,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -2530,10 +2738,15 @@
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
         1,
         2,
         5,
         6,
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
         9,
         7
@@ -2572,6 +2785,9 @@
         9,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -2581,6 +2797,7 @@
       ]
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2627,6 +2844,8 @@
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
       "FullName": "Unity.Entities.JobEntityBatchIndexExtensions+JobEntityBatchIndexProducer`1[[Unity.Physics.Systems.BuildPhysicsWorld+Jobs+CreateJoints, Unity.Physics, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], Unity.Entities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Entities.JobEntityBatchIndexExtensions+JobEntityBatchIndexWrapper`1[[Unity.Physics.Systems.BuildPhysicsWorld+Jobs+CreateJoints, Unity.Physics, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]&, Unity.Entities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
       "ModuleOptionsHash": 1809861571778145175,
       "ModuleHash": "d353b151f46d08a9086b51fd8551675c",
@@ -2667,6 +2886,7 @@
       "AssemblyDependencyIndices": [
         3,
         19,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -2710,6 +2930,12 @@
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
+=======
+        1,
+        2,
+        5,
+        6,
+>>>>>>> parent of d440c42c (ECS Examples Working)
         7,
         9,
         0,
@@ -2732,6 +2958,7 @@
         6,
         9,
         7
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -2920,6 +3147,8 @@
         6,
         11,
         7
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
       ]

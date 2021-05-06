@@ -7,7 +7,11 @@ m_ProjectFiles:
     m_ModificationDate:
       serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       ticks: 637559067720000000
+=======
+      ticks: 637557155170000000
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
       ticks: 637557155170000000
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -20,7 +24,11 @@ m_ProjectFiles:
     m_ModificationDate:
       serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       ticks: 637559070940000000
+=======
+      ticks: 637557155180000000
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
       ticks: 637557155180000000
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -177,7 +185,11 @@ m_PackageAssets:
       version: 1.5.3
       source: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
       resolvedPath: /Users/jamiemccarthy/Documents/Unity Stuff/GameEngins2/GameEngines2Project/Space
+=======
+      resolvedPath: /Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
       resolvedPath: /Users/jamiemccarthy/Documents/Unity Stuff/GameEngines2/Space
 >>>>>>> parent of d440c42c (ECS Examples Working)

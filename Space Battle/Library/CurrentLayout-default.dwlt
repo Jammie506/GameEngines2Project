@@ -20,9 +20,15 @@ MonoBehaviour:
     height: 715
   m_ShowMode: 4
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Title: 
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
+=======
+  m_Title: Hierarchy
+  m_RootView: {fileID: 4}
+  m_MinSize: {x: 875, y: 592}
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
   m_Title: Hierarchy
   m_RootView: {fileID: 4}
@@ -277,6 +283,9 @@ MonoBehaviour:
 =======
     width: 234
     height: 764
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
@@ -296,7 +305,11 @@ MonoBehaviour:
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Name: ProjectBrowser
+=======
+  m_Name: SceneView
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
   m_Name: SceneView
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -320,6 +333,9 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 17}
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   m_Panes:
   - {fileID: 12}
@@ -350,6 +366,9 @@ MonoBehaviour:
 =======
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: ProjectBrowser
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   m_EditorClassIdentifier: 
   m_Children:
@@ -360,6 +379,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 0
     width: 1206
     height: 715
@@ -367,6 +387,8 @@ MonoBehaviour:
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
     y: 764
     width: 1468
     height: 306
@@ -841,6 +863,9 @@ MonoBehaviour:
     y: 794
     width: 1467
     height: 285
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
@@ -857,7 +882,11 @@ MonoBehaviour:
     m_SearchArea: 1
     m_Folders:
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Assets
+=======
+    - Assets/Prefabs
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
     - Assets/Prefabs
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -866,7 +895,11 @@ MonoBehaviour:
   m_StartGridSize: 64
   m_LastFolders:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - Assets
+=======
+  - Assets/Prefabs
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
   - Assets/Prefabs
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -877,9 +910,15 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedIDs: f4350000
     m_LastClickedID: 13812
     m_ExpandedIDs: 00000000f435000000ca9a3b
+=======
+    m_SelectedIDs: a8600000
+    m_LastClickedID: 24744
+    m_ExpandedIDs: 00000000586000005a600000
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
     m_SelectedIDs: a8600000
     m_LastClickedID: 24744
@@ -913,7 +952,11 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000f4350000
+=======
+    m_ExpandedIDs: 00000000586000005a600000
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
     m_ExpandedIDs: 00000000586000005a600000
 >>>>>>> parent of d440c42c (ECS Examples Working)
@@ -945,8 +988,11 @@ MonoBehaviour:
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedInstanceIDs: c6230000
 =======
+=======
+>>>>>>> parent of d440c42c (ECS Examples Working)
     m_ExpandedInstanceIDs: c6230000000000006e3f00004456000058560000
 >>>>>>> parent of d440c42c (ECS Examples Working)
     m_RenameOverlay:
@@ -1011,6 +1057,9 @@ MonoBehaviour:
     y: 793.5
     width: 1467
     height: 285.5
+<<<<<<< HEAD
+>>>>>>> parent of d440c42c (ECS Examples Working)
+=======
 >>>>>>> parent of d440c42c (ECS Examples Working)
   m_ViewDataDictionary: {fileID: 0}
   m_ObjectsLockedBeforeSerialization: []

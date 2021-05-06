@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":false,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":-2.647829532623291,"y":2.453097343444824,"z":-0.6176624298095703},"rotation":{"x":-0.0024567011278122665,"y":0.9958034753799439,"z":-0.09068561345338822,"w":-0.02107222005724907},"size":13.41370677947998,"orthographic":false}
 =======
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":false,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":-38.650325775146487,"y":62.34367752075195,"z":92.72028350830078},"rotation":{"x":-0.04667578637599945,"y":0.9403815865516663,"z":0.3069726824760437,"w":0.13986220955848695},"size":0.8660253882408142,"orthographic":false}
@@ -12,6 +13,9 @@
 =======
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":false,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":-0.6726654767990112,"y":1.7423253059387208,"z":-0.48650169372558596},"rotation":{"x":0.0011727550299838186,"y":0.9945776462554932,"z":-0.10414960980415344,"w":0.01626172661781311},"size":10.0,"orthographic":false}
 >>>>>>> parent of 9cc36797 (.)
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":false,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":-38.650325775146487,"y":62.34367752075195,"z":92.72028350830078},"rotation":{"x":-0.04667578637599945,"y":0.9403815865516663,"z":0.3069726824760437,"w":0.13986220955848695},"size":0.8660253882408142,"orthographic":false}
+>>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":false,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":-38.650325775146487,"y":62.34367752075195,"z":92.72028350830078},"rotation":{"x":-0.04667578637599945,"y":0.9403815865516663,"z":0.3069726824760437,"w":0.13986220955848695},"size":0.8660253882408142,"orthographic":false}
 >>>>>>> parent of d440c42c (ECS Examples Working)
