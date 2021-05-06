@@ -1,6 +1,7 @@
 Base path: '/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents', plugins path '/Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/PlaybackEngines'
 Cmd: initializeCompiler
 <<<<<<< HEAD
+<<<<<<< HEAD
 Unhandled exception: Read from shader compiler process failed: error -2147483644, 0/4 bytes read
 
 Quitting shader compiler process
@@ -14,3 +15,8 @@ ABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUB
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of 9cc36797 (.)
+=======
+Unhandled exception: Read from shader compiler process failed: error -2147483644, 0/4 bytes read
+
+Quitting shader compiler process
+>>>>>>> parent of 46afe0df (Update)
