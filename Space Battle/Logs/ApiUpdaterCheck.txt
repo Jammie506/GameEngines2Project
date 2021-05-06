@@ -670,3 +670,23 @@ console write time    : 0ms
 >>>>>>> parent of d440c42c (ECS Examples Working)
 =======
 >>>>>>> parent of d440c42c (ECS Examples Working)
+[api-updater (non-obsolete-error-filter)] 06/05/2021 15:49:48 : Starting /Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 65.955ms
+moved types parse time: 53ms
+candidates parse time : 2ms
+C# parse time         : 277ms
+candidates check time : 378ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 06/05/2021 15:50:13 : Starting /Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 72.955ms
+moved types parse time: 37ms
+candidates parse time : 0ms
+C# parse time         : 258ms
+candidates check time : 78ms
+console write time    : 0ms
+

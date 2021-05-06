@@ -134,6 +134,7 @@ GameObject:
   - component: {fileID: 47231209}
   - component: {fileID: 47231208}
   - component: {fileID: 47231210}
+  - component: {fileID: 47231211}
   m_Layer: 0
   m_Name: Spawner
   m_TagString: Untagged
@@ -183,40 +184,16 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 47231207}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c2dd9c57123314f55a908d0f64dc375c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Prefab: {fileID: 5998812232396126063, guid: e0c73633e8ace45d499219403076e933, type: 3}
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  maxSize: 100
-  shipCount: 50
-  constrainTranslation: {x: 0, y: 0, z: 0}
-  baseConstrainWeight: 1
-  constrainWeight: 1
-  totalNeighbours: 50
-  limitUpAndDown: 0.5
-  seperationWeight: 1
-  cohesionWeight: 2
-  neighbourDistance: 20
-  seekWeight: 0
-  fleeWeight: 1
-  fleeDistance: 50
-  mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
-  material: {fileID: -382652638819485698, guid: f46cbda16939d4b1db7bdbd0aa225348, type: 3}
-  maxBoidsPerFrame: 500
-  size: 3
-=======
   maxX: 100
   maxY: 100
   maxZ: 100
   shipCount: 100
->>>>>>> parent of 9cc36797 (.)
 --- !u!114 &47231211
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -229,7 +206,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e58382a3feedd24394c1a54908e5390, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Prefab: {fileID: 5998812232396126063, guid: e0c73633e8ace45d499219403076e933, type: 3}
+  mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+  material: {fileID: 2100000, guid: b8a4f5c47e7c2ab4c91d9ee24d9a4214, type: 2}
   seperationWeight: 1
   cohesionWeight: 2
   alignmentWeight: 1
@@ -250,7 +228,7 @@ MonoBehaviour:
   maxBoidsPerFrame: 500
   seekWeight: 0
   constrainTranslation: {x: 0, y: 0, z: 0}
-  numBoids: 100
+  numBoids: 2000
   radius: 2000
   neighbourDistance: 20
   speed: 1
@@ -259,24 +237,10 @@ MonoBehaviour:
   cellSize: 50
   gridSize: 10000
   usePartitioning: 1
+  colorSpeed: 100
+  colorAdd: 0
   toPass: 0.3
   clickCount: 0
-=======
-  CountX: 50
-  CountY: 50
->>>>>>> parent of d440c42c (ECS Examples Working)
-=======
-  CountX: 50
-  CountY: 50
->>>>>>> parent of d440c42c (ECS Examples Working)
-=======
-  CountX: 50
-  CountY: 50
->>>>>>> parent of d440c42c (ECS Examples Working)
-=======
-  CountX: 50
-  CountY: 50
->>>>>>> parent of d440c42c (ECS Examples Working)
 --- !u!1 &60908347
 GameObject:
   m_ObjectHideFlags: 0
