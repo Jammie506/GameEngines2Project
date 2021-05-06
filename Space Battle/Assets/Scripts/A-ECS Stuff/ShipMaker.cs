@@ -46,9 +46,24 @@ public class ShipMaker : MonoBehaviour
     
     public Coroutine cr;
     
+    public void OnDestroy()
+    {
+        Debug.Log("OnDestroy BoidBootstrap");
+
+        if (World.DefaultGameObjectInjectionWorld != null && World.DefaultGameObjectInjectionWorld.IsCreated)
+        {
+            Debug.Log("Destroying the entities");
+            entityManager.DestroyEntity(allTheShips);
+            BoidJobSystem.Instance.Enabled = false;
+            SpineSystem.Instance.Enabled = false;
+            HeadsAndTailsSystem.Instance.Enabled = false;
+        }    
+        allTheShips.Dispose();
+    }
+    
     Entity CreateShip (Vector3 pos, Quaternion q, int boidId, float size)
     {
-        var settings = GameObjectConversionSettings.FromWorld(World.DefaultGameObjectInjectionWorld, null);
+        var settings = GameObjectConversionSettings.FromWorld(World.DefaultGameObjectInjectionWorld,  new BlobAssetStore());
         var prefab = GameObjectConversionUtility.ConvertGameObjectHierarchy(Prefab, settings);
         entityManager = World.DefaultGameObjectInjectionWorld.EntityManager;
         
@@ -89,6 +104,8 @@ public class ShipMaker : MonoBehaviour
         entityManager.SetComponentData(prefab, new Spine() { parent = -1, spineId = boidId });
 
         entityManager.SetComponentData(prefab, new ObstacleAvoidance() {forwardFeelerDepth = 50, forceType = ObstacleAvoidance.ForceType.normal });
+        
+        return prefab;
     }
     
     void Start()
