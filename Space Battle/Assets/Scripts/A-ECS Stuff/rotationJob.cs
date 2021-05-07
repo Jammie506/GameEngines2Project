@@ -14,8 +14,8 @@ public partial class rotationJob : SystemBase
     {
         float deltaTime = Time.DeltaTime;
         float mult = Random.Range(0, 5);
-        float mult2 = Random.Range(0, 5);
-        float mult3 = Random.Range(0, 5);
+        float mult2 = Random.Range(0, 3);
+        float mult3 = Random.Range(0, 1.6f);
 
         // Schedule job to rotate around up vector
         Entities
