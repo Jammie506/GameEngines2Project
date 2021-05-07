@@ -29,7 +29,6 @@ public class Spawner : MonoBehaviour
 
             // Place the instantiated entity in a grid with some noise
             var position = new Vector3(Random.Range(-maxX, maxX), Random.Range(-maxY, maxY), Random.Range(-maxZ, maxZ));
-            var rotation = new Quaternion(Random.Range(0, 360), Random.Range(0, 360), Random.Range(0, 360), -1);
             entityManager.SetComponentData(instance, new Translation {Value = position});
         }
     }
