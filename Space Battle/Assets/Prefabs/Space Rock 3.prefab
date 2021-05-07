@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8950898459585175856}
+  - component: {fileID: 5199181850404950118}
   m_Layer: 6
   m_Name: Space Rock 3
   m_TagString: Untagged
@@ -32,6 +33,21 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5199181850404950118
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3964740494045696663}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32aea77af70c418c9f7eda91c3606f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  RadiansPerSecondUp: 1
+  RadiansPerSecondForward: 1
+  RadiansPerSecondRight: 1
 --- !u!1001 &3120469089041745242
 PrefabInstance:
   m_ObjectHideFlags: 0

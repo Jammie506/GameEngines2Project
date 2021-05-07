@@ -133,6 +133,8 @@ GameObject:
   m_Component:
   - component: {fileID: 47231209}
   - component: {fileID: 47231208}
+  - component: {fileID: 47231210}
+  - component: {fileID: 47231211}
   m_Layer: 0
   m_Name: Spawner
   m_TagString: Untagged
@@ -156,7 +158,7 @@ MonoBehaviour:
   maxX: 100
   maxY: 100
   maxZ: 100
-  shipCount: 200
+  rockCount: 100
 --- !u!4 &47231209
 Transform:
   m_ObjectHideFlags: 0
@@ -171,6 +173,40 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &47231210
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 47231207}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ac44c67493ca47a0960fc58f4bb29b2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 2674607831213264757, guid: c6c1ef776914c4c11984f4c652b86acf, type: 3}
+  maxX: 100
+  maxY: 100
+  maxZ: 100
+  rockCount: 100
+--- !u!114 &47231211
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 47231207}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f015d7ef371d4bb18f867e690cea3f3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 3964740494045696663, guid: 919b6e09f37cc4c5883d3b361c704ab9, type: 3}
+  maxX: 100
+  maxY: 100
+  maxZ: 100
+  rockCount: 50
 --- !u!1 &60908347
 GameObject:
   m_ObjectHideFlags: 0

@@ -12,7 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a32aea77af70c418c9f7eda91c3606f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RadiansPerSecond: 1
+  RadiansPerSecondUp: 1
+  RadiansPerSecondForward: 1
+  RadiansPerSecondRight: 1
 --- !u!1001 &5313162901178871289
 PrefabInstance:
   m_ObjectHideFlags: 0

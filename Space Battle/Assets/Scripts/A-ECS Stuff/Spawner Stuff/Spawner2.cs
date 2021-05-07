@@ -5,7 +5,7 @@ using UnityEngine;
 using Random = UnityEngine.Random;
 
 [AddComponentMenu("DOTS Samples/SpawnFromMonoBehaviour/Spawner")]
-public class Spawner : MonoBehaviour
+public class Spawner2 : MonoBehaviour
 {
     public GameObject Prefab;
     
@@ -13,7 +13,7 @@ public class Spawner : MonoBehaviour
     [SerializeField] private float maxY;
     [SerializeField] private float maxZ;
 
-    [SerializeField] private float shipCount;
+    [SerializeField] private float rockCount;
 
     void Start()
     {
@@ -22,7 +22,7 @@ public class Spawner : MonoBehaviour
         var prefab = GameObjectConversionUtility.ConvertGameObjectHierarchy(Prefab, settings);
         var entityManager = World.DefaultGameObjectInjectionWorld.EntityManager;
 
-        for (var y = 0; y < shipCount; y++)
+        for (var y = 0; y < rockCount; y++)
         {
             // Efficiently instantiate a bunch of entities from the already converted entity prefab
             var instance = entityManager.Instantiate(prefab);

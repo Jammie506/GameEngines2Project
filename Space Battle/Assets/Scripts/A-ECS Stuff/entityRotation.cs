@@ -5,5 +5,7 @@ using Unity.Entities;
 [GenerateAuthoringComponent]
 public struct entityRotation : IComponentData
 {
-    public float RadiansPerSecond;
+    public float RadiansPerSecondUp;
+    public float RadiansPerSecondForward;
+    public float RadiansPerSecondRight;
 }
