@@ -840,3 +840,23 @@ C# parse time         : 193ms
 candidates check time : 69ms
 console write time    : 0ms
 
+[api-updater (non-obsolete-error-filter)] 08/05/2021 16:08:07 : Starting /Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 45.924ms
+moved types parse time: 36ms
+candidates parse time : 1ms
+C# parse time         : 194ms
+candidates check time : 77ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 08/05/2021 16:10:57 : Starting /Users/jamiemccarthy/Documents/Unity Stuff/2020.2.4f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 62.499ms
+moved types parse time: 36ms
+candidates parse time : 1ms
+C# parse time         : 194ms
+candidates check time : 70ms
+console write time    : 0ms
+
