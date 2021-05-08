@@ -52,8 +52,8 @@ MonoBehaviour:
   mass: 1
   damping: 0.01
   banking: 0.1
-  maxSpeed: 50
-  maxForce: 50
+  maxSpeed: 200
+  maxForce: 200
 --- !u!114 &615707436670894178
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -94,13 +94,10 @@ MonoBehaviour:
   weight: 1
   force: {x: 0, y: 0, z: 0}
   ShipMain: {fileID: 0}
-  distance: 20
-  radius: 10
   jitter: 10
   target: {x: 50, y: 50, z: 50}
   worldTarget: {x: 0, y: 0, z: 0}
-  centre: {x: 0, y: 0, z: 0}
-  wideness: 10000
+  wideness: 500
 --- !u!64 &2652345838102333476
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -247,9 +244,21 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -2736128657486694098, guid: f46cbda16939d4b1db7bdbd0aa225348, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: -2487641709031225793, guid: f46cbda16939d4b1db7bdbd0aa225348, type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -811965846230373226, guid: f46cbda16939d4b1db7bdbd0aa225348, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 190953871951064470, guid: f46cbda16939d4b1db7bdbd0aa225348, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f46cbda16939d4b1db7bdbd0aa225348, type: 3}
       propertyPath: m_Name
@@ -265,7 +274,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4229480410510244091, guid: f46cbda16939d4b1db7bdbd0aa225348, type: 3}
       propertyPath: m_Enabled
-      value: 1
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6669241191112067183, guid: f46cbda16939d4b1db7bdbd0aa225348, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f46cbda16939d4b1db7bdbd0aa225348, type: 3}

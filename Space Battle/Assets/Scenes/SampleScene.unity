@@ -619,7 +619,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b432affc1b6b4dc095ee24655754a90, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Xwing: {fileID: 4933331436071248403, guid: 363cdaa1fa88d4a138a028c5184e6de9, type: 3}
+  Xwing: {fileID: 256323905897381235, guid: cde6b84323ccf4391bccc16caf196d1e, type: 3}
   ShipCount: 1000
   maxX: 1000
   maxY: 1000

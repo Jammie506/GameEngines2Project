@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -5,7 +6,7 @@ using UnityEngine;
 public class ShipPursue : MainBrain
 {
     public ShipMain target;
-
+    
     Vector3 targetPos;
 
     public void OnDrawGizmos()
