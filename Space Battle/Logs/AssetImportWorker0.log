@@ -38364,3 +38364,20 @@ Received Import Request.
 Start importing Assets/Mesh Stuff/MeshCombineWizard-master/README.md using Guid(223ef473c6e334a38a8090f3bd0d7a8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '500b3fc61ef53637af9422c6f8e05802') in 1.388566 seconds
   Import took 1.394420 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 37.251295 seconds.
+  path: Assets/Mesh Stuff/MeshCombineWizard-master/MeshCombineWizard.cs
+  artifactKey: Guid(814f8c95415e64c188e38fb2a8ee0095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh Stuff/MeshCombineWizard-master/MeshCombineWizard.cs using Guid(814f8c95415e64c188e38fb2a8ee0095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19b8a21b533c1c58da48bdfb1d97dd4c') in 0.007074 seconds
+  Import took 0.012887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.256200 seconds.
+  path: Assets/Mesh Stuff/MeshCombineWizard-master/License.txt
+  artifactKey: Guid(33961c28c7fc148ab939899c578800c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh Stuff/MeshCombineWizard-master/License.txt using Guid(33961c28c7fc148ab939899c578800c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b123cda86007562b7f6b855d6ba94b6f') in 3.458018 seconds
+  Import took 3.463336 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

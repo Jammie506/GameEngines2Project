@@ -621,9 +621,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Xwing: {fileID: 4933331436071248403, guid: 363cdaa1fa88d4a138a028c5184e6de9, type: 3}
   ShipCount: 1000
-  maxX: 100
-  maxY: 100
-  maxZ: 100
+  maxX: 1000
+  maxY: 1000
+  maxZ: 1000
 --- !u!4 &1116889140
 Transform:
   m_ObjectHideFlags: 0
@@ -928,7 +928,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1907105597
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -942,10 +942,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Xwing: {fileID: 2652345838378187111, guid: 64858a0af3e7b4464998dcad882b446e, type: 3}
-  ShipCount: 100
-  maxX: 100
-  maxY: 100
-  maxZ: 100
+  ShipCount: 1000
+  maxX: 1000
+  maxY: 1000
+  maxZ: 1000
 --- !u!4 &1907105598
 Transform:
   m_ObjectHideFlags: 0
