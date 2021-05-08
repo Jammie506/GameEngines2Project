@@ -2293,11 +2293,10 @@ MonoBehaviour:
   weight: 1
   force: {x: 0, y: 0, z: 0}
   ShipMain: {fileID: 0}
-  distance: 20
-  radius: 10
-  jitter: 100
-  target: {x: 0, y: 0, z: 0}
+  jitter: 10
+  target: {x: 50, y: 50, z: 50}
   worldTarget: {x: 0, y: 0, z: 0}
+  wideness: 10000
 --- !u!1 &4963558352555729647
 GameObject:
   m_ObjectHideFlags: 0
@@ -2971,7 +2970,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &3893991185252471891
 Transform:
   m_ObjectHideFlags: 0

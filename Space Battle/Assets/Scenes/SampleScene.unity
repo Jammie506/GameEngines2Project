@@ -620,7 +620,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Xwing: {fileID: 4933331436071248403, guid: 363cdaa1fa88d4a138a028c5184e6de9, type: 3}
-  ShipCount: 100
+  ShipCount: 1000
   maxX: 100
   maxY: 100
   maxZ: 100
@@ -928,7 +928,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1907105597
 MonoBehaviour:
   m_ObjectHideFlags: 0

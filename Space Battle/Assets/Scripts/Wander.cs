@@ -1,17 +1,19 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Random = UnityEngine.Random;
 
 public class Wander : MainBrain
 {
-    public float distance = 20;
-    public float radius = 10;
     public float jitter = 100;
 
     public Vector3 target;
     public Vector3 worldTarget;
 
-    public void OnDrawGizmos()
+    public float wideness;
+
+    /*public void OnDrawGizmos()
     {
         if (isActiveAndEnabled && Application.isPlaying)
         {
@@ -22,7 +24,7 @@ public class Wander : MainBrain
             Gizmos.DrawSphere(worldTarget, 0.1f);
             Gizmos.DrawLine(transform.position, worldTarget);
         }
-    }
+    }*/
 
 
     public override Vector3 Calculate()
@@ -30,13 +32,13 @@ public class Wander : MainBrain
         Vector3 disp = jitter * Random.insideUnitSphere * Time.deltaTime;
         target += disp;
 
-        target = Vector3.ClampMagnitude(target, radius);
+        target = Vector3.ClampMagnitude(target, wideness);
 
-        Vector3 localTarget = (Vector3.forward * distance) + target;
+        Vector3 localTarget = (target * wideness);
 
         worldTarget = transform.TransformPoint(localTarget);
-        worldTarget.y = 0;
-
+        worldTarget.y = Random.Range(0, wideness);
+        
         return worldTarget - transform.position;
     }
 }
