@@ -3,4 +3,4 @@ Game Engines project illustrating pathfinding behaviours
 
 Project Video :
 
-https://youtube.com/embed/<v=s48AYFFzlAI>
+https://youtube.com/embed/watch?v=s48AYFFzlAI
